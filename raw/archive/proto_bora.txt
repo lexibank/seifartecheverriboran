@@ -1,0 +1,415 @@
+1.	PBoM *nehe TONGUE †‡ | Bo nɨ́ɨ́hɨ-kʷa ‘lick-cl:plank’; Mu néhe-ba [APBM *(mé)- ʔnɨ́xɨ-()]
+2.	PBoM *i-hɨ MOUTH †‡ | Bo íʔ-hʲɯɯ́ ‘3.sg-cl:tube’; Mu íi-hɨ [APBM *íiʔ-xɯ {?-mouth}]
+3.	PBoM *hɨni-ba LIP | Bo ɯ́ni-pa ‘spit-cl’; Mu hɨ́niba [APBM *(mé)-xɯ́-niba {mouth-?}]
+4.	PBoM *iʔgai TOOTH †‡ | Bo íʔkʷáhɨɨ́ ‘3-?cl:plank?’; Mu íígai [APBM *ííʔ-gáí-neé {tooth-finger-?,23}, *(mé)-ííʔgá(xɨɨ́)]
+5.	PBoM *tɨhɨ-ʔu NOSE †‡ | Bo tʰɯ́-hɯ-ʔo ‘smell-?cl:tube?-cl:oblong’; Mu tɨ́hɨ-ʔu [APBM *tɯ́xɯ-ʔ(exɯ)]
+6.	PBoM *aʤɨ-ɨ EYE †‡ | Bo ʔáʧɯ-ɯ ‘above-cl:round’; Mu ááʤɨ-ɨ [APBM *(me)-ʔááǰɯɯ]
+7.	PBoM *nɨ()-meeʔu EAR †‡ | Bo nɯ́ɯ́-mɨʔo ‘hear?-cl:skin’; Mu nɨ́-hɨ-meeʔu ‘hear?-?-cl:tube?-cl:skin’ [APBM *nɯ́xɯ-mɨɨʔo]
+8.	PBoM *niga-ɨ HEAD † | Bo nííkʷa-ɯ ‘head-cl:round’; Mu níga-ɨ [APBM *nígaɯ]
+9.	PBoM *ɨme-ku FOREHEAD | Bo ʔɯ́mɨ-kʰo ‘face-cl’; Mu ɨ́me-ku [APBM *ɯ́mɨko]
+10.	PBoM *-hee- HAIR †‡ | Bo ɨʔ-hɨne ‘3.sg-hair-pl’; Mu nígaɨ-hee-ne ‘head-hair-pl’ (see 243,270,316) [APBM *nígaɯ-xɨɨne {head-hair, 8,243}, *nígaɯ-(ko)]
+12.	PBoM *hɨkk() BEARD | Bo ɯ́hkʰaʔe; Mu hɨ́kkoʔai [APBM *xɯ́kk(e) ʔ(ai)]
+14.	PBoM *ppeeɨ-he CHEST | Bo hpʰɨ́ɯ-hɨ ‘?-cl:flat’; Mu ɸéejɨ-he [APBM *(mé)-ppɨ́ɨɯ-xɨ {chest-flat,61}, *(xɨ́ɨbɯɯga, kɯ́ɯdɯɯ) mɨ́ɨ(kko)ʔo, (…)]
+15.	PBoM *mɨppaino WOMAN’S BREAST †‡ | Bo mɯhpʰáɲe; Mu mɨ́ɸaɲo [APBM *(mé)-mɯ́ppaine]
+16.	PBoM *iiʔba ABDOMEN | Bo íʔpá-ɯ ‘belly-cl:round’; Mu ííba (Note =244,245,272) [APBM *(áá)-mɨ́ɨʔo {14}, *(mé)-íiʔbá(ɯ) {244,245,272}]
+18.	PBoM *hɨhe-ba SHOULDER | Bo ɯ́hɨ-pa ‘?-cl’; Mu hɨ́he-baɨ [APBM *(mé)-xɯ́xɨ-ba(ɯ)]
+19.	PBoM *nokkɨ-gai ARM ‡ | Bo néhhɯ-kʷa ‘side-cl:plank’; Mu nókkɨ-gai [APBM *(mé)-nékkɯ-gai]
+21.	PBoM *()o()i ELBOW | Bo némi-ɯ ‘?-cl:round’; Mu méni-ku ‘?-cl:pointed’ [APBM (méniko), (me-némiɯ)]
+22.	PBoM *ʔutʦe HAND † | Bo ʔóhʦʰɨɨ́; Mu úse [APBM *(mé)-ʔótʦɨɨ́]
+23.	PBoM *ʔutʦe-gai FINGER | Bo ʔóhʦʰɨ-kʷa ‘hand-cl:plank’; Mu úse-gai [APBM *(mé)-ʔótʦɨ-gai {hand-finger,4,(11?),19,24,30,50,87}]
+24.	PBoM *ʔutʦe-gai-meeʔu FINGERNAIL | Bo ʔóhʦʰɨ-kʷa-mɨ́ɨ́ʔo ‘hand-cl:plank-cl:skin’; Mu úse-gai-méeʔu [APBM *(mé)- ʔótʦɨ-gai-mɨ́ɨʔo]
+27.	PBoM *memu KNEE †‡ | Bo mɨ́mo-kʰo ‘knee-cl:pointed’; Mu mému-ba ‘knee-cl’ [APBM *(mé)-mɨ́mo-()]
+29.	PBoM *ttɨʔaai FOOT † | Bo htʰɯ́-ʔaá; Mu tɨ́-ʔai [APBM *(mé)-ttɯ́-ʔaáí]
+30.	PBoM *ttɨ-gaai TOE | Bo htʰɯ́-kʷaá ‘foot-cl:plank’; Mu tɨ́-gai [APBM *(mé)-ttɯ́-gaái {foot-finger,23}]
+31.	PBoM *meeʔo SKIN †‡ | Bo mɨ́ɨ́ʔeé; Mu méeʔe [APBM *(iáábe) (mé)-ʔmɨ́ɨʔe(é)]
+32.	PBoM *bakkɨ BONE †‡ | Bo páhkʰɯɯ́; Mu bákkɨ [APBM *bákkɯɯ́]
+33.	PBoM *tɨɨ BLOOD †‡ | Bo tʰɯ́-hpʰakʰʲo ‘red-cl:liquid; Mu tɨ́ɨ́-hóʔo ‘red-cl?’ [APBM *tɯ́ɯ́-(xéʔe), *tɯ́ɯ́-(ppaiko)]
+34.	PBoM *heebɨ-ɨ HEART † | Bo ɨ́ɨ́pɯ-ɯ ‘interior-cl:round’; Mu héebɨ-ɨ [APBM *(kɯ́ɯdɯɯ), *(mé)-xɨ́ɨbɯɯ]
+35.	PBoM *βaβa-ga LUNGS | Bo βaʔβá-kʷa ‘?-cl:plank’; Mu βáaβa-ga [APBM *βááʔβága, (xɯ́-giʦɯ-ba), (maráʔ-ba), (marááʔ-o)]
+38.	PBoM *m()a-mɨnaa-ppi MAN † | Bo mɨ́a-mɯ́náa-hpʰi ‘real-people-masc.sg’; Mu míjá-mɨnaa-ɸi [APBM *gai-ppi, *mɨ́ámɯ́náa-ppi {41}]
+39.	PBoM *gai-ppi MAN | Bo kʷa-hpʰi ‘?-masc.sg’; Mu gáí-ɸi [APBM *gai-ppi, *ʦaa-ppi {one-male}]
+40.	PBoM *gai-go WOMAN † | Bo kʷa-ʧe ‘?-fem.sg’; Mu gáí-go [APBM *gai-ge, (mɨ́ámɯ́ná-ge) {41}]
+41.	PBoM *mia-mɨnaa PEOPLE | Bo mɨ́a-mɯ́naa ‘real-people’; Mu míjá-mɨnaa [APBM *mɨ́amɯ́naa {38,40}]
+42.	PBoM *tahe HUSBAND | Bo tʰahɨ; Mu táhe [APBM *taxɨ, *áí-táxɨɨ́ {my-husband}, *áíxɯɯ́]
+43.	PBoM *taaba WIFE | Bo tʰaápa; Mu táaba [APBM *taába, *ái-táabaá {my wife}, (mega)]
+44.	PBoM *giʔiru, kaani FATHER | Bo ʧiʔíjo, kʰaani; Mu gíʔírubi, kááni [APBM *giʔí-ro(bi), (kááni)]
+45.	PBoM *gaʔa-ro, *ʦeehɨ MOTHER | Bo kʷaʔáro, ʦʰɨ́ɨ́hɯ; Mu gáʔárubi, sééhɨ [APBM *gaʔá-ro(bi)]
+46.	PBoM *ʦeemono BABY, INFANT | Bo ʦʰɨ́ɨ́mene; Mu séemene [APBM *ʦɨ́ɨmene {327}]
+47.	PBoM *amia OLD MAN | Bo amíaa-be ‘elder-masc.sg’; Mu ámijaa-bo [APBM (ámia-te), (kíǰaʔote), (keéme) {246,347}]
+48.	PBoM *nɨ-ppai()u WATER †‡ | Bo nɯ́-hpʰakʰʲo ‘water-cl:liquid’; Mu nɨ́-ɸáíʔu [APBM *nɯ́-ppaiko {water-liquid}]
+49.	PBoM *too-ʔi, *muuai RIVER | Bo tʰeé-ʔi ‘river-cl’, moóa; Mu téé-ʔi, múúai (Note: see 71,250,311,379) [APBM *moóai {311}, *teé-ʔi {river-line,250,71}]
+52.	PBoM *kaaha SWAMP | Bo kʰááhá-nepa; Mu íɸá-káaha [APBM *(ipá)-káa-xa-(neba), *káa-(mɨ)]
+56.	PBoM *kɨɨhɨ-gai FIRE †‡ | Bo kʰɯ́ɯ́hɯ-kʷa ‘fire?-cl’; Mu kɨ́ɨhɨ-gai [APBM *kɯ́ɯ́xɯ-gai, (koʦííbai)]
+57.	PBoM *bai-giihɨ ASH †‡ | Bo pá-ʧiíhʲɯ ‘?-powder’; Mu bai-gííhɨ (Note: see 372) [APBM *báí-giíxɯ {?-powder,372}]
+58.	PBoM *kɨɨhɨgai- CHARCOAL | Bo kʰɯ́ɯ́hɯ́kʷa-jɯ ‘fire-cl:round’; Mu kɨ́ɨ́hɨgai-kku ‘fire-cl:pointed’ (Note = 56) [APBM *kɯ́ɯ́xɯ́-gai-(kko) {56}]
+60.	PBoM *kuu FIREWOOD | Bo kʰoo; Mu kúúhoʔo [APBM *koó-]
+61.	PBoM *nikko-he SKY | Bo níhkʰʲe-hɨ ‘sky-cl:disc’; Mu níkke-he [APBM *níkke-xɨ {sky-flat,14} (íéβeʔóóga)]
+62.	PBoM *niiha-ba RAIN †‡ | Bo nííhʲa-pa ‘rain-cl’; Mu nííha-ba [APBM *nííxa-ba {water-?,48}]
+64.	PBoM *nɨʔba SUN † | Bo nɯʔpa; Mu nɨ́ʔɨba (Note =65) [APBM *kóoxɨ́-e(ppi) nɯʔɯ-ba {day-? sun-?, 67,65}]
+65.	PBoM *nɨʔba MOON † | Bo nɯʔpa; Mu nɨ́ʔɨba (Note =64) [APBM *pékkó-e(ppi) nɯʔɯ-ba {night-? sun-?, 68,64}]
+66.	PBoM *meekɨrɨ-gai STAR †‡ | Bo mɨ́ɨ́kʰɯ́rɯ-kʷa ‘star-cl:plank’; Mu méékɨrɨ-gai [APBM *mɨ́ɨ́kɯ́rɯ-gai]
+67.	PBoM *kuuhe DAY | Bo kʰóóhɨɨ́ ‘today’; Mu kúuhe ‘today’ [APBM *kóoxɨɨ́]
+68.	PBoM *pokku NIGHT †‡ | Bo pʰehkʰo; Mu ɸúkku [APBM *pekko]
+69.	PBoM *ʦiʦʦi THUNDER | Bo ʧʰihʧʰi; Mu sísi [APBM *()ʦitʦi, (daʔnáʔo)]
+71.	PBoM *tɨɨ-ʔi RAINBOW | Bo tʰɯɯ́-ʔi ‘red-cl:line’; Mu tɨ́ɨ-ʔi [APBM *tɯɯ́-ʔi {red-line,294,49,250}]
+72.	PBoM *hiinɨ-he EARTH † | Bo ííɲɯhɨ ‘earth-cl:flat’; Mu híínɨ-he [APBM *xíínɯ-xɨ]
+74.	PBoM *n()gai-jɨʔai SAND †‡ | Bo nékʷa-jɯ́ɯ́ʔa ‘stone-grains’; Mu híínɨgai-jɨʔai (Note = 251) [APBM *(xíí)né-gai-yɯ́-ʔai {73,251,252}]
+75.	PBoM *ha HOUSE ‡ | Bo haá; Mu íí-ha ‘3-house’ [APBM *iiʔ-xa, *káamée-xa, *(bááe)-xa]
+77.	PBoM *gooʔu-ga DOORWAY | Bo ʧééʔo-kʷa ‘?-cl:plank’; Mu gúʔú-ga [APBM *gééʔo-ga, (bágɨ́gaʔéxɯ)]
+78.	PBoM *ikka-ga SEAT, STOOL | Bo íhhʲa-kʷa ‘be-cl:plank’; Mu íkka-ga [APBM *íkka-ga, (akɯ́ɯ́βe-ga)]
+79.	PBoM *kɨga- MAT | Bo kʰɯkʷá-íʔkʰʲɯ ‘sleep-cl:frame’; Mu kɨ́ga-tahe ‘sleep-?’ (Note = 81,232,280) [APBM *kɯgá-(taxɨ), *kɯgá-(íʔkɯ), (ínébaxɨ), (ɨ́ɨ́kaxɨ)]
+80.	PBoM *gaaiba HAMMOCK | Bo kʷaápʲa; Mu gááíba [APBM *gaáí-ba]
+81.	PBoM *kɨga- BED | Bo kʰɯkʷá-íʔkʰʲɯ ‘sleep-cl:frame’; Mu kɨ́ga-tahe (Note =79,232,280) [APBM *kɯgá-ɨ́ɨxɨ, *kɯgá-(taxɨ), *kɯgá-(íʔkɯ)] 
+82.	PBoM *giriʔ-ʤu COOKING POT | Bo ʧíji-ʔʧo ‘?-cl:pot’; Mu gírí-ʔiʤu [APBM *gíri-ʔiǰo]
+83.	PBoM *gaikkuʔai CULTIVATED CLEARING | Bo kʷáhkʰʲoʔa; Mu gáíkkuʔai [APBM *gáíkko-ʔai]
+84.	PBoM *kuumii VILLAGE | Bo kʰóómií; Mu kúumi [APBM *kóomií]
+85.	PBoM *hɨɨ- PATH, TRAIL † | Bo hɯɯ́βa; Mu hɨ́ɨ́ʔai [APBM *xɯɯ́-()]
+86.	PBoM *ʦ()nɨkuʔu FISH NET | Bo ʦʰɨ́nɯkʰóóʔo; Mu sínɨkuʔu [APBM *ʦ(ɨ́)nɯkóʔo {atarraya}, *(pó)-kóʔo]
+87.	PBoM *piikkɨ-gai FISH HOOK | Bo pʰííhʲhɯ-kʷa ‘fishing-cl:plank’; Mu ɸííkkɨ́-gai [APBM *pííkkɯ-gai]
+88.	PBoM *hɨgaa-he STEEL AXE | Bo ɯ́kʷaá-hɨ ‘stone-cl:flat’; Mu hɨ́gáá-he (Note =382) [APBM *xɯ́gaá-xɨ]
+89.	PBoM *n()ʦ()-ga- KNIFE | Bo nɨɨʦʰɯ́-kʷa ‘?-cl:plank’; Mu níísú-ga (Note =383) [APBM *(mɨ́ɨ́(y)oʔo), *n(ɨɨ)ʦ(ɯ́)ga-(gayɯ)]
+90.	PBoM *meeno CANOE | Bo mɨɨ́ne; Mu mééne-ga ‘canoe-cl:plank’ [APBM *mɨɨ́ne-(ga)]
+91.	PBoM *buʔudu-ga PADDLE | Bo poʔtó-kʷa ‘row-cl:plank’; Mu búʔúdú-ga ‘row-cl:plank’ [APBM *boʔódó-ga]
+92.	PBoM *gai-ʔuɨ CLUB | Bo kʷá-ʔʲoóɯ ‘?-cl’; Mu gáí-ʔuɨdaaʔe ‘?-cl’ [APBM *gáíʔoóɯ(daaʔɨ)]
+93.	PBoM *aamɨ- SPEAR | Bo aamɯ́-pa ‘hit-cl’; Mu áámɨ-ga ‘hit-cl:plank’ [APBM *aámɯ-(ba), (káβaákko)]
+94.	PBoM *tɨɨbu-ga BOW | Bo tʰɯpóó-kʷa ‘shoot-cl:plank’; Mu tɨɨbú-ga (Note =95) [APBM *tɯɯbó-ga {214}]
+95.	PBoM *tɨɨbu- ARROW | Bo tʰɯpóó-kʰo ‘shoot-cl:pointed’; Mu tɨɨbú-ga ‘shoot-cl:plank’ (Note =94) [APBM *gáínɯɯ́-ga, *tɯɯbó-(ga), (pɨ́gaɯ)]
+96.	PBoM *giʦʦɨ-hɨ BLOWGUN | Bo ʧihʧʰɯ́-hɯ ‘blow-cl:tube’; Mu gisɨ́-hɨ [APBM *gitʦɯ́-xɯ, *(togií)-xɯ, *(toǰií)-xɯ]
+99.	PBoM *tɨpai-ʔuu() PUMA | Bo tʰɯ́ɯ́pʰá-ʔʲoóɯ ‘red-jaguar?’; Mu tɨ́ɸai-ʔui ‘red-jaguar’ [APBM (xɯ́kko), *tɯ́páíʔoó(ɯ)]
+100.	PBoM *gooɨ ARMADILLO | Bo ʧeéɯ; Mu góóɨ [APBM *geéɯ, (dóótoɯ́ʔaamɨ́ne), (káápɨ́naɯ)]
+101.	PBoM *ʔuuʔi DOG †‡ | Bo ooʔíí-pʲe ‘jaguar-masc.sg’; Mu -ʔui [APBM (xɯ́kko), (ooʔííbe) ]
+102.	PBoM *niiβɨ-gai RED DEER | Bo nííβɯ-kʷa ‘deer-cl’; Mu níiβɨ-gai [APBM *níiβi-gai, *xiíbai]
+103.	PBoM *kikiih() BAT | Bo kʰíkʰiíhʲe; Mu kíkihe [APBM *kíkiíxe]
+104.	PBoM *ʦukku OTTER | Bo ʦʰohkʰo; Mu súkku [APBM *ʦokko]
+105.	PBoM *kɨʔʤiba CEBUS, MONKEY | Bo kʰɯʔʧípa; Mu kɨʤíba [APBM *(čoyíyi), *kɯʔǰíba]
+107.	PBoM *kɨɨmɨ SPIDER MONKEY | Bo kʰɯɯ́mɯ; Mu kɨ́ɨ́mɨ [APBM *(xɯ́bííǰaxɨ), *kɯɯ́mɯ]
+109.	PBoM *heehɨ, *tuuʔhe ANTEATER | Bo ɨɨ́hɯ, tʰoʔhɨ; Mu hééhɨ, túuhe [APBM *xɨɨ́xɯ, *tooʔxɨ]
+110.	PBoM *takkɨ PACA | Bo tʰahkʰɯ; Mu tákkɨ [APBM *takkɯ, (ainókkóʔega)]
+111.	PBoM *niʔba, *m()ʔduba CROCODILE | Bo niʔpa, meʔtópa; Mu níʔiba, méédúba [APBM *niʔiba, *meeʔdóba]
+112.	PBoM *maaina-ʔu IGUANA | Bo mááɲa-ʔo ‘iguana-cl’; Mu mááɲá-ʔu [APBM *mááínaʔo, (xóóčáíʔi)]
+115.	PBoM *mooni COLLARED PECCARY | Bo meéni; Mu méeni [APBM *meéni]
+116.	PBoM *paapaiba WHITE-LIPPED PECCARY | Bo pʰáápʰapʲa; Mu ɸááɸaiba [APBM *páápaiba, (mɨ́neébe)]
+117.	PBoM *pattɨ AGOUTI | Bo pʰahtʰɯ (Miraña dialect); Mu ɸáttɨ [APBM (páttɯ), (bɨrɯmɯxɨ)]
+118.	PBoM *giʔpo RAT | Bo ʧiʔpʰʲe; Mu gíʔiɸo [APBM (gíʔipe), (nɯɯmɨ́ra), (kɯɯβéba), (aaʦáriɯ)]
+119.	PBoM *miiʧii CAT | Bo mííʧʰií; Mu mííʃi (Note: loan from Spanish) [APBM *mííʦií {Spanish}]
+120.	PBoM *giʔpo MOUSE | Bo ʧiʔpʰʲe; Mu gíiɸo [APBM *giʔpe, (kɯɯβéba), (bííččaɯ)]
+121.	PBoM *bu TAIL †‡ | Bo pó-kʷaá ‘tail-cl’; Mu íí-bu-ʔu ‘3.sg-tail-cl’ [APBM (ííboʔo), (bógaá), (gagááíβe)]
+122.	PBoM *hiinimo SNAKE | Bo ííɲimʲe; Mu híinimo [APBM *xíinime, (íttɯ)]
+123.	PBoM *buua, *iigai- ANACONDA, WATER BOA | Bo póóaá, ííkʷakʰʲo; Mu búúa, ígáíβatɨ (Note: possibly a loan from Tupian) [APBM *bóóaá {Spanish?}, *íígai(ko)]
+124.	PBoM *taakaʔo RATTLESNAKE | Bo tʰáákʰaʔe; Mu táakaʔo [APBM *táakaʔe]
+125.	PBoM *ʧiraagai CORAL SNAKE | Bo ʧʰiijákʷa; Mu ʧiráágai [APBM *čiráágai, (kábɯɯ́ɯ)]
+126.	PBoM *hakuga, ()ɨɨriʔi, nihaga, mɨɨʔmeba, haakkɨba TOAD | Bo aʔkʰókʷa, βɯ́ɯ́ríʔií, níhʲakʷa, mɯʔmɨ́pa, áákʰɯpa; Mu hakúkúga, bɨ́ɨ́riʔi, níhaga, mɨ́ɨ́méba, háákkɨba [APBM *xaʔkó(kó)ga, *(β)ɯ́ɯ́ríʔií, *mɯɯʔmɨ́ba, (xáákkɯba), (…)]
+128.	PBoM *paaibe HUMMINGBIRD | Bo pʰáápɨʔo; Mu ɸááibe, [APBM *páá(i)bɨ(ʔo), (róóbɨ́ǰɯ)]
+129.	PBoM *heeβaa, *in()ʔai MACAW | Bo ɨ́ɨ́βaá, íɲaʔa; Mu hééβa, ínóʔai [APBM *xɨ́ɨβaá, *ín(a)ʔai, (ɨ́ɨ́rɨ́da, éérɨ́da, ɨ́ɨ́réda)]
+130.	PBoM *nɨgo TOUCAN | Bo nɯʧe; Mu nɨ́go [APBM *nɯge, (xɯ́ɯ́kkɯgai), *r(í)(ʔ)oó(ʔo), *b(ai)rí(gai)]
+133.	PBoM *ainɨ BUZZARD | Bo aɲɯ; Mu áɲɨ [APBM *ainɯ (ʦókkoga)]
+134.	PBoM *kɨga- CURASSOW | Bo kʰɯ́kʷá-kʰo ‘currassow-cl’; Mu kɨ́gá-ʔo ‘currassow-cl’ [APBM (kɯ́gáʔe)]
+136.	PBoM *peeka-he GUAN | Bo pʰɨ́ɨ́kʰa-hɨ ‘guan-cl’; Mu ɸééka-he [APBM *pɨ́ɨ́kaxɨ]
+137.	PBoM *ka()a()a HEN | Bo kʰárakʰa; Mu kattáβa (Note: loan from Tupi) [APBM *ka(ttá-βa), *ká(ra-ka) {Tucano}, gáǰerááʔe, gáigerááʔe), (kettɯ́ɯ) ]
+139.	PBoM *gaikku-he, *nitta PIRANHA | Bo kʷáhkʰʲo-hɨ, níhtʲa-hɨ ‘piranha-cl’; Mu gáíkku-he, nítta [APBM *(nítta), *gáíkkoxɨ]
+142.	PBoM *hɨɨku-ga FLEA | Bo ɯ́ɯ́kʰo-kʷa ‘?-cl:plank’; Mu hɨ́ɨ́ku-gai [APBM *xɯ́ɯ́ko-gai]
+143.	PBoM *gaaini-ʔu LOUSE †‡ | Bo kʷááni-ʔʲo ‘louse-cl:oval’; Mu gáaɲi-ʔu [APBM *gáainiʔo, *gai(ʔtéxɨ) ]
+144.	PBoM *gaaihɨ MOSQUITO | Bo kʷaáhʲɯ; Mu gáaihɨba [APBM *gaáí-xɯ(-ba), *gáí-(mɯ́ɯ́-taba), (opiǰɯ) ]
+145.	PBoM *maʔarɨ TERMITE | Bo máʔarɯ́-mɯɯ́pe ‘termite-person’; Mu máʔarɨ [APBM *(mɯ́ǰɯ́gí(y)ɯ), *máʔarɯ́(mɯɯ́-be), (táabane), (tákíʔki-ba), (mooá-ba)]
+146.	PBoM *piimo ANT ‡ | Bo pʰíímʲepa; Mu ɸíimo [APBM *píime(ba)]
+147.	PBoM *paaga- SPIDER | Bo pʰaakʷá-jɯ ‘spider-cl:round’; Mu ɸáaga-he ‘spider-cl:disc’ [APBM *páaga-xɨ, *paagá-(yɯ), (xɯ́ɯ́móʔai), (ííkkoxɨ), (doʔgá-xɨ)]
+148.	PBoM *niipahe JIGGER (TUNGA PENETRANS) | Bo níípʰahɨ; Mu níiɸahe [APBM *níipa-xɨ]
+149.	PBoM *bahɨ BUSH | Bo páhɯɯ́; Mu báhɨ [APBM *báxɯɯ́]
+150.	PBoM *namettɨhe, *ʦukkum()he OPEN GRASSLAND | Bo nómɨ́htʰɯhɨ, ʦʰóhkʰómɯhɨ; Mu námettɨhe, súkkumehe (Note: see 161; dialect. variant Mu námettehe) [APBM *(námɨttɯxɨ), *ʦókkómɯxɨ]
+151.	PBoM *gahɨɨ, *baaɨɨ HILL | Bo kʷáhɯɯ́, páɯɯ́; Mu gáhɨ, báaɨ [APBM *gáxɯɯ́, *(káme)-gáxɯ, *(pá)-gaxɯ, *báaɯɯ́, *(pá)-ʔbaɯ {293}]
+152.	PBoM *ɨmo-ʔo TREE †‡ | Bo ɯ́me-ʔe ‘wood-cl:tree’; Mu ɨ́mo-ʔo [APBM *ɯ́me-ʔe {tree-wood,60}]
+153.	PBoM *aame LEAF †‡ | Bo ʔáámɨɨ́; Mu áame (Note =154) [APBM *(ɨ́na)-ʔáámɨ, (-xɯ́ɯ́ʔoó), (mɨ́ɨ́ɯmɯ)]
+154.	PBoM *-ʔaame TREE LEAF | Bo ɨ́naʔáámɨ; Mu áame (Note =153)[APBM *(ɨ́na)-ʔáamɨ]
+158.	PBoM *ba(i)(k)ko- ROOT †‡ | Bo páhkʰʲeé; Mu bakóʔoko [APBM *ba(i)(k)ké-(ʔeke), *bá(i)(k)keé, (-tane)]
+159.	PBoM *batʦu- SEED † | Bo pahʦʰó-kʷa ‘plant-cl:plank’; Mu basú-ta [APBM *batʦó-(), (néébaba), (painéβa-ɯ)]
+160.	PBoM ɨmoo-ʔi STICK | Bo ɯ́mé-ʔe-i ‘wood-cl:tree-cl:stick’; Mu ɨ́mee-ʔi ‘wood-cl:stick’ [APBM * ɯ́méʔe-i, *ɯ́mé-(ne-ba), (ǰári-ga)]
+161.	PBoM *ʦukkume-he GRASS | Bo ʦʰóhkʰómɯ-hɨ ‘grassland-cl:disc’; Mu súkkume-he (Note =150) [APBM *ʦókkómɯxɨ, (páíxɯ), (pɨɨ́βa)]
+163.	PBoM *máaʔu CASSAVA (BREAD) | Bo mááʔo; Mu máaʔu [APBM *(xáara), (páikoómi) {sweet}, *pɨ́ɨkkaá, (baaxɯ́ri) {bitter}]
+165.	PBoM *baino TOBACCO | Bo paɲe; Mu báɲo [APBM *baine]
+166.	PBoM *haʔdi COTTON | Bo aʔti; Mu háʔadi [APBM *xáʔadi]
+167.	PBoM *duutu GOURD | Bo toótʰo; Mu dúutuʔu [APBM (xáʔaxɨ), *dóoto-]
+168.	PBoM *kɨnii- YAM | Bo kʰɯni; Mu kɨ́nirumi [APBM *kɨni(romi), *kɨ́nií-(ɯ)]
+170.	PBoM *nooba-ba ANNATTO | Bo néépa-pa ‘annatto-cl’; Mu nóoba-ba [APBM *néebaba]
+171.	PBoM *dee-ʔuɨ CHILI PEPPER | Bo tɨ́ɨ́-ʔoɯ ‘chili-cl’; Mu déé-ʔuɨ [APBM *dɨ́ɨ́-ʔoɯ {fruit}]
+172.	PBoM *hiibii- COCA | Bo íípií; Mu hííbi-ʔo ‘coca-cl:tree’ [APBM *xííbií-(ʔe)]
+173.	PBoM *bakko BANISTERIUM | Bo népahkʰe; Mu bákotamɨ [APBM *bá(k)ke(tamɯ), *(né)ba(k)ke]
+174.	PBoM *ɨhe- PLANTAIN | Bo ɯhɨ; Mu ɨ́heba [APBM *ɯ́xɨ-()]
+175.	PBoM *moomo, CHONTA PALM | Bo meéme; Mu móomo [APBM *meéme, *meéme-(ʔegííʔo), *meéme-(ʔeǰííʔyo)]
+179.	PBoM *ɨmo SALT ‡ | Bo ɯ́me ‘vegetable salt’; Mu ɨ́muʔu ‘vegetable salt’ [APBM (ɯ́moʔo), (áit(t)ega), (kánáámaá), (kánaáma)]
+180.	PBoM *moomo-ba CHICHA (OF PEACH PALM FRUITS) | Bo mééme-pa ‘peach_palm-cl:liquid’; Mu móomo-ba [APBM *méemeba, (báaxɯ́ribá)]
+181.	PBoM *ʦaa-no ONE †‡ | Bo ʦʰa-ne ‘one-inan’; Mu sáá-no [APBM *ʦaane]
+182.	PBoM *mi-no-kɨ TWO † | Bo mí-ɲéé-kʰɯɯ́ ‘two-inan-dual’; Mu míí-no-kkɨ [APBM *míínéékkɯɯ́]
+185.	PBoM *sa-ʔuʦʦe FIVE | Bo ʦʰá-ʔohʦʰɨ́ ‘one-hand’; Mu sa-ʔúse [APBM *ʦá-ʔotʦɨ́ {one-hand}]
+191.	PBoM *ttɨkkonɨ FIRST | Bo tʰɯhkʰénɯ; Mu íttɨkonɨ [APBM *(it)tɯ(k)kénɯ, (ɯ́mɨ́gare), (ʦáʔííxɯ́ttɯre)]
+192.	PBoM *niiʔnoo- LAST | Bo niʔɲé-re ‘last-?’; Mu níínoo-no [APBM *niiʔnée-né(-re), (áǰɯba-)]
+194.	PBoM *kɨɨmɨ-ba DRUM | Bo kʰɯ́ɯ́mɯ-pa ‘signal_drum-cl’; Mu kɨ́ɨ́mɨba [APBM *kɯ́ɯ́mɯ-ba]
+196.	PBoM *nɨhɨ-ga EAR ORNAMENT | Bo nɯ́hɯ́-i-kʷa ‘ear-cl-cl’; Mu nɨ́hɨ-ga-ku ‘ear-cl-cl’ [APBM *nɯ́xɯ́i-ga(ko)]
+197.	PBoM *maaʔnii MASK ‡| Bo máʔnií; Mu maaní-ʔɨme ‘mask-face’ [APBM *mááʔnií(ʔɯmo)]
+198.	PBoM *taabu-mɨnaa-ppi MEDICINE MAN | Bo tʰáápo-mɯ́ná-a-hpʰi ‘heal-people-belong-masc.sg’; Mu táábú-mɨnaa-ɸi [APBM (ǰɯ́ɯ́βáábeé), (táábómɯnaaɸi)]
+199.	PBoM *aiβohɨɨ-bo CHIEF | Bo aβʲéhɯɯ́-pe ‘command-masc.sg’; Mu aíβohɨ́ɨ́-bo [APBM *aiβéxɯɯ́-be]
+200.	PBoM *uu I †‡ | Bo oó; Mu úú-hóʔo (Note: Mu -hoʔo is dropped in non-nominative, e.g. u-ko ‘to me’) [APBM *oó(-xéʔe)]
+201.	PBoM *ɨɨ THOU †‡ | Bo ɯɯ́; Mu ɨ́ɨ́-hóʔo (Note: Mu -hoʔo is dropped in non-nominative, e.g. u-ko ‘to you’) [APBM *ɯɯ́(-xéʔe)]
+202.	PBoM *aa-nɨɨ, *dii-bo HE ‡ | Bo áánɯɯ́, tií-pʲe ‘3-masc.sg’; Mu áháanɨ, díi-bo [APBM *dií-be, (aáí-be), (aá-be), (áá-nɯɯ́), (aá-di) {204}, *á(x)áa-nɯ]
+203.	PBoM *aaimoo, *dii-go SHE ‡ | Bo áámʲeé tií-ʧe ‘3-fem.sg’; Mu áháamo, díi-go [APBM *dií-ge, *(aáí-)ge, *(ááí)-meé, *(áxáa)-me]
+204.	PBoM *haa-no IT | Bo aá-ne ‘3-inan’; Mu háá-no [APBM (aáí-be) {202,203,257}, (xáá-ne)]
+205.	PBoM *mɨɨʔai WE † | Bo mɯɯ́ʔa; Mu mɨ́ɨ́ʔai [APBM *mɯɯ́ʔ-ai {pl}, *mɯʔ-ʦi {m.d.}, *mɯʔ-pɨ {f.d.}]
+206.	PBoM *amɨɨai YE | Bo ámɯɯ́ʔa; Mu amɨ́ɨ́ʔai [APBM *ámɯɯ́ʔ-ai, *ámɯɯʔ-ʦi {m.d.}, *ámɯɯʔ-pɨ {f.d.}]
+207.	PBoM *dii-to THEY | Bo tií-tʰʲe ‘3-pl’; Mu díí-to [APBM *dií-te, *(aáí)-te {pl}, *dii-t(é)-ʦi {m.d.}, *dii-t(é)-pɨ {f.d.}]
+208.	PBoM *tai-ʔutʦe MY HAND | Bo tʰá-ʔóhʦʰɨ ‘my-hand’; Mu tá-ʔuse [APBM *táí-ʔótʦɨ {214}]
+209.	PBoM *dii-ʔutʦe THY HAND | Bo tí-ʔʲóhʦʰɨ ‘2-hand’; Mu díí-ʔuse [APBM *díí-ʔótʦɨ]
+210.	PBoM *dii-bo ʔutʦe HIS HAND | Bo tíípʲe ʔóhʦʰɨ; Mu dííbo ʔuse [APBM *(díí)-be-ʔótʦɨ, *(aáí)-be-ʔótʦɨ, *(ááí-di)-ʔotʦɨ]
+211.	PBoM *mo-ʔutʦe-no OUR HANDS ‡ | Bo mé-ʔóhʦʰɨ-ne ‘our-hand-pl’; Mu mú-ʔuse-ne [APBM *mé-ʔótʦɨ-ne]
+212.	PBoM *amɨɨʔai ʔutʦe-no YOUR HANDS ‡ | Bo amɯ́ʔá ʔóhʦʰɨne; Mu amɨ́ɨ́ʔai ʔuse-ne [APBM *amɯ́ɯ́ʔ-áí-ʔótʦɨ-ne]
+213.	PBoM *diito ʔutʦe-no THEIR HANDS | Bo tíítʰʲe ʔóhʦʰɨne; Mu díítoʔusene [APBM *díí-te-ʔótʦɨ-ne, *(aáí)-te-ʔótʦɨ-ne]
+214.	PBoM *tai-tɨɨbu-ga MY BOW ‡ | Bo tʰá-tʰʲɯ́poo-kʷa ‘my-shoot-cl:plank’; Mu ta-tʲɨ́ɨ́bu-ga [APBM *táí-tɯ́ɯ́bo-ga]
+215.	PBoM *dii-tɨɨbu-ga THY BOW | Bo tí-tʰʲɯ́poo-kʷa; Mu di-tɨ́ɨ́bu-ga 
+216.	PBoM *dii-bo tɨɨbu-ga HIS BOW | Bo tíípʲe tʰɯ́poo-kʷa; Mu dííbo tɨ́ɨ́bu-ga 
+217.	PBoM *mo-tɨɨbu-ga OUR BOW | Bo mé-tʰɯ́poo-kʷa; Mu mo-tɨ́ɨ́bu-ga 
+218.	PBoM *amɨɨʔai tɨɨbu-ga YOUR BOW | Bo amɯ́ʔá tʰɯ́poo-kʷa; Mu amɨ́ɨ́ʔai tɨ́ɨ́bu-ga 
+219.	PBoM *dii-to tɨɨbu-ga THEIR BOW | Bo tíítʰʲe tʰɯ́poo-kʷa; Mu dííto tɨ́ɨ́bu-ga 
+220.	PBoM *mita-no, *giraa BIG †‡ | Bo mitʰʲa-ne ‘big-inan’ (Note: see 262), ʧija; Mu mítʲa-no ‘big-inan’, gíráa-no [APBM *mita-ne, *giraa-ne, *kee-(pi)-ne, (bókkɯ-ne), (…)]
+221.	PBoM *nume- SMALL †‡ | Bo ɲomɨ; Mu núménéne [APBM *nomɨ-(nɨ-nɨ), (áxáíʦo-ne-gayɯ), (áyá-né-gayɯ, áirá-né-gayɯ), (ɯʔxéné-gayɯ), (čoʔxɯ), (ɯ́ɯ́gɯ́yiɯ)]
+222.	PBoM *ʦɨɨku COLD † | Bo ʦʰɯɯ́kʰo; Mu sɨ́ɨ́ku [APBM *ʦɯɯ́ko, (dáíʔkoó)]
+223.	PBoM **aiguukku HOT † | Bo aʧóókʰó; Mu áígúkku-no ‘hot-inan’ [APBM *áígookkó-né, (péémeβako-ne), (gánókóó-ne, gánékóó-ne)]
+224.	PBoM *imi GOOD †‡ | Bo imí; Mu ími-no ‘good-inan’ [APBM *imí-ne, *imí-(gayɯ), *(ɨ́mɨáá)-ne]
+225.	PBoM *imi-tɨ-no BAD | Bo ími-tʰʲɯ́-ne ‘good-neg-inan’; Mu ími-tɨ-no [APBM *ími-tɯ́-ne]
+226.	PBoM *ʦeʦee WHITE † | Bo ʦʰɨʦʰɨ; Mu sésééne [APBM *ʦɨ́ʦɨɨ-ne]
+227.	PBoM *kɨβo- BLACK †‡ | Bo kʰɯɯ́βe-ne; Mu kɨ́βo-no ‘black-inan’ (Note =328) [APBM *kɯ́βe-ne, (báttɯne)]
+228.	PBoM *di-po GO! ‡ | Bo tí-pʰʲe ‘imp-go’; Mu diɸó [APBM *dí-pe]
+229.	PBoM *di-ʦaa COME! | Bo tí-ʧʰa ‘imp-come’; Mu di-sáá ‘imp-come’ [APBM *dí-ʦaa]
+230.	PBoM *maʧʧu EAT! ‡| Bo máhʧʰoó; Mu maʧʧú (Note =275) [APBM *maččoó]
+231.	PBoM *d-aduu DRINK! ‡| Bo t-átoó ‘imp-drink’; Mu d-adú [APBM *d-ádoó]
+232.	PBoM *kɨga SLEEP! ‡| Bo kʰɯ́kʷáá; Mu kɨgá (Note =79,81,280) [APBM *kɯ́gá]
+234.	PBoM *iiʔgai-noo FRONT TEETH, INCISORS | Bo íʔkʷa-ɲeé ‘tooth-pl’; Mu ííga-ɲo [APBM *(pɨɨneéné) *(mé)-ííʔgai-neé, (di-xéxé-ba) ííʔgai-neé]
+235.	PBoM *nehe-()-nih()kk() TIP OF TONGUE ‡| Bo méʔ-nɨ́hɨ́-kʷá-nɨhkʰá-ɯ ‘our-tongue-cl:plank-end-cl:round’; Mu néhe-ba-niheke ‘tongue-cl-end’ [APBM *(mé)-ʔnɨ́xɨ́-(gá)-nɨx(ɨ)k(áɯ)]
+236.	PBoM *niiga LONG HAIR | Bo nííkʷa-kʰo ‘head-cl’; Mu níga-ɨ-heene ‘head-cl-hair’ (Note: see 8) [APBM *(mɨ́ɨ́baigi), *nííga()]
+240.	PBoM *nokkɨ- LOWER ARM | Bo néhhɯ́-kʷa-ʦʰíhtʰʲo ‘side-cl:plank-?’’; Mu nókkɨ ‘arm’ [APBM *(mé)-nékkɯ́-(gaʦítto) {20}]
+241.	PBoM *ʔutʦe-kkohe WRIST | Bo ʔóʦʰɨ-hkʰéhɨ ‘hand-wrist’; Mu úse-kehe [APBM *(mé)-ʔóʦɨ-(k)kéxɨ, (ʦɨɨmé ɨ́ɨ́kɯ)]
+242.	PBoM *takki- LOWER LEG | Bo tʰáhkʰii; Mu tákkijɨ [APBM *(mé)-tákki-(ɯ), (xóonoga, xéenoga)]
+243.	PBoM *iʔhee-no BODY HAIR | Bo ɨ́ʔhɨne; Mu íhéene (Note =270, see 10)’ [APBM *ɨ́ʔxɨɨ-ne {270}]
+244.	PBoM *iiʔba STOMACH | Bo íʔpáɯ; Mu íiba (Note = 16,245,272) [APBM *(mé)-íiʔbá(ɯ) {272,245}, (xɨ́ɨbɯɯ), *(mé-ke)-máččo-(ɯ), *maččo-(xota)]
+245.	PBoM *iiʔba INTESTINES | Bo íʔpáɯ; Mu íiba (Note =16,244,272) [APBM *(mé)-íiʔbá(ɯ)]
+246.	PBoM *koomo-go OLD WOMAN | Bo kʰééme-ʧe ‘old-fem.sg’; Mu kóómo-go (Note: see 347) [APBM (ámia-ʦa), *kééme-ge {47,347}]
+249.	PBoM *gaikkuʔai, *-pagi CORN FIELD | Bo kʷáhkʰʲoʔa, -pʰáʧi; Mu gáíkkuʔai, ɸági [APBM *gáíkkoʔai, (pági), (ɯ́mɨʔe) {83}]
+250.	PBoM *too-ʔi STREAM | Bo tʰéé-ʔi ‘river-cl’; Mu tée-ʔi [APBM *tée-ʔi-(gayɯ) {river-line-small,49,71}, *téé-(gai-ʔo), (pákaáxa)]
+251.	PBoM *n()gai-ɨʔai PEBBLES ‡| Bo nékʷa-jɯ́ɯ́ʔá ‘stone-grains’; Mu híínɨgai-jɨʔai (Note =74) [APBM *(xíí)-négaiyɯ́-ʔái, *négaiyɯ́(-gɯ́ɯ́né) {73,74,252}, (gííʦiɯ)]
+253.	PBoM *hɨɨ()ai PATH | Bo hɯɯ́βa; Mu hɨ́ɨ́ʔai [APBM *xɯɯ́-()]
+255.	PBoM *nɨɨh()-ga SHELTER | Bo nɯ́ɯ́hɯ-kʷa ‘?-cl:plank’; Mu nɨ́ɨ́he-ga [APBM *nɯ́ɯ́xɯ-ga, *(iixó)-ga]
+256.	PBoM *hi- THIS †‡ | Bo í-ɲeé ‘here-inan’; Mu hí-no [APBM *xíneé, *xi(xɨ), (áánɯɯ́), (ááímeé), (eéne)]
+257.	PBoM *hoʔ- THAT † | Bo éʔ-neé ‘there-inan’; Mu hóʔo-no [APBM *xe(ʔ)é-ne, (teé-), (diíbe) {204}, (áánɯɯ́)]
+258.	PBoM *mɨ-, *ka- WHO †‡ | Bo mɯ́ʔa, kʰaatʰʲéʔa; Mu mɨ́hɨ́, káháánɨ, káháámo (Note: *mɨ́- ‘who’, *ká- ‘which’) [APBM ?*ka(aitéʔa)-xaa-, *mɯ́-(ʔa)-xa]
+260.	PBoM *ʦaʔa, *-tɨ NOT †‡ | Bo ʦʰáʔaá, -tʰɯ; Mu ʧáʔano, -tɨ [APBM *(-tɯ), *ʦáʔaá-(ne)]
+261.	PBoM *pa-no ALL † | Bo pʰá-neé-re ‘all-inan-rest’; Mu ɸáá-no ‘all-inan’ [APBM ((p)airɯɯ-kɯ-ne), *pamere, *pa-nee-(re)]
+262.	PBoM *mita- MANY † | Bo mítʰʲa-ne ‘many-inan’; Mu mítʲa ‘power’ (Note: see 220) [APBM *míta-(ne), (gíráá-me), (ʦíítɯ), (ɨʔnáʔo)]
+263.	PBoM *kaamo- LONG †‡ | Bo kʰááme-ne ‘long-inan’; Mu káámo-βo-no ‘long-?-inan’ [APBM *kááme(-βe)-ne]
+264.	PBoM *-meeʔu BARK † | Bo -mɨ́ɨ́ʔo; Mu kuu-mééʔu ‘wood-shell’ [APBM *(koo)-mɨ́ɨ́ʔo, (ɯ́méʔé) *(ʔaǰɯ́e)-mɨ́ɨ́ʔo]
+265.	PBoM *ʔookuu, *duu FLESH †‡ | Bo ʔéékʰoó, toó; Mu úúku, dúúhoʔo [APBM *éékoó, *doó-(xeʔe), *(táí)-do, (aʦímɯ)]
+266.	PBoM *tɨɨ- BLOOD | Bo tʰɯ́-hpʰakʰʲo ‘red-cl:liquid’; Mu tɨ́ɨ́-hóʔo ‘red-?’ (Note =33) [APBM *tɯ́ɯ́-(xéʔe), *tɯ́ɯ́-(ppaiko)]
+267.	PBoM *dɨɨrɨ-ba GREASE † | Bo tɯ́ɯ́rɯ-pa ‘grease-cl:liquid’; Mu dɨ́ɨrɨ-ba (Note =479) [APBM *dɯ́ɯrɯba]
+268.	PBoM *iiʔɨ EGG †‡ | Bo ííʔʲɯ́ɯ-ɯ́ ‘?-cl:round’; Mu ííjɨ [APBM *ííʔyɯ́ɯ]
+269.	PBoM -ttu HORN †‡ | Bo -htʰo ; Mu íttu (Note: see 462) [APBM *(óka)-(x)ítto, (iyáábetto)]
+270.	PBoM *i-hee-no FEATHER † | Bo ɨ́ʔhɨne; Mu íhéene (Note =243,316, see 10) [APBM *ɨ́xɨɨ-ne {243}]
+271.	PBoM *ʔutʦe-gai-meeʔu CLAW † | Bo ʔóhʦʰɨ́-kʷa-mɨ́ɨ́ʔo ‘hand-cl:plank-cl:shell’; Mu asi-ʔúsé-gai-méeʔu ‘animal-hand-cl:plank-cl:shell’ [APBM *(mé)-ʔótʦɨ́-gai-mɨ́ɨʔo, *(aʦi)-ʔótʦɨ́-gai-mɨ́ɨʔo]
+272.	PBoM *iiʔba BELLY † | Bo íʔpáɯ; Mu íiba (Note =16,244,245) [APBM *(mé)-íiʔbá(ɯ), (xɯ́ɨbɯɯ) {244}]
+273.	PBoM *iʔganoo LIVER †‡ | Bo íʔkʷáneé; Mu ígano [APBM *(mé)-íʔgá-neé]
+274.	PBoM *adu DRINK †‡ | Bo ato; Mu ádu- (Note: see 231) [APBM *ado {231}, (ádɯkɯ́nɯ)]
+275.	PBoM *maʧʧu EAT (NON MEAT) †‡ | Bo mahʧʰoó; Mu maʧʧú (Note =230) [APBM *doó-(ʔi) {meat}, *geéne {fruit}, *maččo {164}]
+276.	PBoM *eeʔdu- BITE †‡ | Bo ɨʔto; Mu éédu- [APBM *ɨɨʔdo, (dɨgɯ́kkɯ), (denókko), (dɨ́geʔxɯ́kɯ)]
+277.	PBoM *aittɨme SEE †‡ | Bo ahtʰʲɯ́mɨ; Mu áttʲɨ́me- (Note cf. 450) [APBM *aittɯ́mɨ(ɨɨ́té), (mɨ́ɨkkɯ), (dɯ́xɯɯ́), (ɯɯ́xe)]
+278.	PBoM *goobu- HEAR †‡ | Bo ʧeépo; Mu gúúbu- [APBM *geébo, (…)]
+279.	PBoM *gaaha KNOW †‡ | Bo kʷaahákʰɯ; Mu gááha- [APBM *gaaxá(kɯ), (piiβéte)]
+280.	PBoM *kɨga SLEEP † | Bo kʰɯkʷa; Mu kɨ́ga- (Note =79, 81, 232) [APBM *kɯga]
+281.	PBoM *gihe-βo DIE † | Bo ʦɨhɨ́-βe ‘death-vblz’; Mu gíhé-βe-ʔi ‘death-vblz’ [APBM *gɨxɨ́-βe, (čééme), (…)]
+282.	PBoM *gɨhe-βo-ʦu KILL | Bo ʦɨ́hɨ-βé-ʦʰo ‘dead-vblz-caus’; Mu gíhéβesu-ʔi ‘dead-vblz-caus’ [APBM *gɨ́xɨ-βé-ʦo, *gɨ́xɨ-(nɯ), (gáikkáao), (gáiɯɯʔáro), (…)]
+283.	PBoM *iʦʦi SWIM † | Bo ihʧʰi; Mu ísi- [APBM *itʦi]
+284.	PBoM *gaʔpo FLY †‡ | Bo kʷaʔpʰe; Mu gáʔáɸe-ʔi [APBM *gaʔape, (gaaméne)]
+285.	PBoM *ɨgo *poo WALK † | Bo ɯʧe, pʰeé; Mu ɨ́ge-ʔi, ɸée-ʔi ‘go’, ɸúu-ʔi ‘went’ [APBM *ɯge, (tadɯ́ʔkɯ), (rixákko), (peé)]
+286.	PBoM *ʦaa- COME †‡ | Bo ʦʰaá; Mu sáá-ʔi [APBM *ʦaá-(pé), (náʔxɨʔe)]
+290.	PBoM *akkɨ GIVE †‡ | Bo ahkʰɯ; Mu ákkɨ-ʔi [APBM *akkɯ, (éxekkáǰo, éxekkáigo)]
+291.	PBoM *hɨɨb()go, *noo SAY †‡ | Bo ɯɯpáʧe, neé; Mu hɨ́ɨ́bege-ʔi, néé-ʔi [APBM *xɯɯb(ái)ge, *neé, (iʔxɯ́βa)]
+293.	PBoM *gahɨɨ, *baaɨɨ MOUNTAIN † | Bo kʷáhɯɯ́, páɯɯ́; Mu gáhɨ, báaɨ (Note: see 151) [APBM *gáxɯɯ́, *káme-(βo)-gáxɯ, *báaɯɯ́, *káme-(βo)-ʔbáaɯ {151}]
+294.	PBoM *tɨ-ppai-no RED †‡ | Bo tʰɯ́-hpʰa-ɲe ‘red-liquid-inan’ (see 33,26)’; Mu tɨ́-ɸai-ɲo (see 33,26)’ [APBM *tɯ́-ppai-ne {33,266}]
+295.	PBoM *aittɨβa GREEN † | Bo ahtʰʲɯ́βa; Mu attʲɨ́βa-no [APBM *aittɯ́βá-ne]
+296.	PBoM *gi() YELLOW † | Bo ʧíhkʰʲáneɯ́βɯ́; Mu gíígiβano [APBM *gíí(-giβa)-ne, *gí(-kká)-ne-(ɯ́βɯ)]
+297.	PBoM *gaʔpo FULL † | Bo kʷaʔpʰe; Mu gáʔáɸo-no (Note =471) [APBM *gaʔape-né, *(ʦane) gáʔap(é) (k)kɯnɯ́-né, (gáíttóokɯ)]
+298.	PBoM *boʔ-no NEW †‡ | Bo péʔ-ne; Mu bóʔo-no [APBM *béʔe-ne]
+301.	PBoM *momo NAME †‡ | Bo meme; Mu mómo [APBM *meme]
+302.	PBoM *mɨʔ()ɨ HOW | Bo mɯʔtɯ; Mu mɨ́ʤɨ [APBM *mɯʔ(ǰ)ɯ, *mɯʔ(d)ɯ, (kébádɯ)]
+305.	PBoM *hi-noo-ri HERE | Bo í-ɲeé-ri ‘here-inan-loc’; Mu hi-néé-ri [APBM *(xóó-ga-βɯ), (ximáine), (íígeé), (íʦii, íčii), *xíneé-ri, *xíneé-(βɯ)]
+306.	PBoM *oo-no THERE | Bo éé-ne ‘there-inan’; Mu óó-no [APBM (xaʔɯ), (taʔɯ), (eene), (omaina), (eʔ-gee), (éʔ-ʦíií), (té-ʦii), (téʔɯge)]
+307.	PBoM *ʦi-ppi OTHER | Bo ʦʰi-hpʰi ‘other-masc.sg’; Mu sí-ɸi [APBM *ʦi-ppi {masc}, *ʦí-(ppi-ge), *ʦií-(ne), *ʦi-]
+309.	PBoM *tʦu- FOG | Bo ohʦʰó ‘smoke’; Mu súɨ [APBM *(o)tʦo-(ɯ), (áimóo-ppaiko) {59,247,248}]
+310.	PBoM *niiβa FLOW | Bo niiβa; Mu niiβa-ʔi [APBM (gaápe), (niiβa), (koo)]
+311.	PBoM *muuai SEA | Bo moóa; Mu múúai (Note =49,379) [APBM *moóai, (ɨ́ɨ́βámɯ́ dokó-ppáiko)]
+312.	PBoM * peepai-no, *maa- WET | Bo mahááβe, pʰɨ́ɨ́pʰá-ɲe ‘moist-inan’; Mu mááɲo, ɸééɸa-ɲo (Note: see 403) [APBM (pɨ́ɨ́-ppai-ne), (mááí-ne), (mɯrííβe), (maxááβe), (reʔre), (ɯɯ́rɯ), (ɯɯrɯ́βe), (rerékkɯ)]
+313.	PBoM *nittɨ- WASH | Bo nihtʰʲɯ; Mu níttɨ-ʔi (Note: see 482) [APBM *nittɯ́-(kɯ), (gáiʦáiʦaʔxɯ́kɯ, gáčáčaʔxɯ́kɯ), (íǰoáko), (íbɯ́nɯáko)]
+314.	PBoM *hɨʔba WORM | Bo ɯɯ́pa; Mu hɨ́ʔɨba [APBM *xɯ(ʔ)ɯ́ba, (čéʔói, čóʔói), (áppaiko), (…)]
+316.	PBoM *iʔhe- FUR | Bo ɨ́ʔhɨhɨ; Mu íhéʔene (Note: see 10,243,270) [APBM *ɨ́ʔxɨ́-(ʔono), *ɨ́ʔxɨ-(xɨ)]
+318.	PBoM *hɨɨ- SALIVA | Bo ɯɯnípa, ɯɯ́ni; Mu hɨ́ɨre [APBM *xɯ́ɯ-(rɨ), *xɯɯ-(ní-ba)]
+319.	PBoM *mɨppaino-ppai()u MILK | Bo mɯ́hpʰáɲe-hpʰákʰʲo ‘breast-liquid’; Mu mɨ́ɸaɲo-ɸáiʔu ‘breast-liquid’ [APBM *mɯ́ppáíne-ppáiko {breast-liquid,15,48}]
+320.	PBoM *-ma WITH | Bo -ma; Mu -ma [APBM *-ma, (-ri)]
+321.	PBoM *paino IN ‡ | Bo pʰaɲe; Mu ɸaɲo [APBM (-βɯ), (paine)]
+322.	PBoM *-βɨ AT | Bo -βɯ ‘adlative case’; Mu -βɨ [APBM (ʦaʦíi), (-βɯ)]
+323.	PBoM *-ʔaʧʧiihɨ IF | Bo ʔahʧʰííhʲɯ; Mu aʧʧihɨ [APBM *-ʔaččííxɯ, (-ka)]
+327.	PBoM *ʦee-mo-no CHILD | Bo ʦʰɨ́ɨ́-me-ne ‘child-pl-inan’; Mu séémene [APBM *ʦɨ́ɨ́-me-ne, *(gaí-píí)-ʦɨ́ɨ́]
+328.	PBoM *kɨβo- DARK | Bo kʰɯ́ɯ́βe-ne; ‘dark-inan’ Mu kɨ́βo-no (Note =227) [APBM *kɯ́βé-ne, *kɯ́βéʔteé-né, *kɯ́βe-(ʦíí)]
+330.	PBoM *kare- WIDE ‡ | Bo kʰorɨ́ɨ́-né ‘wide-inan’; Mu kárékuno [APBM *k(a)rɨ́(ko)-né, (mítane)]
+331.	PBoM *iihe NARROW | Bo ɨɨhɨ́; Mu ííhe-ne [APBM *ɨɨxɨ́-né-(gáyɯ́), (ɯ́tʦíne), (áyane), (páyokke)]
+334.	PBoM *peeme THICK ‡ | Bo pʰɨɨ́mɨ; Mu ɸééme-ne [APBM *pɨɨ́mɨ-(ne)]
+335.	PBoM *ɨtʦi-, aini- THIN | Bo ani, ɯhʦʰi; Mu ɨ́sino, áɲino [APBM *ɯ́tʦi-(ne), aini-(ne)]
+336.	PBoM *baaʔr()-no SHORT | Bo páʔríɲeɯ́βɯ́; Mu báárene [APBM *bááʔrí-ne(-ɯ́βɯ́)]
+338.	PBoM *ʦɨɨʔhe-βa-tɨ-no DULL | Bo ʦʰɯ́ʔhɨ́-βa-tʰɯ́-ne ‘sharp-have-neg-inan’; Mu sɨ́ɨ́he-βa-tɨ-no [APBM *ʦɯ́ɯ́ʔxɨ́βa-tɯ́-ne, (gíʔi-ne)]
+339.	PBoM *ʦɨɨhe-βa SHARP | Bo ʦʰɯ́ʔhɨ-βá-ne ‘sharp-have-inan’; Mu sɨ́ɨ́héβano [APBM *ʦɯ́ɯ́ʔxɨβá-ne]
+340.	PBoM *hiinɨ-βa-, beeβa- DIRTY | Bo iiɲɯ́-βá-ne ‘earth-have-inan’, pɨɨβa; Mu híínɨβano, bééβano [APBM *xiin(ɯ́)-βá-ne, *(βɨɨ)-βa-ne, *(mɯʔɯni)-βa-ne, *ɯ́diikk(o-ne), *ɯ́dííkk(ɯɯ́), (neʔni)]
+341.	PBoM *tuukɨ- ROTTEN | Bo tʰóókʰɯ-ne ‘rotten-inan’; Mu túúkɨ-no [APBM *tóókɯ-ne, (nókókoo-ne, nékékoo-ne), (rááraá), (čáxaaβé-né)]
+342.	PBoM *p()rɨɨkɨ-, *mooβa- SMOOTH | Bo pʰɨ́rɯɯkʰɯ́-ne, mééβa-ne; Mu párʲɨ́ɨ́kɨno, móóβano [APBM *(p)(ai)rɯɯkɯ́-ne, *mééβa-ne, *rɯ(tɯ́)rɯ́(tɯ)-(ko-ne), (tɯ́ʔtɯ́-ríβa-tɯ́-ne)]
+343.	PBoM *ʦa-tɨkko-βo STRAIGHT | Bo ʦʰa-tʰɯ́hkʰe-βe ‘one-straight-?’; Mu sá-tɨ́kko-βo [APBM *ʦa-tɯ́kkeβe]
+344.	PBoM *m()aa- CORRECT | Bo ɨ́mɨáá-ne ‘true-inan’; Mu míjáá-no (Note =346) [APBM *(tɯ́kkeβe-be) {343}, *(ɨ́)mɨáá-ne {343}]
+345.	PBoM *nani- LEFT | Bo náni-ɲéhkʰɯ ‘left-side’; Mu nániʔɨgo [APBM *náni-(ʔɯge), *náni-(nékkɯ)]
+346.	PBoM *()m()a- RIGHT | Bo ɨ́mɨá-néhkʰɯ ‘right-side’; Mu ímíja-nagono (Note =344) [APBM *(ɨ́)mɨ́a-(nage-ne). *(ɨ́)mɨá-(nekkɯ)]
+347.	PBoM *ʦɨk()-, *koomo- OLD ‡ | Bo ʦʰɯ́ɯ́kʰáa-ne, kʰeéme; Mu sɨ́kɨ́heʔɨno, kóomobo (Note = see 246) [APBM *ʦɯ́k(ɯ́xeʔɯ)-ne, *ʦɯ́k(áa)-ne, *kéeme-(be) {246,47}, (kiǰaʔo-te), (amia-te)]
+349.	PBoM *giiɨkɨ PULL | Bo ʧiɯ́kʰɯ; Mu gííjɨkɨ-ʔi [APBM *giiɯ́kɯ, (táǰári(ʔx)ɯ́kɯ)]
+351.	PBoM *piku THROW | Bo pʰikʰʲo ‘put’; Mu ɸíkú-ʔi ‘put-pred’ [APBM *piko, (gáino), (xɯkko), (gaáo), (gaagóo), (íččiβéʦo, ítʦiβéʦo), (kaʔpínɯ)]
+352.	PBoM *iʤaaju HIT ‡ | Bo íʧaájo; Mu íʤáju-ʔi ‘hit-pred’ [APBM *íǰaáyo, *gá-(βíríko), *gá-(nɯ́ɯ́kɯ), *gá-(póóβɨ), *gá-(paákko), *gá-(iáko), *gá-(pɯ́xɯʔxáko), (eʔnénɯ), (káitéiteʔxɯ́ko)]
+353.	PBoM *ga()er()- SPLIT | Bo kʷáʧʰéreákʰo; Mu gáʤéréku-ʔi ‘split-pred’ [APBM *gá(č)ére(á)ko]
+354.	PBoM *kapaitɨ-ɨ()ɨ-nɨ PIERCE | Bo kʰápʰátʰʲɯ-ɯ́kʰɯ-nɯ ‘pierce-?-do’; Mu káɸáttʲɨ́kkɨ-ʔi ‘pierce-pred’ [APBM *kápáítɯɯ́kkɯ-nɯ, (gáʔexɯ́ro)]
+355.	PBoM *ʦooʔdi DIG | Bo ʦʰeʔti; Mu séédi-ʔi ‘dig-pred’ [APBM *ʦeeʔdi, (kanokko), (ganókko)]
+356.	PBoM *ʦiʦʦɨ, *duʔhe-nɨ TIE ‡ | Bo ʧʰíhʧʰɯ, toʔhɨ́-nɯ ‘strap-do’; Mu sísɨ-ʔi, dúúhé-nɨ-ʔi ‘strap-do’ [APBM *ʦítʦɯ, *doʔxɨ́n(ɯ)]
+358.	PBoM *aak()()o- FALL ‡ | Bo aakʰítʰʲe; Mu áákétte-ʔi [APBM *aakí(t)te, (áípɨ, áípe)]
+359.	PBoM *huuri- SWELL | Bo oóri; Mu húúri-ʔi [APBM *xooríi-(ne), (gaaméne), (ɨ́baʦɯ́ɯ́βe)]
+360.	PBoM *etʦam()i- THINK | Bo ɨ́hʦʰaméi; Mu ésámáái-ʔi [APBM *ɨ́tʦam(áá)i, *ɨ́tʦ(ɯ́-kɯnɯ), *ɨtʦ(o)]
+361.	PBoM *matʦi-βa SING | Bo mahʦʰíβa ‘song-have’; Mu másí-βa-ʔi [APBM *matʦí-βa, (gáníkkaméi)]
+362.	PBoM *hɨgikk(), *uʦʦu SMELL ‡| Bo ɯʧíhkʰʲɯ, ohʦʰó; Mu hɨ́gíkku-ʔi, úsu-ʔi [APBM *xɯgíkk(o), *otʦó-ʔi, (nɯ́nɯɯkkɯ), *xɯ́gi(ɯ́kɯ), (ʦíiʔxɯ́kɯ), (aráʔko) {tr}, (βoβókkɯ), (kɯβa), (áipɯ́xakóóβe) {intr}]
+365.	PBoM *ebaʦu-, buuʦu- BLOW ‡ | Bo ɨpáʦʰo, pohʦʰókʰɯ; Mu ébásu-ʔi, búúsu-ʔi [APBM *ɨ́báʦ(ɯ)(ʔxáko), *bootʦó-(kɯ), *gitʦɯ́-(kɯ), (poonɯ), (gíbó), (βoβókkɯ), (iókko), (βooíkɯ), (áápɯɯ́kɯ), (číyoáko), (ɯɯ́bo)]
+366.	PBoM ?*igi FEAR | Bo iʧi; Mu ígi-ʔi (Note =542) [APBM ?*igí, *(ai)n(ó)ɯʔ(i)kko(), *nɯʔ(néβe), (ápiiʦóge, ápiičóge), (áábiméi), (ámɨ́ʦáraʔkóge), (nóɯʔkóge)]
+367.	PBoM *aamɨ-ʦu SQUEEZE ‡| Bo aamɯ́-ʦʰó ‘hit-caus’; Mu áámɨ́-su-ʔi [APBM *(m)aámɯ, *aamɯ́-ʦó, ((ai)n(ai)nɨko), (gátiainɨ), (páíʦíɯʔxáko, páčíɯʔxáko), (…)]
+368.	PBoM *ikka HOLD | Bo ihkʰʲa ‘be’; Mu ikka-ʔi ‘be’ [APBM *ikka(ne), (gááyɯkkɯnɯ), (kátóroʔxáko), (teʔme), (maitʦóʦo, maččóʦo)]
+369.	PBoM *giino, baa-ri DOWN | Bo ʧiíɲe, paá-ri ‘below-loc’; Mu gíino, báari [APBM *gií-ne, *baári]
+370.	PBoM *kamo UP | Bo kʰaame; Mu káamoβɨ [APBM *kaame]
+371.	PBoM *naamo- RIPE | Bo name-ne ‘sweet-inan’; Mu náámo-no (Note =558) [APBM *nááme-ne, (tɯpai-ne), (kéémene)]
+372.	PBoM *-giihɨ DUST | Bo ʧíhʲɯɯ́; Mu gíihɨ [APBM *pá-giixɯ {57,164,171}, *(xíínɯ)-giixɯ {72}]
+373.	PBoM *buʔee- ALIVE | Bo póʔɨ́ɨ́-pe ‘alive-masc.sg’; Mu búʔée-no [APBM *bóʔɨ́ɨ́-(beke), (gáxánékkɯ́ɯ́-beke), (ménɯ́nékkɯ́ɯ́-beke)]
+374.	PBoM *gaaiba-ɨ ROPE ‡ | Bo kʷáápʲa-ɯ ‘?-cl’; Mu gáaiba-ɨ [APBM *gáaibaɯ, (dóoxɨ-yɯ), (pádoʔxɨ)]
+375.	PBoM *pi(k)kaba YEAR | Bo pʰíhkʰʲapa; Mu ɸikába [APBM *pí(k)kaba, (meeméʔe)]
+378.	PBoM *-g()ɨ DIMINUTIVE | Bo -kʷɯ.ɯ; Mu -gajɨ (Note: The Bora form is bisyllabic)
+379.	PBoM *muuai BIG RIVER | Bo moóa; Mu múúai (Note =49,311) 
+380.	PBoM *baa-(ʔ)o-ha LONGHOUSE | Bo pá-e-haá ‘below-belong-house’; Mu báa-ʔo-ha
+382.	PBoM *hɨgaa-he STONE AXE | Bo ɯ́kʷaá-hɨ ‘stone-cl:disc’; Mu hɨ́gáá-he (Note: = 88)
+383.	PBoM *n()ʦ()ga MACHETE | Bo nɨɨʦʰɯ́kʷa; Mu níísuga (Note =89)
+384.	PBoM *hiibai DEER | Bo iípa ‘grey deer’; Mu híibái 
+385.	PBoM *in()ʔai MACAW (BLUE) | Bo íɲaʔa; Mu ínoʔai (Note =129) 
+386.	PBoM *tɨɨp()-megai ANT (CONGA) | Bo tʰɯ́ɯ́pʰá-mʲeékʷa ‘red-woman’; Mu tɨ́ɨ́ɸo-mogai 
+387.	PBoM *peeka BITTER MANIOC (PLANT) | Bo pʰɨɨ́kʰa; Mu ɸéeka 
+388.	PBoM ?*ká()()()ʔaaku PUSH | Bo kʰáβɯ́i-ʔhʲákʰo ‘push-?’; Mu kábújaaku-ʔi  (push-predicate)
+389.	PBoM *áittɨme FIND | Bo áhtʰʲɯmɨ; Mu átʲɨ́me-ʔi
+390.	PBoM *dɨʔkɨ GET ILL | Bo tɯʔkʰɯ; Mu dɨ́ɨ́kɨba 
+391.	PBoM *gáirɨɨ-ʔaiɲɨ SQUEEZE MANIOC DOUGH | Bo kʷájɯʔánɯ; Mu gárʲɨ́ɨ́ʔáɲɨ-ʔi 
+392.	PBoM ííno GERMINATE | Bo iiɲe; Mu ííne-ʔi 
+394.	PBoM *kóóβádííkku, *gái()a SCREAM | Bo kʰéβátihkʰʲo, kʷáβáhaaβe; Mu kóóβádííku-ʔi, gáiba-ʔi 
+395.	PBoM *toomo- KEEP | Bo tʰeʔme ‘keep, guard’; Mu tééme-ʔi ‘keep, guard’ 
+398.	PBoM *móónɨ MAKE ‡ | Bo meénɯ; Mu móónɨ 
+401.	PBoM *taa CRY ‡ | Bo tʰaa; Mu táa-ʔi 
+402.	PBoM *gáʤúu, *táhɨɨʔba ORDER, COMMAND | Bo kʷaʧoo, tʰáɯʔpa; Mu gáʤúu-ʔi, táhɨ́ɨ́ba-ʔi 
+403.	PBoM *máa-, *péépai- GET WET | Bo máhaa-βe, pʰɨ́pʰáhʧʰómei; Mu máa-ʔi, ɸééɸai-ʔi (Note: see 312)
+406.	PBoM *paikuumɨɨ MANICUERA MANIOC | Bo pʰákʰʲoómɯ; Mu ɸáikúumɨɨ 
+407.	PBoM *pííβo BE BORN | Bo pʰiiβʲe; Mu ɸííβe-ʔi 
+408.	PBoM *níppai URINATE | Bo nihpʰa; Mu níɸai-ʔi 
+410.	PBoM *nobú FART | Bo neépo ; Mu núbúsu-ʔi 
+412.	PBoM *díʤu ASK | Bo tiʧo; Mu díʤu-ʔi 
+413.	PBoM *nɨtʦu TASTE | Bo nɯhʦʰo; Mu nɨ́su-ʔi 
+414.	PBoM *pítá() STAY | Bo pʰítʰʲáʔa-aβe; Mu ɸítáɸéte-ʔi 
+417.	PBoM *ím()-go-, gáihɨ-, káβa- WANT | Bo imí-ʧe ‘good-consider’, kʷahʲɯ, kʰaaβa; Mu íme-ge-ʔi, gáihɨ-ʔi, káβa-ʔi 
+418.	PBoM *kaʦu GRATE | Bo kʰaaʦʰo; Mu kásu-ʔi (Note =529)
+426.	PBoM *i()-ro ALONE | Bo i-je ‘3-rest’; -re; Mu íí-no-ro ‘3-inan-rest’, -re
+427.	PBoM *tɨga DREAM | Bo tʰɯkʷa; Mu tɨ́ga-ʔi 
+429.	PBoM *tugaa SWEAT | Bo tʰokʷa; Mu túgáa-ʔi 
+431.	PBoM áih()ba BE HUNGRY | Bo ahʲápááβatʰe; Mu áheba 
+434.	PBoM *áhé ITCH | Bo ahɨ; Mu áhéβano 
+435.	PBoM *garééku, ʦúʔkúʦu- ROAST | Bo kʷárɨʔkʰo, ʦʰóʔkʰoʦʰo ; Mu garééku-ʔi, súkúsu-ʔi 
+437.	PBoM *ʦ()βa BRING | Bo ʦʰiβa; Mu sɨ́βa-ʔi 
+440.	PBoM *ba PAY A VISIT | Bo paa-ʔi; Mu báa-ʔi 
+441.	PBoM *namettɨhe GRASSLAND | Bo nómɨ́htʰɯhɨ; Mu námettɨhe (Note: =150, dialect. variant Mu námettehe) 
+442.	PBoM *ííhɨ YESTERDAY ‡ | Bo iíhʲɯ; Mu ííhɨ 
+444.	PBoM *paino INSIDE | Bo pʰaɲe; Mu ɸáɲo (Note: 321) 
+445.	PBoM *paiβoo SOFT, TENDER | Bo pʰaβʲee; Mu ɸáiβée-ʔi 
+446.	PBoM *im() HAPPY | Bo imí-hʲɯɯ; Mu ímo ímo 
+447.	PBoM *paapai BITTER ‡ | Bo pʰaapʰa; Mu ɸááɸa-ɲo 
+448.	PBoM *góóβá FAST | Bo ʧeβá; Mu góóβá-no 
+450.	PBoM *ái()ɨme-tɨ BLIND | Bo áhʧʰɯ́mɨ-tʰɯ́ɯ́-pe ‘see-neg-masc.sg’; Mu áatʲɨme-tɨ- (Note: cf. 277) 
+451.	PBoM *mɨkku DOCK, PORT | Bo mɯ́hkʰohɯ; Mu mɨ́ku 
+454.	PBoM *ɨme FACE | Bo ʔɯ́mɨ; Mu ɨ́me 
+456.	PBoM *hɨβiiba BASKET | Bo ɯ́βiípa; Mu hɨ́ííbai 
+458.	PBoM ?*hɨ()aʔʦ() FOAM | Bo ɯráʔʦʰa ; Mu hɨ́βáase 
+461.	PBoM *pééno MIDDLE | Bo pʰɨɨne; Mu ɸééne 
+462.	PBoM *hanoo-tto THORN | Bo áneétʰo ‘thorn-cl’; Mu hánúútu (Note: see 269) 
+463.	PBoM *káamo TALL | Bo kʰaame; Mu káamo 
+464.	PBoM *kúume PALM OENOCARPUS BATAUA | Bo kʰoómɨ; Mu kúume-ʔe 
+465.	PBoM *táábú MEDICINE | Bo tʰaapo; Mu táábú-ta 
+467.	PBoM *buun() LATER ON | Bo -poone; Mu -búúna 
+468.	PBoM *giraa- A LOT | Bo ʧíjá; Mu gíráano 
+469.	PBoM *dóhɨku BEHIND | Bo téhɯkʰo; Mu dóhɨku-tɨ (behind-abl)
+471.	PBoM *gaʔpo FULL | Bo kʷaʔpʰe; Mu gáʔáɸono (Note: =297) 
+474.	PBoM *máʦakka PEANUTS | Bo máʦʰahkʰa; Mu másaka 
+475.	PBoM g()-ʔátʦ() YARD, COURT (OF MALOCA) | Bo ʧá-ʔahʦʰɨ ‘?-cl:yard’; Mu góóʔási 
+476.	PBoM *héékkɨ CRESTED OROPENDOLA | Bo ɨhkʰɯ; Mu héékɨ 
+477.	PBoM *kaʔgɨnɨku MANIOC STARCH DRINK | Bo kʰaʔkɯ́nɯkʰo; Mu káágɨnɨku
+478.	PBoM *gátʦe- ARRIVE | Bo kʷahʦʰɨ; Mu gáse-ʔi 
+479.	PBoM *dɨɨrɨ-ba- OIL | Bo tɯ́ɯ́rɯ́pa-hpʰákʰʲo ‘grease-cl:liquid’; Mu dɨ́ɨrɨba (Note =267)
+482.	PBoM *níttɨ-ba SIFTER | Bo níhtʰʲɯ-pa ‘wash-cl’; Mu nítɨba (Note: see 313)
+484.	PBoM *áiβo SPICY | Bo aβʲe; Mu áiβe-ʔi 
+489.	PBoM *hɨɨbaimo DANCING FESTIVAL | Bo ɯ́ɯ́pamʲe; Mu hɨ́ɨbaimo 
+491.	PBoM *gádameeʔu MANIOC SQUEEZER | Bo kʷátari- ‘put inside’, -mɨɨ́ʔo ‘cl:shell’; Mu gádameeʔu 
+492.	PBoM *méékɨme MIRROR | Bo mɨ́ɨ́kʰɯmɨ; Mu méékɨme 
+494.	PBoM *ʔaʧʧi SON †‡ | Bo ʔahʧʰi; Mu áʧi 
+495.	PBoM *mɨʦi, *mɨpe WE TWO | Bo mɯʦʰi ‘1.dual.masc’, mɯpʰɨ ‘1.dual.fem’; Mu mɨ́sí, mɨ́ɸe 
+496.	PBoM *amɨʦi, *amɨpe YOU TWO | Bo ámɯʦʰi, ámɯpʰɨ; Mu ámɨ́ɨ́sí, ámɨ́ɨ́ɸe 
+497.	PBoM *dii-t()-ʦi THEY TWO (M.) | Bo tiitʰʲé-ʦʰi ‘3-pl-dual.masc; Mu díítɨsi 
+498.	PBoM *dii-t()-pe THEY TWO (F.) | Bo tiitʰʲé-pʰɨ ‘3-pl-dual.fem’; Mu díítɨɸe 
+499.	PBoM *i- HER… | Bo i-; Mu i- 
+500.	PBoM *duu EAT MEAT | Bo toó; Mu dúu-ʔi 
+501.	PBoM *nɨɨ WEAVE | Bo nɯɯ; Mu nɨ́ɨ-ʔi 
+502.	PBoM *neheʔku LICK | Bo nɨhɨ́-ʔkʰo ; Mu néhééku-ʔi 
+503.	PBoM *hɨbu HEALING BLOW | Bo ɯɯ́po; Mu hɨ́ɨ́búu-ʔi 
+504.	PBoM *aam()hɨ DOWNRIVER | Bo áámehɯ; Mu áamɨhɨ 
+506.	PBoM *aikko WAKE UP | Bo ahkʰʲe; Mu áiké-ʔi 
+507.	PBoM *kɨɨhɨgai FIREPLACE | Bo kʰɯ́hɯ́kʷa-ʔáhʦʰɨ ‘fire-place’; Mu kɨ́ɨ́hɨgai ‘fire’ 
+508.	PBoM *níttɨba SIEVE | Bo níhtʰʲɯ-pa ‘wash-cl’; Mu nítɨ́ba
+509.	PBoM *ʤari-ga DANCING BEAM | Bo ʧaarí-kʷa ‘?-cl.plank’; Mu ʤáriga 
+510.	PBoM *mɨʦééʦe CAIMITO FRUIT (POUTERIA CAIMITO) | Bo mɯ́ʦʰɨ́ɨ́ʦʰɨ; Mu mɨ́séése 
+511.	PBoM *háaʤa PALM SOCRATEA EXORRHIZA | Bo ááʧa-ʔe; Mu háaʤa 
+512.	PBoM *kaatɨ LEAVES THAT PRODUCE BLACK COLOR | Bo kʰáátʰɯ; Mu káatɨ 
+513.	PBoM *moomo PEACH PALM (BACTRIS GASIPAES) | Bo mééme; Mu móomo 
+514.	PBoM *taaβi-ʔo CECROPIA SP. | Bo tʰaaβíʔʲe ‘Cecropia-cl:tree’; Mu tááβí-ʔo
+515.	PBoM *haaʔo MACAMBO FRUIT (THEOBROMA BICOLOR) | Bo aáʔe; Mu hááʔo 
+518.	PBoM *tɨɨʦi-ʔo INGA EDULIS | Bo tʰɯ́ɯ́ʦʰi-ʔʲe ‘?-cl’; Mu tɨ́ɨsi-ʔo 
+519.	PBoM *hɨgo-ba CERAMIC SAUCEPAN | Bo ɯ́ʧe-pa ‘?-cl’; Mu hɨ́go-ba
+520.	PBoM *báaku UVILLA FRUIT (POUROUMA CECROPIAEFOLIA) | Bo páákʰo; Mu báaku 
+521.	PBoM *áinɨ-hɨ RIFLE | Bo aɲɯ́-hɯ ‘shoot-cl:tube’; Mu áɲɨ́-hɨ 
+522.	PBoM *nehe PALM ASTROCARYUM CHAMBIRA | Bo nɨ́hɨ-ʔe; Mu néhe 
+523.	PBoM *niimɨ UMARÍ FRUIT (PORAQUEIBA SERICEA) | Bo níímɯ́-ʔe; Mu níímɨ 
+525.	PBoM *m()níiko EDIBLE ANT | Bo méniíkʰʲe ; Mu míníikoʔɨ 
+526.	PBoM *kúúhɨ AVOCADO (PERSEA AMERICANA) | Bo kʰóóhɯ-ʔe; Mu kúúhɨ 
+527.	PBoM áppai-ku EDIBLE LARVAE | Bo áhpʰa-kʰʲo ‘larva-cl’; Mu áɸaiku 
+529.	PBoM *kaʦu GRATER | Bo kʰáʦʰoó-kʷa ‘grate-cl:plank’; Mu kásu-ʔi ‘grate’ (Note =418)
+530.	PBoM íno-ʔo MIRITI PALM (MAURITIA FLEXUOSA) | Bo íɲe-ʔe ‘miriti-cl:tree’; Mu íno-ʔo 
+532.	PBoM *-ʔakkɨ PILLARS (OF ROUNDHOUSE) | Bo ápʰɨ-ʔáhkʰɯ; Mu ɯ́má-ʔakɨ 
+533.	PBoM *háhe LEPIDOCARYUM TENUE PALM (FOR THATCHING ROOFS) | Bo áhɨ-ʔíípa; Mu háhe 
+534.	PBoM *geen() EAT FRUIT | Bo ʧeéne; Mu gééne-ʔi 
+535.	PBoM *dooikkɨ CHEW COCA | Bo teíhʲkʰɯ; Mu dééikɨ 
+536.	PBoM *namo FECES | Bo name; Mu namo 
+539.	PBoM *mákká-nɨ DROWN | Bo máhkʰa-nɯ ‘drown-do’; Mu máká-nɨ-ʔi 
+541.	PBoM *gáihúkku PULL OUT | Bo kʷáhʲohko; Mu gáihúku-ʔi 
+542.	PBoM *ígi GET SCARED | Bo iʧítʲe; Mu ígi-ʔi (Note =366) 
+543.	PBoM *n()kúppé-go- SHAME | Bo nɯ́kʰohpʰɨ́-ʧe ‘shame-consider’; Mu núkú-ɸége-ʔi
+544.	PBoM *gaʔʦe DANCE | Bo kʷaʔʦʰɨ; Mu gááse-ʔi 
+547.	PBoM *taaβa HUNT | Bo tʰaaβa; Mu tááβa-ʔi 
+549.	PBoM *tɨ COOK | Bo tʰɯɯ; Mu tɨ́ɨ-ʔi 
+550.	PBoM *ɨkkɨ CATCH | Bo ɯhkʰɯ; Mu ɨ́kɨ-ʔi 
+551.	PBoM *hɨɨb()go TELL, NARRATE | Bo ɯɯpáʧe; Mu hɨ́ɨ́bege-ʔi (Note =291)
+553.	PBoM *βɨrɨ CUT | Bo -βɯrɯ-; Mu gáβɨrɨ́ɨ́ku-ʔi
+554.	PBoM *ainɨ SHOOT | Bo aɲɯ; Mu áɲɨ-ʔi 
+556.	PBoM *gírííká-βo- GET DRUNK | Bo ʧijííkʰʲa-βe ‘shake-vblz’; Mu gírííká-βe-ʔi 
+557.	PBoM *kɨmɨ WOOLY MONKEY (LAGOTHRIX LAGOTRICHA) | Bo kʰɯɯ́mɯ; Mu kɨ́ɨ́mɨba 
+558.	PBoM *naamo SWEET ‡ | Bo naáme; Mu náamo (Note =371)
+560.	PBoM *-bo MASCULINE (SUFFIX) | Bo -pe; Mu -bo 
+562.	PBoM *apiiʧu, *ʤɨɨ()a-nɨ CONJURE | Bo ápʰííʧʰo, ʧɯɯβá-nɯ ‘conjure-do’; Mu ápíʧu, ʤɨ́ɨ́ʔa-nɨ-ʔi

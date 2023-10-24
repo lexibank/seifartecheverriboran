@@ -1,0 +1,1246 @@
+ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCABULARY
+1	PBoM	nehe	TONGUE  	1			1	*nehe	*(mé)- ʔnɨ́xɨ-()	Leipzig-Jakarta, Swadesh
+2	Bora	nɨ́ɨ́hɨ-kʷa 	TONGUE  	1	lick-cl:plank		1	*nehe		Leipzig-Jakarta, Swadesh
+3	Muinane	néhe-ba 	TONGUE  	1			1	*nehe		Leipzig-Jakarta, Swadesh
+4	PBoM	i-hɨ	MOUTH  	2			2	*i-hɨ	*íiʔ-xɯ {?-mouth}	Leipzig-Jakarta, Swadesh
+5	Bora	íʔ-hʲɯɯ́ 	MOUTH  	2	3.sg-cl:tube		2	*i-hɨ		Leipzig-Jakarta, Swadesh
+6	Muinane	íi-hɨ 	MOUTH  	2			2	*i-hɨ		Leipzig-Jakarta, Swadesh
+7	PBoM	hɨni-ba	LIP 	3			3	*hɨni-ba	*(mé)-xɯ́-niba {mouth-?}	
+8	Bora	ɯ́ni-pa 	LIP 	3	spit-cl		3	*hɨni-ba		
+9	Muinane	hɨ́niba 	LIP 	3			3	*hɨni-ba		
+10	PBoM	iʔgai	TOOTH  	4			4	*iʔgai	*ííʔ-gáí-neé {tooth-finger-?,23}, *(mé)-ííʔgá(xɨɨ́)	Leipzig-Jakarta, Swadesh
+11	Bora	íʔkʷáhɨɨ́ 	TOOTH  	4	3-?cl:plank?		4	*iʔgai		Leipzig-Jakarta, Swadesh
+12	Muinane	íígai 	TOOTH  	4			4	*iʔgai		Leipzig-Jakarta, Swadesh
+13	PBoM	tɨhɨ-ʔu	NOSE  	5			5	*tɨhɨ-ʔu	*tɯ́xɯ-ʔ(exɯ)	Leipzig-Jakarta, Swadesh
+14	Bora	tʰɯ́-hɯ-ʔo 	NOSE  	5	smell-?cl:tube?-cl:oblong		5	*tɨhɨ-ʔu		Leipzig-Jakarta, Swadesh
+15	Muinane	tɨ́hɨ-ʔu 	NOSE  	5			5	*tɨhɨ-ʔu		Leipzig-Jakarta, Swadesh
+16	PBoM	aʤɨ-ɨ	EYE  	6			6	*aʤɨ-ɨ	*(me)-ʔááǰɯɯ	Leipzig-Jakarta, Swadesh
+17	Bora	ʔáʧɯ-ɯ 	EYE  	6	above-cl:round		6	*aʤɨ-ɨ		Leipzig-Jakarta, Swadesh
+18	Muinane	ááʤɨ-ɨ 	EYE  	6			6	*aʤɨ-ɨ		Leipzig-Jakarta, Swadesh
+19	PBoM	nɨ()-meeʔu	EAR  	7			7	*nɨ()-meeʔu	*nɯ́xɯ-mɨɨʔo	Leipzig-Jakarta, Swadesh
+20	Bora	nɯ́ɯ́-mɨʔo 	EAR  	7	hear?-cl:skin		7	*nɨ()-meeʔu		Leipzig-Jakarta, Swadesh
+21	Muinane	nɨ́-hɨ-meeʔu 	EAR  	7	hear?-?-cl:tube?-cl:skin 		7	*nɨ()-meeʔu		Leipzig-Jakarta, Swadesh
+22	PBoM	niga-ɨ	HEAD  	8			8	*niga-ɨ	*nígaɯ	Swadesh
+23	Bora	nííkʷa-ɯ 	HEAD  	8	head-cl:round		8	*niga-ɨ		Swadesh
+24	Muinane	níga-ɨ 	HEAD  	8			8	*niga-ɨ		Swadesh
+25	PBoM	ɨme-ku	FOREHEAD 	9			9	*ɨme-ku	*ɯ́mɨko	
+26	Bora	ʔɯ́mɨ-kʰo 	FOREHEAD 	9	face-cl		9	*ɨme-ku		
+27	Muinane	ɨ́me-ku 	FOREHEAD 	9			9	*ɨme-ku		
+28	PBoM	-hee-	HAIR  	10			10	*-hee-	*nígaɯ-xɨɨne {head-hair, 8,243}, *nígaɯ-(ko)	Leipzig-Jakarta, Swadesh
+29	Bora	ɨʔ-hɨne 	HAIR  	10	3.sg-hair-pl		10	*-hee-		Leipzig-Jakarta, Swadesh
+30	Muinane	nígaɨ-hee-ne 	HAIR  	10	head-hair-pl 	see 243,270,316 	10	*-hee-		Leipzig-Jakarta, Swadesh
+31	PBoM	hɨkk()	BEARD 	11			12	*hɨkk()	*xɯ́kk(e) ʔ(ai)	
+32	Bora	ɯ́hkʰaʔe	BEARD 	11			12	*hɨkk()		
+33	Muinane	hɨ́kkoʔai 	BEARD 	11			12	*hɨkk()		
+34	PBoM	ppeeɨ-he	CHEST 	12			14	*ppeeɨ-he	*(mé)-ppɨ́ɨɯ-xɨ {chest-flat,61}, *(xɨ́ɨbɯɯga, kɯ́ɯdɯɯ) mɨ́ɨ(kko)ʔo, (…)	
+35	Bora	hpʰɨ́ɯ-hɨ 	CHEST 	12	?-cl:flat		14	*ppeeɨ-he		
+36	Muinane	ɸéejɨ-he 	CHEST 	12			14	*ppeeɨ-he		
+37	PBoM	mɨppaino	WOMAN’S BREAST  	13			15	*mɨppaino	*(mé)-mɯ́ppaine	Leipzig-Jakarta, Swadesh
+38	Bora	mɯhpʰáɲe	WOMAN’S BREAST  	13			15	*mɨppaino		Leipzig-Jakarta, Swadesh
+39	Muinane	mɨ́ɸaɲo 	WOMAN’S BREAST  	13			15	*mɨppaino		Leipzig-Jakarta, Swadesh
+40	PBoM	iiʔba	ABDOMEN 	14			16	*iiʔba	*(áá)-mɨ́ɨʔo {14}, *(mé)-íiʔbá(ɯ) {244,245,272}	
+41	Bora	íʔpá-ɯ 	ABDOMEN 	14	belly-cl:round		16	*iiʔba		
+42	Muinane	ííba 	ABDOMEN 	14		Note =244,245,272 	16	*iiʔba		
+43	PBoM	hɨhe-ba	SHOULDER 	15			18	*hɨhe-ba	*(mé)-xɯ́xɨ-ba(ɯ)	
+44	Bora	ɯ́hɨ-pa 	SHOULDER 	15	?-cl		18	*hɨhe-ba		
+45	Muinane	hɨ́he-baɨ 	SHOULDER 	15			18	*hɨhe-ba		
+46	PBoM	nokkɨ-gai	ARM  	16			19	*nokkɨ-gai	*(mé)-nékkɯ-gai	Leipzig-Jakarta
+47	Bora	néhhɯ-kʷa 	ARM  	16	side-cl:plank		19	*nokkɨ-gai		Leipzig-Jakarta
+48	Muinane	nókkɨ-gai 	ARM  	16			19	*nokkɨ-gai		Leipzig-Jakarta
+49	PBoM	()o()i	ELBOW 	17			21	*()o()i	(méniko), (me-némiɯ)	
+50	Bora	némi-ɯ 	ELBOW 	17	?-cl:round		21	*()o()i		
+51	Muinane	méni-ku 	ELBOW 	17	?-cl:pointed 		21	*()o()i		
+52	PBoM	ʔutʦe	HAND  	18			22	*ʔutʦe	*(mé)-ʔótʦɨɨ́	Swadesh
+53	Bora	ʔóhʦʰɨɨ́	HAND  	18			22	*ʔutʦe		Swadesh
+54	Muinane	úse 	HAND  	18			22	*ʔutʦe		Swadesh
+55	PBoM	ʔutʦe-gai	FINGER 	19			23	*ʔutʦe-gai	*(mé)-ʔótʦɨ-gai {hand-finger,4,(11?),19,24,30,50,87}	
+56	Bora	ʔóhʦʰɨ-kʷa 	FINGER 	19	hand-cl:plank		23	*ʔutʦe-gai		
+57	Muinane	úse-gai 	FINGER 	19			23	*ʔutʦe-gai		
+58	PBoM	ʔutʦe-gai-meeʔu	FINGERNAIL 	20			24	*ʔutʦe-gai-meeʔu	*(mé)- ʔótʦɨ-gai-mɨ́ɨʔo	
+59	Bora	ʔóhʦʰɨ-kʷa-mɨ́ɨ́ʔo 	FINGERNAIL 	20	hand-cl:plank-cl:skin		24	*ʔutʦe-gai-meeʔu		
+60	Muinane	úse-gai-méeʔu 	FINGERNAIL 	20			24	*ʔutʦe-gai-meeʔu		
+61	PBoM	memu	KNEE  	21			27	*memu	*(mé)-mɨ́mo-()	Leipzig-Jakarta, Swadesh
+62	Bora	mɨ́mo-kʰo 	KNEE  	21	knee-cl:pointed		27	*memu		Leipzig-Jakarta, Swadesh
+63	Muinane	mému-ba 	KNEE  	21	knee-cl 		27	*memu		Leipzig-Jakarta, Swadesh
+64	PBoM	ttɨʔaai	FOOT  	22			29	*ttɨʔaai	*(mé)-ttɯ́-ʔaáí	Swadesh
+65	Bora	htʰɯ́-ʔaá	FOOT  	22			29	*ttɨʔaai		Swadesh
+66	Muinane	tɨ́-ʔai 	FOOT  	22			29	*ttɨʔaai		Swadesh
+67	PBoM	ttɨ-gaai	TOE 	23			30	*ttɨ-gaai	*(mé)-ttɯ́-gaái {foot-finger,23}	
+68	Bora	htʰɯ́-kʷaá 	TOE 	23	foot-cl:plank		30	*ttɨ-gaai		
+69	Muinane	tɨ́-gai 	TOE 	23			30	*ttɨ-gaai		
+70	PBoM	meeʔo	SKIN  	24			31	*meeʔo	*(iáábe) (mé)-ʔmɨ́ɨʔe(é)	Leipzig-Jakarta, Swadesh
+71	Bora	mɨ́ɨ́ʔeé	SKIN  	24			31	*meeʔo		Leipzig-Jakarta, Swadesh
+72	Muinane	méeʔe 	SKIN  	24			31	*meeʔo		Leipzig-Jakarta, Swadesh
+73	PBoM	bakkɨ	BONE  	25			32	*bakkɨ	*bákkɯɯ́	Leipzig-Jakarta, Swadesh
+74	Bora	páhkʰɯɯ́	BONE  	25			32	*bakkɨ		Leipzig-Jakarta, Swadesh
+75	Muinane	bákkɨ 	BONE  	25			32	*bakkɨ		Leipzig-Jakarta, Swadesh
+76	PBoM	tɨɨ	BLOOD  	26			33	*tɨɨ	*tɯ́ɯ́-(xéʔe), *tɯ́ɯ́-(ppaiko)	Leipzig-Jakarta, Swadesh
+77	Bora	tʰɯ́-hpʰakʰʲo 	BLOOD  	26	red-cl:liquid		33	*tɨɨ		Leipzig-Jakarta, Swadesh
+78	Muinane	tɨ́ɨ́-hóʔo 	BLOOD  	26	red-cl? 		33	*tɨɨ		Leipzig-Jakarta, Swadesh
+79	PBoM	heebɨ-ɨ	HEART  	27			34	*heebɨ-ɨ	*(kɯ́ɯdɯɯ), *(mé)-xɨ́ɨbɯɯ	Swadesh
+80	Bora	ɨ́ɨ́pɯ-ɯ 	HEART  	27	interior-cl:round		34	*heebɨ-ɨ		Swadesh
+81	Muinane	héebɨ-ɨ 	HEART  	27			34	*heebɨ-ɨ		Swadesh
+82	PBoM	βaβa-ga	LUNGS 	28			35	*βaβa-ga	*βááʔβága, (xɯ́-giʦɯ-ba), (maráʔ-ba), (marááʔ-o)	
+83	Bora	βaʔβá-kʷa 	LUNGS 	28	?-cl:plank		35	*βaβa-ga		
+84	Muinane	βáaβa-ga 	LUNGS 	28			35	*βaβa-ga		
+85	PBoM	m()a-mɨnaa-ppi	MAN  	29			38	*m()a-mɨnaa-ppi	*gai-ppi, *mɨ́ámɯ́náa-ppi {41}	Swadesh
+86	Bora	mɨ́a-mɯ́náa-hpʰi 	MAN  	29	real-people-masc.sg		38	*m()a-mɨnaa-ppi		Swadesh
+87	Muinane	míjá-mɨnaa-ɸi 	MAN  	29			38	*m()a-mɨnaa-ppi		Swadesh
+88	PBoM	gai-ppi	MAN 	30			39	*gai-ppi	*gai-ppi, *ʦaa-ppi {one-male}	
+89	Bora	kʷa-hpʰi 	MAN 	30	?-masc.sg		39	*gai-ppi		
+90	Muinane	gáí-ɸi 	MAN 	30			39	*gai-ppi		
+91	PBoM	gai-go	WOMAN  	31			40	*gai-go	*gai-ge, (mɨ́ámɯ́ná-ge) {41}	Swadesh
+92	Bora	kʷa-ʧe 	WOMAN  	31	?-fem.sg		40	*gai-go		Swadesh
+93	Muinane	gáí-go 	WOMAN  	31			40	*gai-go		Swadesh
+94	PBoM	mia-mɨnaa	PEOPLE 	32			41	*mia-mɨnaa	*mɨ́amɯ́naa {38,40}	
+95	Bora	mɨ́a-mɯ́naa 	PEOPLE 	32	real-people		41	*mia-mɨnaa		
+96	Muinane	míjá-mɨnaa 	PEOPLE 	32			41	*mia-mɨnaa		
+97	PBoM	tahe	HUSBAND 	33			42	*tahe	*taxɨ, *áí-táxɨɨ́ {my-husband}, *áíxɯɯ́	
+98	Bora	tʰahɨ	HUSBAND 	33			42	*tahe		
+99	Muinane	táhe 	HUSBAND 	33			42	*tahe		
+100	PBoM	taaba	WIFE 	34			43	*taaba	*taába, *ái-táabaá {my wife}, (mega)	
+101	Bora	tʰaápa	WIFE 	34			43	*taaba		
+102	Muinane	táaba 	WIFE 	34			43	*taaba		
+103	PBoM	giʔiru,kaani	FATHER 	35			44	*giʔiru,kaani	*giʔí-ro(bi), (kááni)	
+104	Bora	ʧiʔíjo, kʰaani	FATHER 	35			44	*giʔiru,kaani		
+105	Muinane	gíʔírubi, kááni 	FATHER 	35			44	*giʔiru,kaani		
+106	PBoM	gaʔa-ro,ʦeehɨ	MOTHER 	36			45	*gaʔa-ro,*ʦeehɨ	*gaʔá-ro(bi)	
+107	Bora	kʷaʔáro, ʦʰɨ́ɨ́hɯ	MOTHER 	36			45	*gaʔa-ro,*ʦeehɨ		
+108	Muinane	gáʔárubi, sééhɨ 	MOTHER 	36			45	*gaʔa-ro,*ʦeehɨ		
+109	PBoM	ʦeemono	BABY,INFANT 	37			46	*ʦeemono	*ʦɨ́ɨmene {327}	
+110	Bora	ʦʰɨ́ɨ́mene	BABY,INFANT 	37			46	*ʦeemono		
+111	Muinane	séemene 	BABY,INFANT 	37			46	*ʦeemono		
+112	PBoM	amia	OLD MAN 	38			47	*amia	(ámia-te), (kíǰaʔote), (keéme) {246,347}	
+113	Bora	amíaa-be 	OLD MAN 	38	elder-masc.sg		47	*amia		
+114	Muinane	ámijaa-bo 	OLD MAN 	38			47	*amia		
+115	PBoM	nɨ-ppai()u	WATER  	39			48	*nɨ-ppai()u	*nɯ́-ppaiko {water-liquid}	Leipzig-Jakarta, Swadesh
+116	Bora	nɯ́-hpʰakʰʲo 	WATER  	39	water-cl:liquid		48	*nɨ-ppai()u		Leipzig-Jakarta, Swadesh
+117	Muinane	nɨ́-ɸáíʔu 	WATER  	39			48	*nɨ-ppai()u		Leipzig-Jakarta, Swadesh
+118	PBoM	too-ʔi,muuai	RIVER 	40			49	*too-ʔi,*muuai	*moóai {311}, *teé-ʔi {river-line,250,71}	
+119	Bora	tʰeé-ʔi 	RIVER 	40	river-cl, moóa		49	*too-ʔi,*muuai		
+120	Muinane	téé-ʔi, múúai 	RIVER 	40		Note: see 71,250,311,379 	49	*too-ʔi,*muuai		
+121	PBoM	kaaha	SWAMP 	41			52	*kaaha	*(ipá)-káa-xa-(neba), *káa-(mɨ)	
+122	Bora	kʰááhá-nepa	SWAMP 	41			52	*kaaha		
+123	Muinane	íɸá-káaha 	SWAMP 	41			52	*kaaha		
+124	PBoM	kɨɨhɨ-gai	FIRE  	42			56	*kɨɨhɨ-gai	*kɯ́ɯ́xɯ-gai, (koʦííbai)	Leipzig-Jakarta, Swadesh
+125	Bora	kʰɯ́ɯ́hɯ-kʷa 	FIRE  	42	fire?-cl		56	*kɨɨhɨ-gai		Leipzig-Jakarta, Swadesh
+126	Muinane	kɨ́ɨhɨ-gai 	FIRE  	42			56	*kɨɨhɨ-gai		Leipzig-Jakarta, Swadesh
+127	PBoM	bai-giihɨ	ASH  	43			57	*bai-giihɨ	*báí-giíxɯ {?-powder,372}	Leipzig-Jakarta, Swadesh
+128	Bora	pá-ʧiíhʲɯ 	ASH  	43	?-powder		57	*bai-giihɨ		Leipzig-Jakarta, Swadesh
+129	Muinane	bai-gííhɨ 	ASH  	43		Note: see 372 	57	*bai-giihɨ		Leipzig-Jakarta, Swadesh
+130	PBoM	kɨɨhɨgai-	CHARCOAL 	44			58	*kɨɨhɨgai-	*kɯ́ɯ́xɯ́-gai-(kko) {56}	
+131	Bora	kʰɯ́ɯ́hɯ́kʷa-jɯ 	CHARCOAL 	44	fire-cl:round		58	*kɨɨhɨgai-		
+132	Muinane	kɨ́ɨ́hɨgai-kku 	CHARCOAL 	44	fire-cl:pointed 	Note = 56 	58	*kɨɨhɨgai-		
+133	PBoM	kuu	FIREWOOD 	45			60	*kuu	*koó-	
+134	Bora	kʰoo	FIREWOOD 	45			60	*kuu		
+135	Muinane	kúúhoʔo 	FIREWOOD 	45			60	*kuu		
+136	PBoM	nikko-he	SKY 	46			61	*nikko-he	*níkke-xɨ {sky-flat,14} (íéβeʔóóga)	
+137	Bora	níhkʰʲe-hɨ 	SKY 	46	sky-cl:disc		61	*nikko-he		
+138	Muinane	níkke-he 	SKY 	46			61	*nikko-he		
+139	PBoM	niiha-ba	RAIN  	47			62	*niiha-ba	*nííxa-ba {water-?,48}	Leipzig-Jakarta, Swadesh
+140	Bora	nííhʲa-pa 	RAIN  	47	rain-cl		62	*niiha-ba		Leipzig-Jakarta, Swadesh
+141	Muinane	nííha-ba 	RAIN  	47			62	*niiha-ba		Leipzig-Jakarta, Swadesh
+142	PBoM	nɨʔba	SUN  	48			64	*nɨʔba	*kóoxɨ́-e(ppi) nɯʔɯ-ba {day-? sun-?, 67,65}	Swadesh
+143	Bora	nɯʔpa	SUN  	48			64	*nɨʔba		Swadesh
+144	Muinane	nɨ́ʔɨba 	SUN  	48		Note =65 	64	*nɨʔba		Swadesh
+145	PBoM	nɨʔba	MOON  	49			65	*nɨʔba	*pékkó-e(ppi) nɯʔɯ-ba {night-? sun-?, 68,64}	Swadesh
+146	Bora	nɯʔpa	MOON  	49			65	*nɨʔba		Swadesh
+147	Muinane	nɨ́ʔɨba 	MOON  	49		Note =64 	65	*nɨʔba		Swadesh
+148	PBoM	meekɨrɨ-gai	STAR  	50			66	*meekɨrɨ-gai	*mɨ́ɨ́kɯ́rɯ-gai	Leipzig-Jakarta, Swadesh
+149	Bora	mɨ́ɨ́kʰɯ́rɯ-kʷa 	STAR  	50	star-cl:plank		66	*meekɨrɨ-gai		Leipzig-Jakarta, Swadesh
+150	Muinane	méékɨrɨ-gai 	STAR  	50			66	*meekɨrɨ-gai		Leipzig-Jakarta, Swadesh
+151	PBoM	kuuhe	DAY 	51			67	*kuuhe	*kóoxɨɨ́	
+152	Bora	kʰóóhɨɨ́ 	DAY 	51	today		67	*kuuhe		
+153	Muinane	kúuhe 	DAY 	51	today 		67	*kuuhe		
+154	PBoM	pokku	NIGHT  	52			68	*pokku	*pekko	Leipzig-Jakarta, Swadesh
+155	Bora	pʰehkʰo	NIGHT  	52			68	*pokku		Leipzig-Jakarta, Swadesh
+156	Muinane	ɸúkku 	NIGHT  	52			68	*pokku		Leipzig-Jakarta, Swadesh
+157	PBoM	ʦiʦʦi	THUNDER 	53			69	*ʦiʦʦi	*()ʦitʦi, (daʔnáʔo)	
+158	Bora	ʧʰihʧʰi	THUNDER 	53			69	*ʦiʦʦi		
+159	Muinane	sísi 	THUNDER 	53			69	*ʦiʦʦi		
+160	PBoM	tɨɨ-ʔi	RAINBOW 	54			71	*tɨɨ-ʔi	*tɯɯ́-ʔi {red-line,294,49,250}	
+161	Bora	tʰɯɯ́-ʔi 	RAINBOW 	54	red-cl:line		71	*tɨɨ-ʔi		
+162	Muinane	tɨ́ɨ-ʔi 	RAINBOW 	54			71	*tɨɨ-ʔi		
+163	PBoM	hiinɨ-he	EARTH  	55			72	*hiinɨ-he	*xíínɯ-xɨ	Swadesh
+164	Bora	ííɲɯhɨ 	EARTH  	55	earth-cl:flat		72	*hiinɨ-he		Swadesh
+165	Muinane	híínɨ-he 	EARTH  	55			72	*hiinɨ-he		Swadesh
+166	PBoM	n()gai-jɨʔai	SAND  	56			74	*n()gai-jɨʔai	*(xíí)né-gai-yɯ́-ʔai {73,251,252}	Leipzig-Jakarta, Swadesh
+167	Bora	nékʷa-jɯ́ɯ́ʔa 	SAND  	56	stone-grains		74	*n()gai-jɨʔai		Leipzig-Jakarta, Swadesh
+168	Muinane	híínɨgai-jɨʔai 	SAND  	56		Note = 251 	74	*n()gai-jɨʔai		Leipzig-Jakarta, Swadesh
+169	PBoM	ha	HOUSE  	57			75	*ha	*iiʔ-xa, *káamée-xa, *(bááe)-xa	Leipzig-Jakarta
+170	Bora	haá	HOUSE  	57			75	*ha		Leipzig-Jakarta
+171	Muinane	íí-ha 	HOUSE  	57	3-house 		75	*ha		Leipzig-Jakarta
+172	PBoM	gooʔu-ga	DOORWAY 	58			77	*gooʔu-ga	*gééʔo-ga, (bágɨ́gaʔéxɯ)	
+173	Bora	ʧééʔo-kʷa 	DOORWAY 	58	?-cl:plank		77	*gooʔu-ga		
+174	Muinane	gúʔú-ga 	DOORWAY 	58			77	*gooʔu-ga		
+175	PBoM	ikka-ga	SEAT,STOOL 	59			78	*ikka-ga	*íkka-ga, (akɯ́ɯ́βe-ga)	
+176	Bora	íhhʲa-kʷa 	SEAT,STOOL 	59	be-cl:plank		78	*ikka-ga		
+177	Muinane	íkka-ga 	SEAT,STOOL 	59			78	*ikka-ga		
+178	PBoM	kɨga-	MAT 	60			79	*kɨga-	*kɯgá-(taxɨ), *kɯgá-(íʔkɯ), (ínébaxɨ), (ɨ́ɨ́kaxɨ)	
+179	Bora	kʰɯkʷá-íʔkʰʲɯ 	MAT 	60	sleep-cl:frame		79	*kɨga-		
+180	Muinane	kɨ́ga-tahe 	MAT 	60	sleep-? 	Note = 81,232,280 	79	*kɨga-		
+181	PBoM	gaaiba	HAMMOCK 	61			80	*gaaiba	*gaáí-ba	
+182	Bora	kʷaápʲa	HAMMOCK 	61			80	*gaaiba		
+183	Muinane	gááíba 	HAMMOCK 	61			80	*gaaiba		
+184	PBoM	kɨga-	BED 	62			81	*kɨga-	*kɯgá-ɨ́ɨxɨ, *kɯgá-(taxɨ), *kɯgá-(íʔkɯ) 	
+185	Bora	kʰɯkʷá-íʔkʰʲɯ 	BED 	62	sleep-cl:frame		81	*kɨga-		
+186	Muinane	kɨ́ga-tahe 	BED 	62		Note =79,232,280 	81	*kɨga-		
+187	PBoM	giriʔ-ʤu	COOKING POT 	63			82	*giriʔ-ʤu	*gíri-ʔiǰo	
+188	Bora	ʧíji-ʔʧo 	COOKING POT 	63	?-cl:pot		82	*giriʔ-ʤu		
+189	Muinane	gírí-ʔiʤu 	COOKING POT 	63			82	*giriʔ-ʤu		
+190	PBoM	gaikkuʔai	CULTIVATED CLEARING 	64			83	*gaikkuʔai	*gáíkko-ʔai	
+191	Bora	kʷáhkʰʲoʔa	CULTIVATED CLEARING 	64			83	*gaikkuʔai		
+192	Muinane	gáíkkuʔai 	CULTIVATED CLEARING 	64			83	*gaikkuʔai		
+193	PBoM	kuumii	VILLAGE 	65			84	*kuumii	*kóomií	
+194	Bora	kʰóómií	VILLAGE 	65			84	*kuumii		
+195	Muinane	kúumi 	VILLAGE 	65			84	*kuumii		
+196	PBoM	hɨɨ-	PATH,TRAIL  	66			85	*hɨɨ-	*xɯɯ́-()	Swadesh
+197	Bora	hɯɯ́βa	PATH,TRAIL  	66			85	*hɨɨ-		Swadesh
+198	Muinane	hɨ́ɨ́ʔai 	PATH,TRAIL  	66			85	*hɨɨ-		Swadesh
+199	PBoM	ʦ()nɨkuʔu	FISH NET 	67			86	*ʦ()nɨkuʔu	*ʦ(ɨ́)nɯkóʔo {atarraya}, *(pó)-kóʔo	
+200	Bora	ʦʰɨ́nɯkʰóóʔo	FISH NET 	67			86	*ʦ()nɨkuʔu		
+201	Muinane	sínɨkuʔu 	FISH NET 	67			86	*ʦ()nɨkuʔu		
+202	PBoM	piikkɨ-gai	FISH HOOK 	68			87	*piikkɨ-gai	*pííkkɯ-gai	
+203	Bora	pʰííhʲhɯ-kʷa 	FISH HOOK 	68	fishing-cl:plank		87	*piikkɨ-gai		
+204	Muinane	ɸííkkɨ́-gai 	FISH HOOK 	68			87	*piikkɨ-gai		
+205	PBoM	hɨgaa-he	STEEL AXE 	69			88	*hɨgaa-he	*xɯ́gaá-xɨ	
+206	Bora	ɯ́kʷaá-hɨ 	STEEL AXE 	69	stone-cl:flat		88	*hɨgaa-he		
+207	Muinane	hɨ́gáá-he 	STEEL AXE 	69		Note =382 	88	*hɨgaa-he		
+208	PBoM	n()ʦ()-ga-	KNIFE 	70			89	*n()ʦ()-ga-	*(mɨ́ɨ́(y)oʔo), *n(ɨɨ)ʦ(ɯ́)ga-(gayɯ)	
+209	Bora	nɨɨʦʰɯ́-kʷa 	KNIFE 	70	?-cl:plank		89	*n()ʦ()-ga-		
+210	Muinane	níísú-ga 	KNIFE 	70		Note =383 	89	*n()ʦ()-ga-		
+211	PBoM	meeno	CANOE 	71			90	*meeno	*mɨɨ́ne-(ga)	
+212	Bora	mɨɨ́ne	CANOE 	71			90	*meeno		
+213	Muinane	mééne-ga 	CANOE 	71	canoe-cl:plank 		90	*meeno		
+214	PBoM	buʔudu-ga	PADDLE 	72			91	*buʔudu-ga	*boʔódó-ga	
+215	Bora	poʔtó-kʷa 	PADDLE 	72	row-cl:plank		91	*buʔudu-ga		
+216	Muinane	búʔúdú-ga 	PADDLE 	72	row-cl:plank 		91	*buʔudu-ga		
+217	PBoM	gai-ʔuɨ	CLUB 	73			92	*gai-ʔuɨ	*gáíʔoóɯ(daaʔɨ)	
+218	Bora	kʷá-ʔʲoóɯ 	CLUB 	73	?-cl		92	*gai-ʔuɨ		
+219	Muinane	gáí-ʔuɨdaaʔe 	CLUB 	73	?-cl 		92	*gai-ʔuɨ		
+220	PBoM	aamɨ-	SPEAR 	74			93	*aamɨ-	*aámɯ-(ba), (káβaákko)	
+221	Bora	aamɯ́-pa 	SPEAR 	74	hit-cl		93	*aamɨ-		
+222	Muinane	áámɨ-ga 	SPEAR 	74	hit-cl:plank 		93	*aamɨ-		
+223	PBoM	tɨɨbu-ga	BOW 	75			94	*tɨɨbu-ga	*tɯɯbó-ga {214}	
+224	Bora	tʰɯpóó-kʷa 	BOW 	75	shoot-cl:plank		94	*tɨɨbu-ga		
+225	Muinane	tɨɨbú-ga 	BOW 	75		Note =95 	94	*tɨɨbu-ga		
+226	PBoM	tɨɨbu-	ARROW 	76			95	*tɨɨbu-	*gáínɯɯ́-ga, *tɯɯbó-(ga), (pɨ́gaɯ)	
+227	Bora	tʰɯpóó-kʰo 	ARROW 	76	shoot-cl:pointed		95	*tɨɨbu-		
+228	Muinane	tɨɨbú-ga 	ARROW 	76	shoot-cl:plank 	Note =94 	95	*tɨɨbu-		
+229	PBoM	giʦʦɨ-hɨ	BLOWGUN 	77			96	*giʦʦɨ-hɨ	*gitʦɯ́-xɯ, *(togií)-xɯ, *(toǰií)-xɯ	
+230	Bora	ʧihʧʰɯ́-hɯ 	BLOWGUN 	77	blow-cl:tube		96	*giʦʦɨ-hɨ		
+231	Muinane	gisɨ́-hɨ 	BLOWGUN 	77			96	*giʦʦɨ-hɨ		
+232	PBoM	tɨpai-ʔuu()	PUMA 	78			99	*tɨpai-ʔuu()	(xɯ́kko), *tɯ́páíʔoó(ɯ)	
+233	Bora	tʰɯ́ɯ́pʰá-ʔʲoóɯ 	PUMA 	78	red-jaguar?		99	*tɨpai-ʔuu()		
+234	Muinane	tɨ́ɸai-ʔui 	PUMA 	78	red-jaguar 		99	*tɨpai-ʔuu()		
+235	PBoM	gooɨ	ARMADILLO 	79			100	*gooɨ	*geéɯ, (dóótoɯ́ʔaamɨ́ne), (káápɨ́naɯ)	
+236	Bora	ʧeéɯ	ARMADILLO 	79			100	*gooɨ		
+237	Muinane	góóɨ 	ARMADILLO 	79			100	*gooɨ		
+238	PBoM	ʔuuʔi	DOG  	80			101	*ʔuuʔi	(xɯ́kko), (ooʔííbe) 	Leipzig-Jakarta, Swadesh
+239	Bora	ooʔíí-pʲe 	DOG  	80	jaguar-masc.sg		101	*ʔuuʔi		Leipzig-Jakarta, Swadesh
+240	Muinane	-ʔui 	DOG  	80			101	*ʔuuʔi		Leipzig-Jakarta, Swadesh
+241	PBoM	niiβɨ-gai	RED DEER 	81			102	*niiβɨ-gai	*níiβi-gai, *xiíbai	
+242	Bora	nííβɯ-kʷa 	RED DEER 	81	deer-cl		102	*niiβɨ-gai		
+243	Muinane	níiβɨ-gai 	RED DEER 	81			102	*niiβɨ-gai		
+244	PBoM	kikiih()	BAT 	82			103	*kikiih()	*kíkiíxe	
+245	Bora	kʰíkʰiíhʲe	BAT 	82			103	*kikiih()		
+246	Muinane	kíkihe 	BAT 	82			103	*kikiih()		
+247	PBoM	ʦukku	OTTER 	83			104	*ʦukku	*ʦokko	
+248	Bora	ʦʰohkʰo	OTTER 	83			104	*ʦukku		
+249	Muinane	súkku 	OTTER 	83			104	*ʦukku		
+250	PBoM	kɨʔʤiba	CEBUS,MONKEY 	84			105	*kɨʔʤiba	*(čoyíyi), *kɯʔǰíba	
+251	Bora	kʰɯʔʧípa	CEBUS,MONKEY 	84			105	*kɨʔʤiba		
+252	Muinane	kɨʤíba 	CEBUS,MONKEY 	84			105	*kɨʔʤiba		
+253	PBoM	kɨɨmɨ	SPIDER MONKEY 	85			107	*kɨɨmɨ	*(xɯ́bííǰaxɨ), *kɯɯ́mɯ	
+254	Bora	kʰɯɯ́mɯ	SPIDER MONKEY 	85			107	*kɨɨmɨ		
+255	Muinane	kɨ́ɨ́mɨ 	SPIDER MONKEY 	85			107	*kɨɨmɨ		
+256	PBoM	heehɨ,tuuʔhe	ANTEATER 	86			109	*heehɨ,*tuuʔhe	*xɨɨ́xɯ, *tooʔxɨ	
+257	Bora	ɨɨ́hɯ, tʰoʔhɨ	ANTEATER 	86			109	*heehɨ,*tuuʔhe		
+258	Muinane	hééhɨ, túuhe 	ANTEATER 	86			109	*heehɨ,*tuuʔhe		
+259	PBoM	takkɨ	PACA 	87			110	*takkɨ	*takkɯ, (ainókkóʔega)	
+260	Bora	tʰahkʰɯ	PACA 	87			110	*takkɨ		
+261	Muinane	tákkɨ 	PACA 	87			110	*takkɨ		
+262	PBoM	niʔba,m()ʔduba	CROCODILE 	88			111	*niʔba,*m()ʔduba	*niʔiba, *meeʔdóba	
+263	Bora	niʔpa, meʔtópa	CROCODILE 	88			111	*niʔba,*m()ʔduba		
+264	Muinane	níʔiba, méédúba 	CROCODILE 	88			111	*niʔba,*m()ʔduba		
+265	PBoM	maaina-ʔu	IGUANA 	89			112	*maaina-ʔu	*mááínaʔo, (xóóčáíʔi)	
+266	Bora	mááɲa-ʔo 	IGUANA 	89	iguana-cl		112	*maaina-ʔu		
+267	Muinane	mááɲá-ʔu 	IGUANA 	89			112	*maaina-ʔu		
+268	PBoM	mooni	COLLARED PECCARY 	90			115	*mooni	*meéni	
+269	Bora	meéni	COLLARED PECCARY 	90			115	*mooni		
+270	Muinane	méeni 	COLLARED PECCARY 	90			115	*mooni		
+271	PBoM	paapaiba	WHITE-LIPPED PECCARY 	91			116	*paapaiba	*páápaiba, (mɨ́neébe)	
+272	Bora	pʰáápʰapʲa	WHITE-LIPPED PECCARY 	91			116	*paapaiba		
+273	Muinane	ɸááɸaiba 	WHITE-LIPPED PECCARY 	91			116	*paapaiba		
+274	PBoM	pattɨ	AGOUTI 	92			117	*pattɨ	(páttɯ), (bɨrɯmɯxɨ)	
+275	Bora	pʰahtʰɯ 	AGOUTI 	92		Miraña dialect	117	*pattɨ		
+276	Muinane	ɸáttɨ 	AGOUTI 	92			117	*pattɨ		
+277	PBoM	giʔpo	RAT 	93			118	*giʔpo	(gíʔipe), (nɯɯmɨ́ra), (kɯɯβéba), (aaʦáriɯ)	
+278	Bora	ʧiʔpʰʲe	RAT 	93			118	*giʔpo		
+279	Muinane	gíʔiɸo 	RAT 	93			118	*giʔpo		
+280	PBoM	miiʧii	CAT 	94			119	*miiʧii	*mííʦií {Spanish}	
+281	Bora	mííʧʰií	CAT 	94			119	*miiʧii		
+282	Muinane	mííʃi 	CAT 	94		Note: loan from Spanish 	119	*miiʧii		
+283	PBoM	giʔpo	MOUSE 	95			120	*giʔpo	*giʔpe, (kɯɯβéba), (bííččaɯ)	
+284	Bora	ʧiʔpʰʲe	MOUSE 	95			120	*giʔpo		
+285	Muinane	gíiɸo 	MOUSE 	95			120	*giʔpo		
+286	PBoM	bu	TAIL  	96			121	*bu	(ííboʔo), (bógaá), (gagááíβe)	Leipzig-Jakarta, Swadesh
+287	Bora	pó-kʷaá 	TAIL  	96	tail-cl		121	*bu		Leipzig-Jakarta, Swadesh
+288	Muinane	íí-bu-ʔu 	TAIL  	96	3.sg-tail-cl 		121	*bu		Leipzig-Jakarta, Swadesh
+289	PBoM	hiinimo	SNAKE 	97			122	*hiinimo	*xíinime, (íttɯ)	
+290	Bora	ííɲimʲe	SNAKE 	97			122	*hiinimo		
+291	Muinane	híinimo 	SNAKE 	97			122	*hiinimo		
+292	PBoM	buua,iigai-	ANACONDA,WATER BOA 	98			123	*buua,*iigai-	*bóóaá {Spanish?}, *íígai(ko)	
+293	Bora	póóaá, ííkʷakʰʲo	ANACONDA,WATER BOA 	98			123	*buua,*iigai-		
+294	Muinane	búúa, ígáíβatɨ 	ANACONDA,WATER BOA 	98		Note: possibly a loan from Tupian 	123	*buua,*iigai-		
+295	PBoM	taakaʔo	RATTLESNAKE 	99			124	*taakaʔo	*táakaʔe	
+296	Bora	tʰáákʰaʔe	RATTLESNAKE 	99			124	*taakaʔo		
+297	Muinane	táakaʔo 	RATTLESNAKE 	99			124	*taakaʔo		
+298	PBoM	ʧiraagai	CORAL SNAKE 	100			125	*ʧiraagai	*čiráágai, (kábɯɯ́ɯ)	
+299	Bora	ʧʰiijákʷa	CORAL SNAKE 	100			125	*ʧiraagai		
+300	Muinane	ʧiráágai 	CORAL SNAKE 	100			125	*ʧiraagai		
+301	PBoM	hakuga,()ɨɨriʔi,nihaga,mɨɨʔmeba,haakkɨba	TOAD 	101			126	*hakuga,()ɨɨriʔi,nihaga,mɨɨʔmeba,haakkɨba	*xaʔkó(kó)ga, *(β)ɯ́ɯ́ríʔií, *mɯɯʔmɨ́ba, (xáákkɯba), (…)	
+302	Bora	aʔkʰókʷa, βɯ́ɯ́ríʔií, níhʲakʷa, mɯʔmɨ́pa, áákʰɯpa	TOAD 	101			126	*hakuga,()ɨɨriʔi,nihaga,mɨɨʔmeba,haakkɨba		
+303	Muinane	hakúkúga, bɨ́ɨ́riʔi, níhaga, mɨ́ɨ́méba, háákkɨba 	TOAD 	101			126	*hakuga,()ɨɨriʔi,nihaga,mɨɨʔmeba,haakkɨba		
+304	PBoM	paaibe	HUMMINGBIRD 	102			128	*paaibe	*páá(i)bɨ(ʔo), (róóbɨ́ǰɯ)	
+305	Bora	pʰáápɨʔo	HUMMINGBIRD 	102			128	*paaibe		
+306	Muinane	ɸááibe, 	HUMMINGBIRD 	102			128	*paaibe		
+307	PBoM	heeβaa,in()ʔai	MACAW 	103			129	*heeβaa,*in()ʔai	*xɨ́ɨβaá, *ín(a)ʔai, (ɨ́ɨ́rɨ́da, éérɨ́da, ɨ́ɨ́réda)	
+308	Bora	ɨ́ɨ́βaá, íɲaʔa	MACAW 	103			129	*heeβaa,*in()ʔai		
+309	Muinane	hééβa, ínóʔai 	MACAW 	103			129	*heeβaa,*in()ʔai		
+310	PBoM	nɨgo	TOUCAN 	104			130	*nɨgo	*nɯge, (xɯ́ɯ́kkɯgai), *r(í)(ʔ)oó(ʔo), *b(ai)rí(gai)	
+311	Bora	nɯʧe	TOUCAN 	104			130	*nɨgo		
+312	Muinane	nɨ́go 	TOUCAN 	104			130	*nɨgo		
+313	PBoM	ainɨ	BUZZARD 	105			133	*ainɨ	*ainɯ (ʦókkoga)	
+314	Bora	aɲɯ	BUZZARD 	105			133	*ainɨ		
+315	Muinane	áɲɨ 	BUZZARD 	105			133	*ainɨ		
+316	PBoM	kɨga-	CURASSOW 	106			134	*kɨga-	(kɯ́gáʔe)	
+317	Bora	kʰɯ́kʷá-kʰo 	CURASSOW 	106	currassow-cl		134	*kɨga-		
+318	Muinane	kɨ́gá-ʔo 	CURASSOW 	106	currassow-cl 		134	*kɨga-		
+319	PBoM	peeka-he	GUAN 	107			136	*peeka-he	*pɨ́ɨ́kaxɨ	
+320	Bora	pʰɨ́ɨ́kʰa-hɨ 	GUAN 	107	guan-cl		136	*peeka-he		
+321	Muinane	ɸééka-he 	GUAN 	107			136	*peeka-he		
+322	PBoM	ka()a()a	HEN 	108			137	*ka()a()a	*ka(ttá-βa), *ká(ra-ka) {Tucano}, gáǰerááʔe, gáigerááʔe), (kettɯ́ɯ) 	
+323	Bora	kʰárakʰa	HEN 	108			137	*ka()a()a		
+324	Muinane	kattáβa 	HEN 	108		Note: loan from Tupi 	137	*ka()a()a		
+325	PBoM	gaikku-he,nitta	PIRANHA 	109			139	*gaikku-he,*nitta	*(nítta), *gáíkkoxɨ	
+326	Bora	kʷáhkʰʲo-hɨ, níhtʲa-hɨ 	PIRANHA 	109	piranha-cl		139	*gaikku-he,*nitta		
+327	Muinane	gáíkku-he, nítta 	PIRANHA 	109			139	*gaikku-he,*nitta		
+328	PBoM	hɨɨku-ga	FLEA 	110			142	*hɨɨku-ga	*xɯ́ɯ́ko-gai	
+329	Bora	ɯ́ɯ́kʰo-kʷa 	FLEA 	110	?-cl:plank		142	*hɨɨku-ga		
+330	Muinane	hɨ́ɨ́ku-gai 	FLEA 	110			142	*hɨɨku-ga		
+331	PBoM	gaaini-ʔu	LOUSE  	111			143	*gaaini-ʔu	*gáainiʔo, *gai(ʔtéxɨ) 	Leipzig-Jakarta, Swadesh
+332	Bora	kʷááni-ʔʲo 	LOUSE  	111	louse-cl:oval		143	*gaaini-ʔu		Leipzig-Jakarta, Swadesh
+333	Muinane	gáaɲi-ʔu 	LOUSE  	111			143	*gaaini-ʔu		Leipzig-Jakarta, Swadesh
+334	PBoM	gaaihɨ	MOSQUITO 	112			144	*gaaihɨ	*gaáí-xɯ(-ba), *gáí-(mɯ́ɯ́-taba), (opiǰɯ) 	
+335	Bora	kʷaáhʲɯ	MOSQUITO 	112			144	*gaaihɨ		
+336	Muinane	gáaihɨba 	MOSQUITO 	112			144	*gaaihɨ		
+337	PBoM	maʔarɨ	TERMITE 	113			145	*maʔarɨ	*(mɯ́ǰɯ́gí(y)ɯ), *máʔarɯ́(mɯɯ́-be), (táabane), (tákíʔki-ba), (mooá-ba)	
+338	Bora	máʔarɯ́-mɯɯ́pe 	TERMITE 	113	termite-person		145	*maʔarɨ		
+339	Muinane	máʔarɨ 	TERMITE 	113			145	*maʔarɨ		
+340	PBoM	piimo	ANT  	114			146	*piimo	*píime(ba)	Leipzig-Jakarta
+341	Bora	pʰíímʲepa	ANT  	114			146	*piimo		Leipzig-Jakarta
+342	Muinane	ɸíimo 	ANT  	114			146	*piimo		Leipzig-Jakarta
+343	PBoM	paaga-	SPIDER 	115			147	*paaga-	*páaga-xɨ, *paagá-(yɯ), (xɯ́ɯ́móʔai), (ííkkoxɨ), (doʔgá-xɨ)	
+344	Bora	pʰaakʷá-jɯ 	SPIDER 	115	spider-cl:round		147	*paaga-		
+345	Muinane	ɸáaga-he 	SPIDER 	115	spider-cl:disc 		147	*paaga-		
+346	PBoM	niipahe	JIGGER (TUNGA PENETRANS) 	116			148	*niipahe	*níipa-xɨ	
+347	Bora	níípʰahɨ	JIGGER (TUNGA PENETRANS) 	116			148	*niipahe		
+348	Muinane	níiɸahe 	JIGGER (TUNGA PENETRANS) 	116			148	*niipahe		
+349	PBoM	bahɨ	BUSH 	117			149	*bahɨ	*báxɯɯ́	
+350	Bora	páhɯɯ́	BUSH 	117			149	*bahɨ		
+351	Muinane	báhɨ 	BUSH 	117			149	*bahɨ		
+352	PBoM	namettɨhe,ʦukkum()he	OPEN GRASSLAND 	118			150	*namettɨhe,*ʦukkum()he		
+353	Bora	nómɨ́htʰɯhɨ, ʦʰóhkʰómɯhɨ	OPEN GRASSLAND 	118			150	*namettɨhe,*ʦukkum()he		
+354	Muinane	námettɨhe, súkkumehe 	OPEN GRASSLAND 	118		Note: see 161	150	*namettɨhe,*ʦukkum()he		
+355	PBoM	gahɨɨ,baaɨɨ	HILL 	119			151	*gahɨɨ,*baaɨɨ	*gáxɯɯ́, *(káme)-gáxɯ, *(pá)-gaxɯ, *báaɯɯ́, *(pá)-ʔbaɯ {293}	
+356	Bora	kʷáhɯɯ́, páɯɯ́	HILL 	119			151	*gahɨɨ,*baaɨɨ		
+357	Muinane	gáhɨ, báaɨ 	HILL 	119			151	*gahɨɨ,*baaɨɨ		
+358	PBoM	ɨmo-ʔo	TREE  	120			152	*ɨmo-ʔo	*ɯ́me-ʔe {tree-wood,60}	Leipzig-Jakarta, Swadesh
+359	Bora	ɯ́me-ʔe 	TREE  	120	wood-cl:tree		152	*ɨmo-ʔo		Leipzig-Jakarta, Swadesh
+360	Muinane	ɨ́mo-ʔo 	TREE  	120			152	*ɨmo-ʔo		Leipzig-Jakarta, Swadesh
+361	PBoM	aame	LEAF  	121			153	*aame	*(ɨ́na)-ʔáámɨ, (-xɯ́ɯ́ʔoó), (mɨ́ɨ́ɯmɯ)	Leipzig-Jakarta, Swadesh
+362	Bora	ʔáámɨɨ́	LEAF  	121			153	*aame		Leipzig-Jakarta, Swadesh
+363	Muinane	áame 	LEAF  	121		Note =154 	153	*aame		Leipzig-Jakarta, Swadesh
+364	PBoM	-ʔaame	TREE LEAF 	122			154	*-ʔaame	*(ɨ́na)-ʔáamɨ	
+365	Bora	ɨ́naʔáámɨ	TREE LEAF 	122			154	*-ʔaame		
+366	Muinane	áame 	TREE LEAF 	122		Note =153	154	*-ʔaame		
+367	PBoM	ba(i)(k)ko-	ROOT  	123			158	*ba(i)(k)ko-	*ba(i)(k)ké-(ʔeke), *bá(i)(k)keé, (-tane)	Leipzig-Jakarta, Swadesh
+368	Bora	páhkʰʲeé	ROOT  	123			158	*ba(i)(k)ko-		Leipzig-Jakarta, Swadesh
+369	Muinane	bakóʔoko 	ROOT  	123			158	*ba(i)(k)ko-		Leipzig-Jakarta, Swadesh
+370	PBoM	batʦu-	SEED  	124			159	*batʦu-	*batʦó-(), (néébaba), (painéβa-ɯ)	Swadesh
+371	Bora	pahʦʰó-kʷa 	SEED  	124	plant-cl:plank		159	*batʦu-		Swadesh
+372	Muinane	basú-ta 	SEED  	124			159	*batʦu-		Swadesh
+373	PBoM	ɨmoo-ʔi	STICK 	125			160	ɨmoo-ʔi	* ɯ́méʔe-i, *ɯ́mé-(ne-ba), (ǰári-ga)	
+374	Bora	ɯ́mé-ʔe-i 	STICK 	125	wood-cl:tree-cl:stick		160	ɨmoo-ʔi		
+375	Muinane	ɨ́mee-ʔi 	STICK 	125	wood-cl:stick 		160	ɨmoo-ʔi		
+376	PBoM	ʦukkume-he	GRASS 	126			161	*ʦukkume-he	*ʦókkómɯxɨ, (páíxɯ), (pɨɨ́βa)	
+377	Bora	ʦʰóhkʰómɯ-hɨ 	GRASS 	126	grassland-cl:disc		161	*ʦukkume-he		
+378	Muinane	súkkume-he 	GRASS 	126		Note =150 	161	*ʦukkume-he		
+379	PBoM	máaʔu	CASSAVA (BREAD) 	127			163	*máaʔu	*(xáara), (páikoómi) {sweet}, *pɨ́ɨkkaá, (baaxɯ́ri) {bitter}	
+380	Bora	mááʔo	CASSAVA (BREAD) 	127			163	*máaʔu		
+381	Muinane	máaʔu 	CASSAVA (BREAD) 	127			163	*máaʔu		
+382	PBoM	baino	TOBACCO 	128			165	*baino	*baine	
+383	Bora	paɲe	TOBACCO 	128			165	*baino		
+384	Muinane	báɲo 	TOBACCO 	128			165	*baino		
+385	PBoM	haʔdi	COTTON 	129			166	*haʔdi	*xáʔadi	
+386	Bora	aʔti	COTTON 	129			166	*haʔdi		
+387	Muinane	háʔadi 	COTTON 	129			166	*haʔdi		
+388	PBoM	duutu	GOURD 	130			167	*duutu	(xáʔaxɨ), *dóoto-	
+389	Bora	toótʰo	GOURD 	130			167	*duutu		
+390	Muinane	dúutuʔu 	GOURD 	130			167	*duutu		
+391	PBoM	kɨnii-	YAM 	131			168	*kɨnii-	*kɨni(romi), *kɨ́nií-(ɯ)	
+392	Bora	kʰɯni	YAM 	131			168	*kɨnii-		
+393	Muinane	kɨ́nirumi 	YAM 	131			168	*kɨnii-		
+394	PBoM	nooba-ba	ANNATTO 	132			170	*nooba-ba	*néebaba	
+395	Bora	néépa-pa 	ANNATTO 	132	annatto-cl		170	*nooba-ba		
+396	Muinane	nóoba-ba 	ANNATTO 	132			170	*nooba-ba		
+397	PBoM	dee-ʔuɨ	CHILI PEPPER 	133			171	*dee-ʔuɨ	*dɨ́ɨ́-ʔoɯ {fruit}	
+398	Bora	tɨ́ɨ́-ʔoɯ 	CHILI PEPPER 	133	chili-cl		171	*dee-ʔuɨ		
+399	Muinane	déé-ʔuɨ 	CHILI PEPPER 	133			171	*dee-ʔuɨ		
+400	PBoM	hiibii-	COCA 	134			172	*hiibii-	*xííbií-(ʔe)	
+401	Bora	íípií	COCA 	134			172	*hiibii-		
+402	Muinane	hííbi-ʔo 	COCA 	134	coca-cl:tree 		172	*hiibii-		
+403	PBoM	bakko	BANISTERIUM 	135			173	*bakko	*bá(k)ke(tamɯ), *(né)ba(k)ke	
+404	Bora	népahkʰe	BANISTERIUM 	135			173	*bakko		
+405	Muinane	bákotamɨ 	BANISTERIUM 	135			173	*bakko		
+406	PBoM	ɨhe-	PLANTAIN 	136			174	*ɨhe-	*ɯ́xɨ-()	
+407	Bora	ɯhɨ	PLANTAIN 	136			174	*ɨhe-		
+408	Muinane	ɨ́heba 	PLANTAIN 	136			174	*ɨhe-		
+409	PBoM	moomo,CHONTA	PALM 	137			175	*moomo,CHONTA	*meéme, *meéme-(ʔegííʔo), *meéme-(ʔeǰííʔyo)	
+410	Bora	meéme	PALM 	137			175	*moomo,CHONTA		
+411	Muinane	móomo 	PALM 	137			175	*moomo,CHONTA		
+412	PBoM	ɨmo	SALT  	138			179	*ɨmo	(ɯ́moʔo), (áit(t)ega), (kánáámaá), (kánaáma)	Leipzig-Jakarta
+413	Bora	ɯ́me 	SALT  	138	vegetable salt		179	*ɨmo		Leipzig-Jakarta
+414	Muinane	ɨ́muʔu 	SALT  	138	vegetable salt 		179	*ɨmo		Leipzig-Jakarta
+415	PBoM	moomo-ba	CHICHA (OF PEACH PALM FRUITS) 	139			180	*moomo-ba	*méemeba, (báaxɯ́ribá)	
+416	Bora	mééme-pa 	CHICHA (OF PEACH PALM FRUITS) 	139	peach_palm-cl:liquid		180	*moomo-ba		
+417	Muinane	móomo-ba 	CHICHA (OF PEACH PALM FRUITS) 	139			180	*moomo-ba		
+418	PBoM	ʦaa-no	ONE  	140			181	*ʦaa-no	*ʦaane	Leipzig-Jakarta, Swadesh
+419	Bora	ʦʰa-ne 	ONE  	140	one-inan		181	*ʦaa-no		Leipzig-Jakarta, Swadesh
+420	Muinane	sáá-no 	ONE  	140			181	*ʦaa-no		Leipzig-Jakarta, Swadesh
+421	PBoM	mi-no-kɨ	TWO  	141			182	*mi-no-kɨ	*míínéékkɯɯ́	Swadesh
+422	Bora	mí-ɲéé-kʰɯɯ́ 	TWO  	141	two-inan-dual		182	*mi-no-kɨ		Swadesh
+423	Muinane	míí-no-kkɨ 	TWO  	141			182	*mi-no-kɨ		Swadesh
+424	PBoM	sa-ʔuʦʦe	FIVE 	142			185	*sa-ʔuʦʦe	*ʦá-ʔotʦɨ́ {one-hand}	
+425	Bora	ʦʰá-ʔohʦʰɨ́ 	FIVE 	142	one-hand		185	*sa-ʔuʦʦe		
+426	Muinane	sa-ʔúse 	FIVE 	142			185	*sa-ʔuʦʦe		
+427	PBoM	ttɨkkonɨ	FIRST 	143			191	*ttɨkkonɨ	*(it)tɯ(k)kénɯ, (ɯ́mɨ́gare), (ʦáʔííxɯ́ttɯre)	
+428	Bora	tʰɯhkʰénɯ	FIRST 	143			191	*ttɨkkonɨ		
+429	Muinane	íttɨkonɨ 	FIRST 	143			191	*ttɨkkonɨ		
+430	PBoM	niiʔnoo-	LAST 	144			192	*niiʔnoo-	*niiʔnée-né(-re), (áǰɯba-)	
+431	Bora	niʔɲé-re 	LAST 	144	last-?		192	*niiʔnoo-		
+432	Muinane	níínoo-no 	LAST 	144			192	*niiʔnoo-		
+433	PBoM	kɨɨmɨ-ba	DRUM 	145			194	*kɨɨmɨ-ba	*kɯ́ɯ́mɯ-ba	
+434	Bora	kʰɯ́ɯ́mɯ-pa 	DRUM 	145	signal_drum-cl		194	*kɨɨmɨ-ba		
+435	Muinane	kɨ́ɨ́mɨba 	DRUM 	145			194	*kɨɨmɨ-ba		
+436	PBoM	nɨhɨ-ga	EAR ORNAMENT 	146			196	*nɨhɨ-ga	*nɯ́xɯ́i-ga(ko)	
+437	Bora	nɯ́hɯ́-i-kʷa 	EAR ORNAMENT 	146	ear-cl-cl		196	*nɨhɨ-ga		
+438	Muinane	nɨ́hɨ-ga-ku 	EAR ORNAMENT 	146	ear-cl-cl 		196	*nɨhɨ-ga		
+439	PBoM	maaʔnii	MASK 	147			197	*maaʔnii	*mááʔnií(ʔɯmo)	Leipzig-Jakarta
+440	Bora	máʔnií	MASK 	147			197	*maaʔnii		Leipzig-Jakarta
+441	Muinane	maaní-ʔɨme 	MASK 	147	mask-face 		197	*maaʔnii		Leipzig-Jakarta
+442	PBoM	taabu-mɨnaa-ppi	MEDICINE MAN 	148			198	*taabu-mɨnaa-ppi	(ǰɯ́ɯ́βáábeé), (táábómɯnaaɸi)	
+443	Bora	tʰáápo-mɯ́ná-a-hpʰi 	MEDICINE MAN 	148	heal-people-belong-masc.sg		198	*taabu-mɨnaa-ppi		
+444	Muinane	táábú-mɨnaa-ɸi 	MEDICINE MAN 	148			198	*taabu-mɨnaa-ppi		
+445	PBoM	aiβohɨɨ-bo	CHIEF 	149			199	*aiβohɨɨ-bo	*aiβéxɯɯ́-be	
+446	Bora	aβʲéhɯɯ́-pe 	CHIEF 	149	command-masc.sg		199	*aiβohɨɨ-bo		
+447	Muinane	aíβohɨ́ɨ́-bo 	CHIEF 	149			199	*aiβohɨɨ-bo		
+448	PBoM	uu	I  	150			200	*uu	*oó(-xéʔe)	Leipzig-Jakarta, Swadesh
+449	Bora	oó	I  	150			200	*uu		Leipzig-Jakarta, Swadesh
+450	Muinane	úú-hóʔo 	I  	150		Note:-hoʔo is dropped in non-nominative, e.g. u-ko ‘to me’ 	200	*uu		Leipzig-Jakarta, Swadesh
+451	PBoM	ɨɨ	THOU  	151			201	*ɨɨ	*ɯɯ́(-xéʔe)	Leipzig-Jakarta, Swadesh
+452	Bora	ɯɯ́	THOU  	151			201	*ɨɨ		Leipzig-Jakarta, Swadesh
+453	Muinane	ɨ́ɨ́-hóʔo 	THOU  	151		Note:-hoʔo is dropped in non-nominative, e.g. u-ko ‘to you’ 	201	*ɨɨ		Leipzig-Jakarta, Swadesh
+454	PBoM	aa-nɨɨ,dii-bo	HE  	152			202	*aa-nɨɨ,*dii-bo	*dií-be, (aáí-be), (aá-be), (áá-nɯɯ́), (aá-di) {204}, *á(x)áa-nɯ	Leipzig-Jakarta
+455	Bora	áánɯɯ́, tií-pʲe 	HE  	152	3-masc.sg		202	*aa-nɨɨ,*dii-bo		Leipzig-Jakarta
+456	Muinane	áháanɨ, díi-bo 	HE  	152			202	*aa-nɨɨ,*dii-bo		Leipzig-Jakarta
+457	PBoM	aaimoo,dii-go	SHE  	153			203	*aaimoo,*dii-go	*dií-ge, *(aáí-)ge, *(ááí)-meé, *(áxáa)-me	Leipzig-Jakarta
+458	Bora	áámʲeé tií-ʧe 	SHE  	153	3-fem.sg		203	*aaimoo,*dii-go		Leipzig-Jakarta
+459	Muinane	áháamo, díi-go 	SHE  	153			203	*aaimoo,*dii-go		Leipzig-Jakarta
+460	PBoM	haa-no	IT 	154			204	*haa-no	(aáí-be) {202,203,257}, (xáá-ne)	
+461	Bora	aá-ne 	IT 	154	3-inan		204	*haa-no		
+462	Muinane	háá-no 	IT 	154			204	*haa-no		
+463	PBoM	mɨɨʔai	WE  	155			205	*mɨɨʔai	*mɯɯ́ʔ-ai {pl}, *mɯʔ-ʦi {m.d.}, *mɯʔ-pɨ {f.d.}	Swadesh
+464	Bora	mɯɯ́ʔa	WE  	155			205	*mɨɨʔai		Swadesh
+465	Muinane	mɨ́ɨ́ʔai 	WE  	155			205	*mɨɨʔai		Swadesh
+466	PBoM	amɨɨai	YE 	156			206	*amɨɨai	*ámɯɯ́ʔ-ai, *ámɯɯʔ-ʦi {m.d.}, *ámɯɯʔ-pɨ {f.d.}	
+467	Bora	ámɯɯ́ʔa	YE 	156			206	*amɨɨai		
+468	Muinane	amɨ́ɨ́ʔai 	YE 	156			206	*amɨɨai		
+469	PBoM	dii-to	THEY 	157			207	*dii-to	*dií-te, *(aáí)-te {pl}, *dii-t(é)-ʦi {m.d.}, *dii-t(é)-pɨ {f.d.}	
+470	Bora	tií-tʰʲe 	THEY 	157	3-pl		207	*dii-to		
+471	Muinane	díí-to 	THEY 	157			207	*dii-to		
+472	PBoM	tai-ʔutʦe	MY HAND 	158			208	*tai-ʔutʦe	*táí-ʔótʦɨ {214}	
+473	Bora	tʰá-ʔóhʦʰɨ 	MY HAND 	158	my-hand		208	*tai-ʔutʦe		
+474	Muinane	tá-ʔuse 	MY HAND 	158			208	*tai-ʔutʦe		
+475	PBoM	dii-ʔutʦe	THY HAND 	159			209	*dii-ʔutʦe	*díí-ʔótʦɨ	
+476	Bora	tí-ʔʲóhʦʰɨ 	THY HAND 	159	2-hand		209	*dii-ʔutʦe		
+477	Muinane	díí-ʔuse 	THY HAND 	159			209	*dii-ʔutʦe		
+478	PBoM	dii-bo	ʔutʦe HIS HAND 	160			210	*dii-bo	*(díí)-be-ʔótʦɨ, *(aáí)-be-ʔótʦɨ, *(ááí-di)-ʔotʦɨ	
+479	Bora	tíípʲe ʔóhʦʰɨ	ʔutʦe HIS HAND 	160			210	*dii-bo		
+480	Muinane	dííbo ʔuse 	ʔutʦe HIS HAND 	160			210	*dii-bo		
+481	PBoM	mo-ʔutʦe-no	OUR HANDS  	161			211	*mo-ʔutʦe-no	*mé-ʔótʦɨ-ne	Leipzig-Jakarta
+482	Bora	mé-ʔóhʦʰɨ-ne 	OUR HANDS  	161	our-hand-pl		211	*mo-ʔutʦe-no		Leipzig-Jakarta
+483	Muinane	mú-ʔuse-ne 	OUR HANDS  	161			211	*mo-ʔutʦe-no		Leipzig-Jakarta
+484	PBoM	amɨɨʔai	ʔutʦe-no YOUR HANDS  	162			212	*amɨɨʔai	*amɯ́ɯ́ʔ-áí-ʔótʦɨ-ne	Leipzig-Jakarta
+485	Bora	amɯ́ʔá ʔóhʦʰɨne	ʔutʦe-no YOUR HANDS  	162			212	*amɨɨʔai		Leipzig-Jakarta
+486	Muinane	amɨ́ɨ́ʔai ʔuse-ne 	ʔutʦe-no YOUR HANDS  	162			212	*amɨɨʔai		Leipzig-Jakarta
+487	PBoM	diito	ʔutʦe-no THEIR HANDS 	163			213	*diito	*díí-te-ʔótʦɨ-ne, *(aáí)-te-ʔótʦɨ-ne	
+488	Bora	tíítʰʲe ʔóhʦʰɨne	ʔutʦe-no THEIR HANDS 	163			213	*diito		
+489	Muinane	díítoʔusene 	ʔutʦe-no THEIR HANDS 	163			213	*diito		
+490	PBoM	tai-tɨɨbu-ga	MY BOW  	164			214	*tai-tɨɨbu-ga	*táí-tɯ́ɯ́bo-ga	Leipzig-Jakarta
+491	Bora	tʰá-tʰʲɯ́poo-kʷa 	MY BOW  	164	my-shoot-cl:plank		214	*tai-tɨɨbu-ga		Leipzig-Jakarta
+492	Muinane	ta-tʲɨ́ɨ́bu-ga 	MY BOW  	164			214	*tai-tɨɨbu-ga		Leipzig-Jakarta
+493	PBoM	dii-tɨɨbu-ga	THY BOW 	165			215	*dii-tɨɨbu-ga		
+494	Bora	tí-tʰʲɯ́poo-kʷa	THY BOW 	165			215	*dii-tɨɨbu-ga		
+495	Muinane	di-tɨ́ɨ́bu-ga 	THY BOW 	165			215	*dii-tɨɨbu-ga		
+496	PBoM	dii-bo	tɨɨbu-ga HIS BOW 	166			216	*dii-bo		
+497	Bora	tíípʲe tʰɯ́poo-kʷa	tɨɨbu-ga HIS BOW 	166			216	*dii-bo		
+498	Muinane	dííbo tɨ́ɨ́bu-ga 	tɨɨbu-ga HIS BOW 	166			216	*dii-bo		
+499	PBoM	mo-tɨɨbu-ga	OUR BOW 	167			217	*mo-tɨɨbu-ga		
+500	Bora	mé-tʰɯ́poo-kʷa	OUR BOW 	167			217	*mo-tɨɨbu-ga		
+501	Muinane	mo-tɨ́ɨ́bu-ga 	OUR BOW 	167			217	*mo-tɨɨbu-ga		
+502	PBoM	amɨɨʔai	tɨɨbu-ga YOUR BOW 	168			218	*amɨɨʔai		
+503	Bora	amɯ́ʔá tʰɯ́poo-kʷa	tɨɨbu-ga YOUR BOW 	168			218	*amɨɨʔai		
+504	Muinane	amɨ́ɨ́ʔai tɨ́ɨ́bu-ga 	tɨɨbu-ga YOUR BOW 	168			218	*amɨɨʔai		
+505	PBoM	dii-to	tɨɨbu-ga THEIR BOW 	169			219	*dii-to		
+506	Bora	tíítʰʲe tʰɯ́poo-kʷa	tɨɨbu-ga THEIR BOW 	169			219	*dii-to		
+507	Muinane	dííto tɨ́ɨ́bu-ga 	tɨɨbu-ga THEIR BOW 	169			219	*dii-to		
+508	PBoM	mita-no,giraa	BIG  	170			220	*mita-no,*giraa	*mita-ne, *giraa-ne, *kee-(pi)-ne, (bókkɯ-ne), (…)	Leipzig-Jakarta, Swadesh
+509	Bora	mitʰʲa-ne 	BIG  	170	big-inan 	Note: see 262, ʧija	220	*mita-no,*giraa		Leipzig-Jakarta, Swadesh
+510	Muinane	mítʲa-no 	BIG  	170	big-inan, gíráa-no 		220	*mita-no,*giraa		Leipzig-Jakarta, Swadesh
+511	PBoM	nume-	SMALL  	171			221	*nume-	*nomɨ-(nɨ-nɨ), (áxáíʦo-ne-gayɯ), (áyá-né-gayɯ, áirá-né-gayɯ), (ɯʔxéné-gayɯ), (čoʔxɯ), (ɯ́ɯ́gɯ́yiɯ)	Leipzig-Jakarta, Swadesh
+512	Bora	ɲomɨ	SMALL  	171			221	*nume-		Leipzig-Jakarta, Swadesh
+513	Muinane	núménéne 	SMALL  	171			221	*nume-		Leipzig-Jakarta, Swadesh
+514	PBoM	ʦɨɨku	COLD  	172			222	*ʦɨɨku	*ʦɯɯ́ko, (dáíʔkoó)	Swadesh
+515	Bora	ʦʰɯɯ́kʰo	COLD  	172			222	*ʦɨɨku		Swadesh
+516	Muinane	sɨ́ɨ́ku 	COLD  	172			222	*ʦɨɨku		Swadesh
+517	PBoM	aiguukku	HOT  	173			223	**aiguukku	*áígookkó-né, (péémeβako-ne), (gánókóó-ne, gánékóó-ne)	Swadesh
+518	Bora	aʧóókʰó	HOT  	173			223	**aiguukku		Swadesh
+519	Muinane	áígúkku-no 	HOT  	173	hot-inan 		223	**aiguukku		Swadesh
+520	PBoM	imi	GOOD  	174			224	*imi	*imí-ne, *imí-(gayɯ), *(ɨ́mɨáá)-ne	Leipzig-Jakarta, Swadesh
+521	Bora	imí	GOOD  	174			224	*imi		Leipzig-Jakarta, Swadesh
+522	Muinane	ími-no 	GOOD  	174	good-inan 		224	*imi		Leipzig-Jakarta, Swadesh
+523	PBoM	imi-tɨ-no	BAD 	175			225	*imi-tɨ-no	*ími-tɯ́-ne	
+524	Bora	ími-tʰʲɯ́-ne 	BAD 	175	good-neg-inan		225	*imi-tɨ-no		
+525	Muinane	ími-tɨ-no 	BAD 	175			225	*imi-tɨ-no		
+526	PBoM	ʦeʦee	WHITE  	176			226	*ʦeʦee	*ʦɨ́ʦɨɨ-ne	Swadesh
+527	Bora	ʦʰɨʦʰɨ	WHITE  	176			226	*ʦeʦee		Swadesh
+528	Muinane	sésééne 	WHITE  	176			226	*ʦeʦee		Swadesh
+529	PBoM	kɨβo-	BLACK  	177			227	*kɨβo-	*kɯ́βe-ne, (báttɯne)	Leipzig-Jakarta, Swadesh
+530	Bora	kʰɯɯ́βe-ne	BLACK  	177			227	*kɨβo-		Leipzig-Jakarta, Swadesh
+531	Muinane	kɨ́βo-no 	BLACK  	177	black-inan 	Note =328 	227	*kɨβo-		Leipzig-Jakarta, Swadesh
+532	PBoM	di-po	GO!  	178			228	*di-po	*dí-pe	Leipzig-Jakarta
+533	Bora	tí-pʰʲe 	GO!  	178	imp-go		228	*di-po		Leipzig-Jakarta
+534	Muinane	diɸó 	GO!  	178			228	*di-po		Leipzig-Jakarta
+535	PBoM	di-ʦaa	COME! 	179			229	*di-ʦaa	*dí-ʦaa	
+536	Bora	tí-ʧʰa 	COME! 	179	imp-come		229	*di-ʦaa		
+537	Muinane	di-sáá 	COME! 	179	imp-come 		229	*di-ʦaa		
+538	PBoM	maʧʧu	EAT! 	180			230	*maʧʧu	*maččoó	Leipzig-Jakarta
+539	Bora	máhʧʰoó	EAT! 	180			230	*maʧʧu		Leipzig-Jakarta
+540	Muinane	maʧʧú 	EAT! 	180		Note =275 	230	*maʧʧu		Leipzig-Jakarta
+541	PBoM	d-aduu	DRINK! 	181			231	*d-aduu	*d-ádoó	Leipzig-Jakarta
+542	Bora	t-átoó 	DRINK! 	181	imp-drink		231	*d-aduu		Leipzig-Jakarta
+543	Muinane	d-adú 	DRINK! 	181			231	*d-aduu		Leipzig-Jakarta
+544	PBoM	kɨga	SLEEP! 	182			232	*kɨga	*kɯ́gá	Leipzig-Jakarta
+545	Bora	kʰɯ́kʷáá	SLEEP! 	182			232	*kɨga		Leipzig-Jakarta
+546	Muinane	kɨgá 	SLEEP! 	182		Note =79,81,280 	232	*kɨga		Leipzig-Jakarta
+547	PBoM	iiʔgai-noo	FRONT TEETH,INCISORS 	183			234	*iiʔgai-noo	*(pɨɨneéné) *(mé)-ííʔgai-neé, (di-xéxé-ba) ííʔgai-neé	
+548	Bora	íʔkʷa-ɲeé 	FRONT TEETH,INCISORS 	183	tooth-pl		234	*iiʔgai-noo		
+549	Muinane	ííga-ɲo 	FRONT TEETH,INCISORS 	183			234	*iiʔgai-noo		
+550	PBoM	nehe-()-nih()kk()	TIP OF TONGUE 	184			235	*nehe-()-nih()kk()	*(mé)-ʔnɨ́xɨ́-(gá)-nɨx(ɨ)k(áɯ)	Leipzig-Jakarta
+551	Bora	méʔ-nɨ́hɨ́-kʷá-nɨhkʰá-ɯ 	TIP OF TONGUE 	184	our-tongue-cl:plank-end-cl:round		235	*nehe-()-nih()kk()		Leipzig-Jakarta
+552	Muinane	néhe-ba-niheke 	TIP OF TONGUE 	184	tongue-cl-end 		235	*nehe-()-nih()kk()		Leipzig-Jakarta
+553	PBoM	niiga	LONG HAIR 	185			236	*niiga	*(mɨ́ɨ́baigi), *nííga()	
+554	Bora	nííkʷa-kʰo 	LONG HAIR 	185	head-cl		236	*niiga		
+555	Muinane	níga-ɨ-heene 	LONG HAIR 	185	head-cl-hair 	Note: see 8 	236	*niiga		
+556	PBoM	nokkɨ-	LOWER ARM 	186			240	*nokkɨ-	*(mé)-nékkɯ́-(gaʦítto) {20}	
+557	Bora	néhhɯ́-kʷa-ʦʰíhtʰʲo 	LOWER ARM 	186	side-cl:plank-?		240	*nokkɨ-		
+558	Muinane	nókkɨ 	LOWER ARM 	186	arm 		240	*nokkɨ-		
+559	PBoM	ʔutʦe-kkohe	WRIST 	187			241	*ʔutʦe-kkohe	*(mé)-ʔóʦɨ-(k)kéxɨ, (ʦɨɨmé ɨ́ɨ́kɯ)	
+560	Bora	ʔóʦʰɨ-hkʰéhɨ 	WRIST 	187	hand-wrist		241	*ʔutʦe-kkohe		
+561	Muinane	úse-kehe 	WRIST 	187			241	*ʔutʦe-kkohe		
+562	PBoM	takki-	LOWER LEG 	188			242	*takki-	*(mé)-tákki-(ɯ), (xóonoga, xéenoga)	
+563	Bora	tʰáhkʰii	LOWER LEG 	188			242	*takki-		
+564	Muinane	tákkijɨ 	LOWER LEG 	188			242	*takki-		
+565	PBoM	iʔhee-no	BODY HAIR 	189			243	*iʔhee-no	*ɨ́ʔxɨɨ-ne {270}	
+566	Bora	ɨ́ʔhɨne	BODY HAIR 	189			243	*iʔhee-no		
+567	Muinane	íhéene 	BODY HAIR 	189		Note =270, see 10’ 	243	*iʔhee-no		
+568	PBoM	iiʔba	STOMACH 	190			244	*iiʔba	*(mé)-íiʔbá(ɯ) {272,245}, (xɨ́ɨbɯɯ), *(mé-ke)-máččo-(ɯ), *maččo-(xota)	
+569	Bora	íʔpáɯ	STOMACH 	190			244	*iiʔba		
+570	Muinane	íiba 	STOMACH 	190		Note = 16,245,272 	244	*iiʔba		
+571	PBoM	iiʔba	INTESTINES 	191			245	*iiʔba	*(mé)-íiʔbá(ɯ)	
+572	Bora	íʔpáɯ	INTESTINES 	191			245	*iiʔba		
+573	Muinane	íiba 	INTESTINES 	191		Note =16,244,272 	245	*iiʔba		
+574	PBoM	koomo-go	OLD WOMAN 	192			246	*koomo-go	(ámia-ʦa), *kééme-ge {47,347}	
+575	Bora	kʰééme-ʧe 	OLD WOMAN 	192	old-fem.sg		246	*koomo-go		
+576	Muinane	kóómo-go 	OLD WOMAN 	192		Note: see 347 	246	*koomo-go		
+577	PBoM	gaikkuʔai,-pagi	CORN FIELD 	193			249	*gaikkuʔai,*-pagi	*gáíkkoʔai, (pági), (ɯ́mɨʔe) {83}	
+578	Bora	kʷáhkʰʲoʔa, -pʰáʧi	CORN FIELD 	193			249	*gaikkuʔai,*-pagi		
+579	Muinane	gáíkkuʔai, ɸági 	CORN FIELD 	193			249	*gaikkuʔai,*-pagi		
+580	PBoM	too-ʔi	STREAM 	194			250	*too-ʔi	*tée-ʔi-(gayɯ) {river-line-small,49,71}, *téé-(gai-ʔo), (pákaáxa)	
+581	Bora	tʰéé-ʔi 	STREAM 	194	river-cl		250	*too-ʔi		
+582	Muinane	tée-ʔi 	STREAM 	194			250	*too-ʔi		
+583	PBoM	n()gai-ɨʔai	PEBBLES 	195			251	*n()gai-ɨʔai	*(xíí)-négaiyɯ́-ʔái, *négaiyɯ́(-gɯ́ɯ́né) {73,74,252}, (gííʦiɯ)	Leipzig-Jakarta
+584	Bora	nékʷa-jɯ́ɯ́ʔá 	PEBBLES 	195	stone-grains		251	*n()gai-ɨʔai		Leipzig-Jakarta
+585	Muinane	híínɨgai-jɨʔai 	PEBBLES 	195		Note =74 	251	*n()gai-ɨʔai		Leipzig-Jakarta
+586	PBoM	hɨɨ()ai	PATH 	196			253	*hɨɨ()ai	*xɯɯ́-()	
+587	Bora	hɯɯ́βa	PATH 	196			253	*hɨɨ()ai		
+588	Muinane	hɨ́ɨ́ʔai 	PATH 	196			253	*hɨɨ()ai		
+589	PBoM	nɨɨh()-ga	SHELTER 	197			255	*nɨɨh()-ga	*nɯ́ɯ́xɯ-ga, *(iixó)-ga	
+590	Bora	nɯ́ɯ́hɯ-kʷa 	SHELTER 	197	?-cl:plank		255	*nɨɨh()-ga		
+591	Muinane	nɨ́ɨ́he-ga 	SHELTER 	197			255	*nɨɨh()-ga		
+592	PBoM	hi-	THIS  	198			256	*hi-	*xíneé, *xi(xɨ), (áánɯɯ́), (ááímeé), (eéne)	Leipzig-Jakarta, Swadesh
+593	Bora	í-ɲeé 	THIS  	198	here-inan		256	*hi-		Leipzig-Jakarta, Swadesh
+594	Muinane	hí-no 	THIS  	198			256	*hi-		Leipzig-Jakarta, Swadesh
+595	PBoM	hoʔ-	THAT  	199			257	*hoʔ-	*xe(ʔ)é-ne, (teé-), (diíbe) {204}, (áánɯɯ́)	Swadesh
+596	Bora	éʔ-neé 	THAT  	199	there-inan		257	*hoʔ-		Swadesh
+597	Muinane	hóʔo-no 	THAT  	199			257	*hoʔ-		Swadesh
+598	PBoM	mɨ-,ka-	WHO  	200			258	*mɨ-,*ka-	?*ka(aitéʔa)-xaa-, *mɯ́-(ʔa)-xa	Leipzig-Jakarta, Swadesh
+599	Bora	mɯ́ʔa, kʰaatʰʲéʔa	WHO  	200			258	*mɨ-,*ka-		Leipzig-Jakarta, Swadesh
+600	Muinane	mɨ́hɨ́, káháánɨ, káháámo 	WHO  	200		Note: *mɨ́- ‘who’, *ká- ‘which’ 	258	*mɨ-,*ka-		Leipzig-Jakarta, Swadesh
+601	PBoM	ʦaʔa,-tɨ	NOT  	201			260	*ʦaʔa,*-tɨ	*(-tɯ), *ʦáʔaá-(ne)	Leipzig-Jakarta, Swadesh
+602	Bora	ʦʰáʔaá, -tʰɯ	NOT  	201			260	*ʦaʔa,*-tɨ		Leipzig-Jakarta, Swadesh
+603	Muinane	ʧáʔano, -tɨ 	NOT  	201			260	*ʦaʔa,*-tɨ		Leipzig-Jakarta, Swadesh
+604	PBoM	pa-no	ALL  	202			261	*pa-no	((p)airɯɯ-kɯ-ne), *pamere, *pa-nee-(re)	Swadesh
+605	Bora	pʰá-neé-re 	ALL  	202	all-inan-rest		261	*pa-no		Swadesh
+606	Muinane	ɸáá-no 	ALL  	202	all-inan 		261	*pa-no		Swadesh
+607	PBoM	mita-	MANY  	203			262	*mita-	*míta-(ne), (gíráá-me), (ʦíítɯ), (ɨʔnáʔo)	Swadesh
+608	Bora	mítʰʲa-ne 	MANY  	203	many-inan		262	*mita-		Swadesh
+609	Muinane	mítʲa 	MANY  	203	power 	Note: see 220 	262	*mita-		Swadesh
+610	PBoM	kaamo-	LONG  	204			263	*kaamo-	*kááme(-βe)-ne	Leipzig-Jakarta, Swadesh
+611	Bora	kʰááme-ne 	LONG  	204	long-inan		263	*kaamo-		Leipzig-Jakarta, Swadesh
+612	Muinane	káámo-βo-no 	LONG  	204	long-?-inan 		263	*kaamo-		Leipzig-Jakarta, Swadesh
+613	PBoM	-meeʔu	BARK  	205			264	*-meeʔu	*(koo)-mɨ́ɨ́ʔo, (ɯ́méʔé) *(ʔaǰɯ́e)-mɨ́ɨ́ʔo	Swadesh
+614	Bora	-mɨ́ɨ́ʔo	BARK  	205			264	*-meeʔu		Swadesh
+615	Muinane	kuu-mééʔu 	BARK  	205	wood-shell 		264	*-meeʔu		Swadesh
+616	PBoM	ʔookuu,duu	FLESH  	206			265	*ʔookuu,*duu	*éékoó, *doó-(xeʔe), *(táí)-do, (aʦímɯ)	Leipzig-Jakarta, Swadesh
+617	Bora	ʔéékʰoó, toó	FLESH  	206			265	*ʔookuu,*duu		Leipzig-Jakarta, Swadesh
+618	Muinane	úúku, dúúhoʔo 	FLESH  	206			265	*ʔookuu,*duu		Leipzig-Jakarta, Swadesh
+619	PBoM	tɨɨ-	BLOOD 	207			266	*tɨɨ-	*tɯ́ɯ́-(xéʔe), *tɯ́ɯ́-(ppaiko)	
+620	Bora	tʰɯ́-hpʰakʰʲo 	BLOOD 	207	red-cl:liquid		266	*tɨɨ-		
+621	Muinane	tɨ́ɨ́-hóʔo 	BLOOD 	207	red-? 	Note =33 	266	*tɨɨ-		
+622	PBoM	dɨɨrɨ-ba	GREASE  	208			267	*dɨɨrɨ-ba	*dɯ́ɯrɯba	Swadesh
+623	Bora	tɯ́ɯ́rɯ-pa 	GREASE  	208	grease-cl:liquid		267	*dɨɨrɨ-ba		Swadesh
+624	Muinane	dɨ́ɨrɨ-ba 	GREASE  	208		Note =479 	267	*dɨɨrɨ-ba		Swadesh
+625	PBoM	iiʔɨ	EGG  	209			268	*iiʔɨ	*ííʔyɯ́ɯ	Leipzig-Jakarta, Swadesh
+626	Bora	ííʔʲɯ́ɯ-ɯ́ 	EGG  	209	?-cl:round		268	*iiʔɨ		Leipzig-Jakarta, Swadesh
+627	Muinane	ííjɨ 	EGG  	209			268	*iiʔɨ		Leipzig-Jakarta, Swadesh
+628	PBoM	-ttu	HORN  	210			269	-ttu	*(óka)-(x)ítto, (iyáábetto)	Leipzig-Jakarta, Swadesh
+629	Bora	-htʰo 	HORN  	210			269	-ttu		Leipzig-Jakarta, Swadesh
+630	Muinane	íttu 	HORN  	210		Note: see 462 	269	-ttu		Leipzig-Jakarta, Swadesh
+631	PBoM	i-hee-no	FEATHER  	211			270	*i-hee-no	*ɨ́xɨɨ-ne {243}	Swadesh
+632	Bora	ɨ́ʔhɨne	FEATHER  	211			270	*i-hee-no		Swadesh
+633	Muinane	íhéene 	FEATHER  	211		Note =243,316, see 10 	270	*i-hee-no		Swadesh
+634	PBoM	ʔutʦe-gai-meeʔu	CLAW  	212			271	*ʔutʦe-gai-meeʔu	*(mé)-ʔótʦɨ́-gai-mɨ́ɨʔo, *(aʦi)-ʔótʦɨ́-gai-mɨ́ɨʔo	Swadesh
+635	Bora	ʔóhʦʰɨ́-kʷa-mɨ́ɨ́ʔo 	CLAW  	212	hand-cl:plank-cl:shell		271	*ʔutʦe-gai-meeʔu		Swadesh
+636	Muinane	asi-ʔúsé-gai-méeʔu 	CLAW  	212	animal-hand-cl:plank-cl:shell 		271	*ʔutʦe-gai-meeʔu		Swadesh
+637	PBoM	iiʔba	BELLY  	213			272	*iiʔba	*(mé)-íiʔbá(ɯ), (xɯ́ɨbɯɯ) {244}	Swadesh
+638	Bora	íʔpáɯ	BELLY  	213			272	*iiʔba		Swadesh
+639	Muinane	íiba 	BELLY  	213		Note =16,244,245 	272	*iiʔba		Swadesh
+640	PBoM	iʔganoo	LIVER  	214			273	*iʔganoo	*(mé)-íʔgá-neé	Leipzig-Jakarta, Swadesh
+641	Bora	íʔkʷáneé	LIVER  	214			273	*iʔganoo		Leipzig-Jakarta, Swadesh
+642	Muinane	ígano 	LIVER  	214			273	*iʔganoo		Leipzig-Jakarta, Swadesh
+643	PBoM	adu	DRINK  	215			274	*adu	*ado {231}, (ádɯkɯ́nɯ)	Leipzig-Jakarta, Swadesh
+644	Bora	ato	DRINK  	215			274	*adu		Leipzig-Jakarta, Swadesh
+645	Muinane	ádu- 	DRINK  	215		Note: see 231 	274	*adu		Leipzig-Jakarta, Swadesh
+646	PBoM	maʧʧu	EAT (NON MEAT)  	216			275	*maʧʧu	*doó-(ʔi) {meat}, *geéne {fruit}, *maččo {164}	Leipzig-Jakarta, Swadesh
+647	Bora	mahʧʰoó	EAT (NON MEAT)  	216			275	*maʧʧu		Leipzig-Jakarta, Swadesh
+648	Muinane	maʧʧú 	EAT (NON MEAT)  	216		Note =230 	275	*maʧʧu		Leipzig-Jakarta, Swadesh
+649	PBoM	eeʔdu-	BITE  	217			276	*eeʔdu-	*ɨɨʔdo, (dɨgɯ́kkɯ), (denókko), (dɨ́geʔxɯ́kɯ)	Leipzig-Jakarta, Swadesh
+650	Bora	ɨʔto	BITE  	217			276	*eeʔdu-		Leipzig-Jakarta, Swadesh
+651	Muinane	éédu- 	BITE  	217			276	*eeʔdu-		Leipzig-Jakarta, Swadesh
+652	PBoM	aittɨme	SEE  	218			277	*aittɨme	*aittɯ́mɨ(ɨɨ́té), (mɨ́ɨkkɯ), (dɯ́xɯɯ́), (ɯɯ́xe)	Leipzig-Jakarta, Swadesh
+653	Bora	ahtʰʲɯ́mɨ	SEE  	218			277	*aittɨme		Leipzig-Jakarta, Swadesh
+654	Muinane	áttʲɨ́me- 	SEE  	218		Note cf. 450 	277	*aittɨme		Leipzig-Jakarta, Swadesh
+655	PBoM	goobu-	HEAR  	219			278	*goobu-	*geébo, (…)	Leipzig-Jakarta, Swadesh
+656	Bora	ʧeépo	HEAR  	219			278	*goobu-		Leipzig-Jakarta, Swadesh
+657	Muinane	gúúbu- 	HEAR  	219			278	*goobu-		Leipzig-Jakarta, Swadesh
+658	PBoM	gaaha	KNOW  	220			279	*gaaha	*gaaxá(kɯ), (piiβéte)	Leipzig-Jakarta, Swadesh
+659	Bora	kʷaahákʰɯ	KNOW  	220			279	*gaaha		Leipzig-Jakarta, Swadesh
+660	Muinane	gááha- 	KNOW  	220			279	*gaaha		Leipzig-Jakarta, Swadesh
+661	PBoM	kɨga	SLEEP  	221			280	*kɨga	*kɯga	Swadesh
+662	Bora	kʰɯkʷa	SLEEP  	221			280	*kɨga		Swadesh
+663	Muinane	kɨ́ga- 	SLEEP  	221		Note =79, 81, 232 	280	*kɨga		Swadesh
+664	PBoM	gihe-βo	DIE  	222			281	*gihe-βo	*gɨxɨ́-βe, (čééme), (…)	Swadesh
+665	Bora	ʦɨhɨ́-βe 	DIE  	222	death-vblz		281	*gihe-βo		Swadesh
+666	Muinane	gíhé-βe-ʔi 	DIE  	222	death-vblz 		281	*gihe-βo		Swadesh
+667	PBoM	gɨhe-βo-ʦu	KILL 	223			282	*gɨhe-βo-ʦu	*gɨ́xɨ-βé-ʦo, *gɨ́xɨ-(nɯ), (gáikkáao), (gáiɯɯʔáro), (…)	
+668	Bora	ʦɨ́hɨ-βé-ʦʰo 	KILL 	223	dead-vblz-caus		282	*gɨhe-βo-ʦu		
+669	Muinane	gíhéβesu-ʔi 	KILL 	223	dead-vblz-caus 		282	*gɨhe-βo-ʦu		
+670	PBoM	iʦʦi	SWIM  	224			283	*iʦʦi	*itʦi	Swadesh
+671	Bora	ihʧʰi	SWIM  	224			283	*iʦʦi		Swadesh
+672	Muinane	ísi- 	SWIM  	224			283	*iʦʦi		Swadesh
+673	PBoM	gaʔpo	FLY  	225			284	*gaʔpo	*gaʔape, (gaaméne)	Leipzig-Jakarta, Swadesh
+674	Bora	kʷaʔpʰe	FLY  	225			284	*gaʔpo		Leipzig-Jakarta, Swadesh
+675	Muinane	gáʔáɸe-ʔi 	FLY  	225			284	*gaʔpo		Leipzig-Jakarta, Swadesh
+676	PBoM	ɨgo	*poo WALK  	226			285	*ɨgo	*ɯge, (tadɯ́ʔkɯ), (rixákko), (peé)	Swadesh
+677	Bora	ɯʧe, pʰeé	*poo WALK  	226			285	*ɨgo		Swadesh
+678	Muinane	ɨ́ge-ʔi, ɸée-ʔi 	*poo WALK  	226	go, ɸúu-ʔi 		285	*ɨgo		Swadesh
+679	PBoM	ʦaa-	COME  	227			286	*ʦaa-	*ʦaá-(pé), (náʔxɨʔe)	Leipzig-Jakarta, Swadesh
+680	Bora	ʦʰaá	COME  	227			286	*ʦaa-		Leipzig-Jakarta, Swadesh
+681	Muinane	sáá-ʔi 	COME  	227			286	*ʦaa-		Leipzig-Jakarta, Swadesh
+682	PBoM	akkɨ	GIVE  	228			290	*akkɨ	*akkɯ, (éxekkáǰo, éxekkáigo)	Leipzig-Jakarta, Swadesh
+683	Bora	ahkʰɯ	GIVE  	228			290	*akkɨ		Leipzig-Jakarta, Swadesh
+684	Muinane	ákkɨ-ʔi 	GIVE  	228			290	*akkɨ		Leipzig-Jakarta, Swadesh
+685	PBoM	hɨɨb()go,noo	SAY  	229			291	*hɨɨb()go,*noo	*xɯɯb(ái)ge, *neé, (iʔxɯ́βa)	Leipzig-Jakarta, Swadesh
+686	Bora	ɯɯpáʧe, neé	SAY  	229			291	*hɨɨb()go,*noo		Leipzig-Jakarta, Swadesh
+687	Muinane	hɨ́ɨ́bege-ʔi, néé-ʔi 	SAY  	229			291	*hɨɨb()go,*noo		Leipzig-Jakarta, Swadesh
+688	PBoM	gahɨɨ,baaɨɨ	MOUNTAIN  	230			293	*gahɨɨ,*baaɨɨ	*gáxɯɯ́, *káme-(βo)-gáxɯ, *báaɯɯ́, *káme-(βo)-ʔbáaɯ {151}	Swadesh
+689	Bora	kʷáhɯɯ́, páɯɯ́	MOUNTAIN  	230			293	*gahɨɨ,*baaɨɨ		Swadesh
+690	Muinane	gáhɨ, báaɨ 	MOUNTAIN  	230		Note: see 151 	293	*gahɨɨ,*baaɨɨ		Swadesh
+691	PBoM	tɨ-ppai-no	RED  	231			294	*tɨ-ppai-no	*tɯ́-ppai-ne {33,266}	Leipzig-Jakarta, Swadesh
+692	Bora	tʰɯ́-hpʰa-ɲe 	RED  	231	red-liquid-inan 	see 33,26’	294	*tɨ-ppai-no		Leipzig-Jakarta, Swadesh
+693	Muinane	tɨ́-ɸai-ɲo 	RED  	231		see 33,26’ 	294	*tɨ-ppai-no		Leipzig-Jakarta, Swadesh
+694	PBoM	aittɨβa	GREEN  	232			295	*aittɨβa	*aittɯ́βá-ne	Swadesh
+695	Bora	ahtʰʲɯ́βa	GREEN  	232			295	*aittɨβa		Swadesh
+696	Muinane	attʲɨ́βa-no 	GREEN  	232			295	*aittɨβa		Swadesh
+697	PBoM	gi()	YELLOW  	233			296	*gi()	*gíí(-giβa)-ne, *gí(-kká)-ne-(ɯ́βɯ)	Swadesh
+698	Bora	ʧíhkʰʲáneɯ́βɯ́	YELLOW  	233			296	*gi()		Swadesh
+699	Muinane	gíígiβano 	YELLOW  	233			296	*gi()		Swadesh
+700	PBoM	gaʔpo	FULL  	234			297	*gaʔpo	*gaʔape-né, *(ʦane) gáʔap(é) (k)kɯnɯ́-né, (gáíttóokɯ)	Swadesh
+701	Bora	kʷaʔpʰe	FULL  	234			297	*gaʔpo		Swadesh
+702	Muinane	gáʔáɸo-no 	FULL  	234		Note =471 	297	*gaʔpo		Swadesh
+703	PBoM	boʔ-no	NEW  	235			298	*boʔ-no	*béʔe-ne	Leipzig-Jakarta, Swadesh
+704	Bora	péʔ-ne	NEW  	235			298	*boʔ-no		Leipzig-Jakarta, Swadesh
+705	Muinane	bóʔo-no 	NEW  	235			298	*boʔ-no		Leipzig-Jakarta, Swadesh
+706	PBoM	momo	NAME  	236			301	*momo	*meme	Leipzig-Jakarta, Swadesh
+707	Bora	meme	NAME  	236			301	*momo		Leipzig-Jakarta, Swadesh
+708	Muinane	mómo 	NAME  	236			301	*momo		Leipzig-Jakarta, Swadesh
+709	PBoM	mɨʔ()ɨ	HOW 	237			302	*mɨʔ()ɨ	*mɯʔ(ǰ)ɯ, *mɯʔ(d)ɯ, (kébádɯ)	
+710	Bora	mɯʔtɯ	HOW 	237			302	*mɨʔ()ɨ		
+711	Muinane	mɨ́ʤɨ 	HOW 	237			302	*mɨʔ()ɨ		
+712	PBoM	hi-noo-ri	HERE 	238			305	*hi-noo-ri	*(xóó-ga-βɯ), (ximáine), (íígeé), (íʦii, íčii), *xíneé-ri, *xíneé-(βɯ)	
+713	Bora	í-ɲeé-ri 	HERE 	238	here-inan-loc		305	*hi-noo-ri		
+714	Muinane	hi-néé-ri 	HERE 	238			305	*hi-noo-ri		
+715	PBoM	oo-no	THERE 	239			306	*oo-no	(xaʔɯ), (taʔɯ), (eene), (omaina), (eʔ-gee), (éʔ-ʦíií), (té-ʦii), (téʔɯge)	
+716	Bora	éé-ne 	THERE 	239	there-inan		306	*oo-no		
+717	Muinane	óó-no 	THERE 	239			306	*oo-no		
+718	PBoM	ʦi-ppi	OTHER 	240			307	*ʦi-ppi	*ʦi-ppi {masc}, *ʦí-(ppi-ge), *ʦií-(ne), *ʦi-	
+719	Bora	ʦʰi-hpʰi 	OTHER 	240	other-masc.sg		307	*ʦi-ppi		
+720	Muinane	sí-ɸi 	OTHER 	240			307	*ʦi-ppi		
+721	PBoM	tʦu-	FOG 	241			309	*tʦu-	*(o)tʦo-(ɯ), (áimóo-ppaiko) {59,247,248}	
+722	Bora	ohʦʰó 	FOG 	241	smoke		309	*tʦu-		
+723	Muinane	súɨ 	FOG 	241			309	*tʦu-		
+724	PBoM	niiβa	FLOW 	242			310	*niiβa	(gaápe), (niiβa), (koo)	
+725	Bora	niiβa	FLOW 	242			310	*niiβa		
+726	Muinane	niiβa-ʔi 	FLOW 	242			310	*niiβa		
+727	PBoM	muuai	SEA 	243			311	*muuai	*moóai, (ɨ́ɨ́βámɯ́ dokó-ppáiko)	
+728	Bora	moóa	SEA 	243			311	*muuai		
+729	Muinane	múúai 	SEA 	243		Note =49,379 	311	*muuai		
+730	PBoM		peepai-no,*maa- WET 	244			312	*	(pɨ́ɨ́-ppai-ne), (mááí-ne), (mɯrííβe), (maxááβe), (reʔre), (ɯɯ́rɯ), (ɯɯrɯ́βe), (rerékkɯ)	
+731	Bora	mahááβe, pʰɨ́ɨ́pʰá-ɲe 	peepai-no,*maa- WET 	244	moist-inan		312	*		
+732	Muinane	mááɲo, ɸééɸa-ɲo 	peepai-no,*maa- WET 	244		Note: see 403 	312	*		
+733	PBoM	nittɨ-	WASH 	245			313	*nittɨ-	*nittɯ́-(kɯ), (gáiʦáiʦaʔxɯ́kɯ, gáčáčaʔxɯ́kɯ), (íǰoáko), (íbɯ́nɯáko)	
+734	Bora	nihtʰʲɯ	WASH 	245			313	*nittɨ-		
+735	Muinane	níttɨ-ʔi 	WASH 	245		Note: see 482 	313	*nittɨ-		
+736	PBoM	hɨʔba	WORM 	246			314	*hɨʔba	*xɯ(ʔ)ɯ́ba, (čéʔói, čóʔói), (áppaiko), (…)	
+737	Bora	ɯɯ́pa	WORM 	246			314	*hɨʔba		
+738	Muinane	hɨ́ʔɨba 	WORM 	246			314	*hɨʔba		
+739	PBoM	iʔhe-	FUR 	247			316	*iʔhe-	*ɨ́ʔxɨ́-(ʔono), *ɨ́ʔxɨ-(xɨ)	
+740	Bora	ɨ́ʔhɨhɨ	FUR 	247			316	*iʔhe-		
+741	Muinane	íhéʔene 	FUR 	247		Note: see 10,243,270 	316	*iʔhe-		
+742	PBoM	hɨɨ-	SALIVA 	248			318	*hɨɨ-	*xɯ́ɯ-(rɨ), *xɯɯ-(ní-ba)	
+743	Bora	ɯɯnípa, ɯɯ́ni	SALIVA 	248			318	*hɨɨ-		
+744	Muinane	hɨ́ɨre 	SALIVA 	248			318	*hɨɨ-		
+745	PBoM	mɨppaino-ppai()u	MILK 	249			319	*mɨppaino-ppai()u	*mɯ́ppáíne-ppáiko {breast-liquid,15,48}	
+746	Bora	mɯ́hpʰáɲe-hpʰákʰʲo 	MILK 	249	breast-liquid		319	*mɨppaino-ppai()u		
+747	Muinane	mɨ́ɸaɲo-ɸáiʔu 	MILK 	249	breast-liquid 		319	*mɨppaino-ppai()u		
+748	PBoM	-ma	WITH 	250			320	*-ma	*-ma, (-ri)	
+749	Bora	-ma	WITH 	250			320	*-ma		
+750	Muinane	-ma 	WITH 	250			320	*-ma		
+751	PBoM	paino	IN  	251			321	*paino	(-βɯ), (paine)	Leipzig-Jakarta
+752	Bora	pʰaɲe	IN  	251			321	*paino		Leipzig-Jakarta
+753	Muinane	ɸaɲo 	IN  	251			321	*paino		Leipzig-Jakarta
+754	PBoM	-βɨ	AT 	252			322	*-βɨ	(ʦaʦíi), (-βɯ)	
+755	Bora	-βɯ 	AT 	252	adlative case		322	*-βɨ		
+756	Muinane	-βɨ 	AT 	252			322	*-βɨ		
+757	PBoM	-ʔaʧʧiihɨ	IF 	253			323	*-ʔaʧʧiihɨ	*-ʔaččííxɯ, (-ka)	
+758	Bora	ʔahʧʰííhʲɯ	IF 	253			323	*-ʔaʧʧiihɨ		
+759	Muinane	aʧʧihɨ 	IF 	253			323	*-ʔaʧʧiihɨ		
+760	PBoM	ʦee-mo-no	CHILD 	254			327	*ʦee-mo-no	*ʦɨ́ɨ́-me-ne, *(gaí-píí)-ʦɨ́ɨ́	
+761	Bora	ʦʰɨ́ɨ́-me-ne 	CHILD 	254	child-pl-inan		327	*ʦee-mo-no		
+762	Muinane	séémene 	CHILD 	254			327	*ʦee-mo-no		
+763	PBoM	kɨβo-	DARK 	255			328	*kɨβo-	*kɯ́βé-ne, *kɯ́βéʔteé-né, *kɯ́βe-(ʦíí)	
+764	Bora	kʰɯ́ɯ́βe-ne	DARK 	255			328	*kɨβo-		
+765	Muinane	 	DARK 	255	dark-inankɨ́βo-no 	Note =227 	328	*kɨβo-		
+766	PBoM	kare-	WIDE  	256			330	*kare-	*k(a)rɨ́(ko)-né, (mítane)	Leipzig-Jakarta
+767	Bora	kʰorɨ́ɨ́-né 	WIDE  	256	wide-inan		330	*kare-		Leipzig-Jakarta
+768	Muinane	kárékuno 	WIDE  	256			330	*kare-		Leipzig-Jakarta
+769	PBoM	iihe	NARROW 	257			331	*iihe	*ɨɨxɨ́-né-(gáyɯ́), (ɯ́tʦíne), (áyane), (páyokke)	
+770	Bora	ɨɨhɨ́	NARROW 	257			331	*iihe		
+771	Muinane	ííhe-ne 	NARROW 	257			331	*iihe		
+772	PBoM	peeme	THICK  	258			334	*peeme	*pɨɨ́mɨ-(ne)	Leipzig-Jakarta
+773	Bora	pʰɨɨ́mɨ	THICK  	258			334	*peeme		Leipzig-Jakarta
+774	Muinane	ɸééme-ne 	THICK  	258			334	*peeme		Leipzig-Jakarta
+775	PBoM	ɨtʦi-,aini-	THIN 	259			335	*ɨtʦi-,aini-	*ɯ́tʦi-(ne), aini-(ne)	
+776	Bora	ani, ɯhʦʰi	THIN 	259			335	*ɨtʦi-,aini-		
+777	Muinane	ɨ́sino, áɲino 	THIN 	259			335	*ɨtʦi-,aini-		
+778	PBoM	baaʔr()-no	SHORT 	260			336	*baaʔr()-no	*bááʔrí-ne(-ɯ́βɯ́)	
+779	Bora	páʔríɲeɯ́βɯ́	SHORT 	260			336	*baaʔr()-no		
+780	Muinane	báárene 	SHORT 	260			336	*baaʔr()-no		
+781	PBoM	ʦɨɨʔhe-βa-tɨ-no	DULL 	261			338	*ʦɨɨʔhe-βa-tɨ-no	*ʦɯ́ɯ́ʔxɨ́βa-tɯ́-ne, (gíʔi-ne)	
+782	Bora	ʦʰɯ́ʔhɨ́-βa-tʰɯ́-ne 	DULL 	261	sharp-have-neg-inan		338	*ʦɨɨʔhe-βa-tɨ-no		
+783	Muinane	sɨ́ɨ́he-βa-tɨ-no 	DULL 	261			338	*ʦɨɨʔhe-βa-tɨ-no		
+784	PBoM	ʦɨɨhe-βa	SHARP 	262			339	*ʦɨɨhe-βa	*ʦɯ́ɯ́ʔxɨβá-ne	
+785	Bora	ʦʰɯ́ʔhɨ-βá-ne 	SHARP 	262	sharp-have-inan		339	*ʦɨɨhe-βa		
+786	Muinane	sɨ́ɨ́héβano 	SHARP 	262			339	*ʦɨɨhe-βa		
+787	PBoM	hiinɨ-βa-,beeβa-	DIRTY 	263			340	*hiinɨ-βa-,beeβa-	*xiin(ɯ́)-βá-ne, *(βɨɨ)-βa-ne, *(mɯʔɯni)-βa-ne, *ɯ́diikk(o-ne), *ɯ́dííkk(ɯɯ́), (neʔni)	
+788	Bora	iiɲɯ́-βá-ne 	DIRTY 	263	earth-have-inan, pɨɨβa		340	*hiinɨ-βa-,beeβa-		
+789	Muinane	híínɨβano, bééβano 	DIRTY 	263			340	*hiinɨ-βa-,beeβa-		
+790	PBoM	tuukɨ-	ROTTEN 	264			341	*tuukɨ-	*tóókɯ-ne, (nókókoo-ne, nékékoo-ne), (rááraá), (čáxaaβé-né)	
+791	Bora	tʰóókʰɯ-ne 	ROTTEN 	264	rotten-inan		341	*tuukɨ-		
+792	Muinane	túúkɨ-no 	ROTTEN 	264			341	*tuukɨ-		
+793	PBoM	p()rɨɨkɨ-,mooβa-	SMOOTH 	265			342	*p()rɨɨkɨ-,*mooβa-	*(p)(ai)rɯɯkɯ́-ne, *mééβa-ne, *rɯ(tɯ́)rɯ́(tɯ)-(ko-ne), (tɯ́ʔtɯ́-ríβa-tɯ́-ne)	
+794	Bora	pʰɨ́rɯɯkʰɯ́-ne, mééβa-ne	SMOOTH 	265			342	*p()rɨɨkɨ-,*mooβa-		
+795	Muinane	párʲɨ́ɨ́kɨno, móóβano 	SMOOTH 	265			342	*p()rɨɨkɨ-,*mooβa-		
+796	PBoM	ʦa-tɨkko-βo	STRAIGHT 	266			343	*ʦa-tɨkko-βo	*ʦa-tɯ́kkeβe	
+797	Bora	ʦʰa-tʰɯ́hkʰe-βe 	STRAIGHT 	266	one-straight-?		343	*ʦa-tɨkko-βo		
+798	Muinane	sá-tɨ́kko-βo 	STRAIGHT 	266			343	*ʦa-tɨkko-βo		
+799	PBoM	m()aa-	CORRECT 	267			344	*m()aa-	*(tɯ́kkeβe-be) {343}, *(ɨ́)mɨáá-ne {343}	
+800	Bora	ɨ́mɨáá-ne 	CORRECT 	267	true-inan		344	*m()aa-		
+801	Muinane	míjáá-no 	CORRECT 	267		Note =346 	344	*m()aa-		
+802	PBoM	nani-	LEFT 	268			345	*nani-	*náni-(ʔɯge), *náni-(nékkɯ)	
+803	Bora	náni-ɲéhkʰɯ 	LEFT 	268	left-side		345	*nani-		
+804	Muinane	nániʔɨgo 	LEFT 	268			345	*nani-		
+805	PBoM	()m()a-	RIGHT 	269			346	*()m()a-	*(ɨ́)mɨ́a-(nage-ne). *(ɨ́)mɨá-(nekkɯ)	
+806	Bora	ɨ́mɨá-néhkʰɯ 	RIGHT 	269	right-side		346	*()m()a-		
+807	Muinane	ímíja-nagono 	RIGHT 	269		Note =344 	346	*()m()a-		
+808	PBoM	ʦɨk()-,koomo-	OLD  	270			347	*ʦɨk()-,*koomo-	*ʦɯ́k(ɯ́xeʔɯ)-ne, *ʦɯ́k(áa)-ne, *kéeme-(be) {246,47}, (kiǰaʔo-te), (amia-te)	Leipzig-Jakarta
+809	Bora	ʦʰɯ́ɯ́kʰáa-ne, kʰeéme	OLD  	270			347	*ʦɨk()-,*koomo-		Leipzig-Jakarta
+810	Muinane	sɨ́kɨ́heʔɨno, kóomobo 	OLD  	270		Note = see 246 	347	*ʦɨk()-,*koomo-		Leipzig-Jakarta
+811	PBoM	giiɨkɨ	PULL 	271			349	*giiɨkɨ	*giiɯ́kɯ, (táǰári(ʔx)ɯ́kɯ)	
+812	Bora	ʧiɯ́kʰɯ	PULL 	271			349	*giiɨkɨ		
+813	Muinane	gííjɨkɨ-ʔi 	PULL 	271			349	*giiɨkɨ		
+814	PBoM	piku	THROW 	272			351	*piku	*piko, (gáino), (xɯkko), (gaáo), (gaagóo), (íččiβéʦo, ítʦiβéʦo), (kaʔpínɯ)	
+815	Bora	pʰikʰʲo 	THROW 	272	put		351	*piku		
+816	Muinane	ɸíkú-ʔi 	THROW 	272	put-pred 		351	*piku		
+817	PBoM	iʤaaju	HIT  	273			352	*iʤaaju	*íǰaáyo, *gá-(βíríko), *gá-(nɯ́ɯ́kɯ), *gá-(póóβɨ), *gá-(paákko), *gá-(iáko), *gá-(pɯ́xɯʔxáko), (eʔnénɯ), (káitéiteʔxɯ́ko)	Leipzig-Jakarta
+818	Bora	íʧaájo	HIT  	273			352	*iʤaaju		Leipzig-Jakarta
+819	Muinane	íʤáju-ʔi 	HIT  	273	hit-pred 		352	*iʤaaju		Leipzig-Jakarta
+820	PBoM	ga()er()-	SPLIT 	274			353	*ga()er()-	*gá(č)ére(á)ko	
+821	Bora	kʷáʧʰéreákʰo	SPLIT 	274			353	*ga()er()-		
+822	Muinane	gáʤéréku-ʔi 	SPLIT 	274	split-pred 		353	*ga()er()-		
+823	PBoM	kapaitɨ-ɨ()ɨ-nɨ	PIERCE 	275			354	*kapaitɨ-ɨ()ɨ-nɨ	*kápáítɯɯ́kkɯ-nɯ, (gáʔexɯ́ro)	
+824	Bora	kʰápʰátʰʲɯ-ɯ́kʰɯ-nɯ 	PIERCE 	275	pierce-?-do		354	*kapaitɨ-ɨ()ɨ-nɨ		
+825	Muinane	káɸáttʲɨ́kkɨ-ʔi 	PIERCE 	275	pierce-pred 		354	*kapaitɨ-ɨ()ɨ-nɨ		
+826	PBoM	ʦooʔdi	DIG 	276			355	*ʦooʔdi	*ʦeeʔdi, (kanokko), (ganókko)	
+827	Bora	ʦʰeʔti	DIG 	276			355	*ʦooʔdi		
+828	Muinane	séédi-ʔi 	DIG 	276	dig-pred 		355	*ʦooʔdi		
+829	PBoM	ʦiʦʦɨ,duʔhe-nɨ	TIE  	277			356	*ʦiʦʦɨ,*duʔhe-nɨ	*ʦítʦɯ, *doʔxɨ́n(ɯ)	Leipzig-Jakarta
+830	Bora	ʧʰíhʧʰɯ, toʔhɨ́-nɯ 	TIE  	277	strap-do		356	*ʦiʦʦɨ,*duʔhe-nɨ		Leipzig-Jakarta
+831	Muinane	sísɨ-ʔi, dúúhé-nɨ-ʔi 	TIE  	277	strap-do 		356	*ʦiʦʦɨ,*duʔhe-nɨ		Leipzig-Jakarta
+832	PBoM	aak()()o-	FALL  	278			358	*aak()()o-	*aakí(t)te, (áípɨ, áípe)	Leipzig-Jakarta
+833	Bora	aakʰítʰʲe	FALL  	278			358	*aak()()o-		Leipzig-Jakarta
+834	Muinane	áákétte-ʔi 	FALL  	278			358	*aak()()o-		Leipzig-Jakarta
+835	PBoM	huuri-	SWELL 	279			359	*huuri-	*xooríi-(ne), (gaaméne), (ɨ́baʦɯ́ɯ́βe)	
+836	Bora	oóri	SWELL 	279			359	*huuri-		
+837	Muinane	húúri-ʔi 	SWELL 	279			359	*huuri-		
+838	PBoM	etʦam()i-	THINK 	280			360	*etʦam()i-	*ɨ́tʦam(áá)i, *ɨ́tʦ(ɯ́-kɯnɯ), *ɨtʦ(o)	
+839	Bora	ɨ́hʦʰaméi	THINK 	280			360	*etʦam()i-		
+840	Muinane	ésámáái-ʔi 	THINK 	280			360	*etʦam()i-		
+841	PBoM	matʦi-βa	SING 	281			361	*matʦi-βa	*matʦí-βa, (gáníkkaméi)	
+842	Bora	mahʦʰíβa 	SING 	281	song-have		361	*matʦi-βa		
+843	Muinane	másí-βa-ʔi 	SING 	281			361	*matʦi-βa		
+844	PBoM	hɨgikk(),uʦʦu	SMELL 	282			362	*hɨgikk(),*uʦʦu	*xɯgíkk(o), *otʦó-ʔi, (nɯ́nɯɯkkɯ), *xɯ́gi(ɯ́kɯ), (ʦíiʔxɯ́kɯ), (aráʔko) {tr}, (βoβókkɯ), (kɯβa), (áipɯ́xakóóβe) {intr}	Leipzig-Jakarta
+845	Bora	ɯʧíhkʰʲɯ, ohʦʰó	SMELL 	282			362	*hɨgikk(),*uʦʦu		Leipzig-Jakarta
+846	Muinane	hɨ́gíkku-ʔi, úsu-ʔi 	SMELL 	282			362	*hɨgikk(),*uʦʦu		Leipzig-Jakarta
+847	PBoM	ebaʦu-,buuʦu-	BLOW  	283			365	*ebaʦu-,buuʦu-	*ɨ́báʦ(ɯ)(ʔxáko), *bootʦó-(kɯ), *gitʦɯ́-(kɯ), (poonɯ), (gíbó), (βoβókkɯ), (iókko), (βooíkɯ), (áápɯɯ́kɯ), (číyoáko), (ɯɯ́bo)	Leipzig-Jakarta
+848	Bora	ɨpáʦʰo, pohʦʰókʰɯ	BLOW  	283			365	*ebaʦu-,buuʦu-		Leipzig-Jakarta
+849	Muinane	ébásu-ʔi, búúsu-ʔi 	BLOW  	283			365	*ebaʦu-,buuʦu-		Leipzig-Jakarta
+850	PBoM	?igi	FEAR 	284			366	?*igi	?*igí, *(ai)n(ó)ɯʔ(i)kko(), *nɯʔ(néβe), (ápiiʦóge, ápiičóge), (áábiméi), (ámɨ́ʦáraʔkóge), (nóɯʔkóge)	
+851	Bora	iʧi	FEAR 	284			366	?*igi		
+852	Muinane	ígi-ʔi 	FEAR 	284		Note =542 	366	?*igi		
+853	PBoM	aamɨ-ʦu	SQUEEZE 	285			367	*aamɨ-ʦu	*(m)aámɯ, *aamɯ́-ʦó, ((ai)n(ai)nɨko), (gátiainɨ), (páíʦíɯʔxáko, páčíɯʔxáko), (…)	Leipzig-Jakarta
+854	Bora	aamɯ́-ʦʰó 	SQUEEZE 	285	hit-caus		367	*aamɨ-ʦu		Leipzig-Jakarta
+855	Muinane	áámɨ́-su-ʔi 	SQUEEZE 	285			367	*aamɨ-ʦu		Leipzig-Jakarta
+856	PBoM	ikka	HOLD 	286			368	*ikka	*ikka(ne), (gááyɯkkɯnɯ), (kátóroʔxáko), (teʔme), (maitʦóʦo, maččóʦo)	
+857	Bora	ihkʰʲa 	HOLD 	286	be		368	*ikka		
+858	Muinane	ikka-ʔi 	HOLD 	286	be 		368	*ikka		
+859	PBoM	giino,baa-ri	DOWN 	287			369	*giino,baa-ri	*gií-ne, *baári	
+860	Bora	ʧiíɲe, paá-ri 	DOWN 	287	below-loc		369	*giino,baa-ri		
+861	Muinane	gíino, báari 	DOWN 	287			369	*giino,baa-ri		
+862	PBoM	kamo	UP 	288			370	*kamo	*kaame	
+863	Bora	kʰaame	UP 	288			370	*kamo		
+864	Muinane	káamoβɨ 	UP 	288			370	*kamo		
+865	PBoM	naamo-	RIPE 	289			371	*naamo-	*nááme-ne, (tɯpai-ne), (kéémene)	
+866	Bora	name-ne 	RIPE 	289	sweet-inan		371	*naamo-		
+867	Muinane	náámo-no 	RIPE 	289		Note =558 	371	*naamo-		
+868	PBoM	-giihɨ	DUST 	290			372	*-giihɨ	*pá-giixɯ {57,164,171}, *(xíínɯ)-giixɯ {72}	
+869	Bora	ʧíhʲɯɯ́	DUST 	290			372	*-giihɨ		
+870	Muinane	gíihɨ 	DUST 	290			372	*-giihɨ		
+871	PBoM	buʔee-	ALIVE 	291			373	*buʔee-	*bóʔɨ́ɨ́-(beke), (gáxánékkɯ́ɯ́-beke), (ménɯ́nékkɯ́ɯ́-beke)	
+872	Bora	póʔɨ́ɨ́-pe 	ALIVE 	291	alive-masc.sg		373	*buʔee-		
+873	Muinane	búʔée-no 	ALIVE 	291			373	*buʔee-		
+874	PBoM	gaaiba-ɨ	ROPE  	292			374	*gaaiba-ɨ	*gáaibaɯ, (dóoxɨ-yɯ), (pádoʔxɨ)	Leipzig-Jakarta
+875	Bora	kʷáápʲa-ɯ 	ROPE  	292	?-cl		374	*gaaiba-ɨ		Leipzig-Jakarta
+876	Muinane	gáaiba-ɨ 	ROPE  	292			374	*gaaiba-ɨ		Leipzig-Jakarta
+877	PBoM	pi(k)kaba	YEAR 	293			375	*pi(k)kaba	*pí(k)kaba, (meeméʔe)	
+878	Bora	pʰíhkʰʲapa	YEAR 	293			375	*pi(k)kaba		
+879	Muinane	ɸikába 	YEAR 	293			375	*pi(k)kaba		
+880	PBoM	-g()ɨ	DIMINUTIVE 	294			378	*-g()ɨ		
+881	Bora	-kʷɯ.ɯ	DIMINUTIVE 	294			378	*-g()ɨ		
+882	Muinane	-gajɨ 	DIMINUTIVE 	294		Note: The Bora form is bisyllabic	378	*-g()ɨ		
+883	PBoM	muuai	BIG RIVER 	295			379	*muuai		
+884	Bora	moóa	BIG RIVER 	295			379	*muuai		
+885	Muinane	múúai 	BIG RIVER 	295		Note =49,311 	379	*muuai		
+886	PBoM	baa-(ʔ)o-ha	LONGHOUSE 	296			380	*baa-(ʔ)o-ha		
+887	Bora	pá-e-haá 	LONGHOUSE 	296	below-belong-house		380	*baa-(ʔ)o-ha		
+888	Muinane	báa-ʔo-ha	LONGHOUSE 	296			380	*baa-(ʔ)o-ha		
+889	PBoM	hɨgaa-he	STONE AXE 	297			382	*hɨgaa-he		
+890	Bora	ɯ́kʷaá-hɨ 	STONE AXE 	297	stone-cl:disc		382	*hɨgaa-he		
+891	Muinane	hɨ́gáá-he 	STONE AXE 	297		Note: = 88	382	*hɨgaa-he		
+892	PBoM	n()ʦ()ga	MACHETE 	298			383	*n()ʦ()ga		
+893	Bora	nɨɨʦʰɯ́kʷa	MACHETE 	298			383	*n()ʦ()ga		
+894	Muinane	níísuga 	MACHETE 	298		Note =89	383	*n()ʦ()ga		
+895	PBoM	hiibai	DEER 	299			384	*hiibai		
+896	Bora	iípa 	DEER 	299	grey deer		384	*hiibai		
+897	Muinane	híibái 	DEER 	299			384	*hiibai		
+898	PBoM	in()ʔai	MACAW (BLUE) 	300			385	*in()ʔai		
+899	Bora	íɲaʔa	MACAW (BLUE) 	300			385	*in()ʔai		
+900	Muinane	ínoʔai 	MACAW (BLUE) 	300		Note =129 	385	*in()ʔai		
+901	PBoM	tɨɨp()-megai	ANT (CONGA) 	301			386	*tɨɨp()-megai		
+902	Bora	tʰɯ́ɯ́pʰá-mʲeékʷa 	ANT (CONGA) 	301	red-woman		386	*tɨɨp()-megai		
+903	Muinane	tɨ́ɨ́ɸo-mogai 	ANT (CONGA) 	301			386	*tɨɨp()-megai		
+904	PBoM	peeka	BITTER MANIOC (PLANT) 	302			387	*peeka		
+905	Bora	pʰɨɨ́kʰa	BITTER MANIOC (PLANT) 	302			387	*peeka		
+906	Muinane	ɸéeka 	BITTER MANIOC (PLANT) 	302			387	*peeka		
+907	PBoM	?ká()()()ʔaaku	PUSH 	303			388	?*ká()()()ʔaaku		
+908	Bora	kʰáβɯ́i-ʔhʲákʰo 	PUSH 	303	push-?		388	?*ká()()()ʔaaku		
+909	Muinane	kábújaaku-ʔi  	PUSH 	303		push-predicate	388	?*ká()()()ʔaaku		
+910	PBoM	áittɨme	FIND 	304			389	*áittɨme		
+911	Bora	áhtʰʲɯmɨ	FIND 	304			389	*áittɨme		
+912	Muinane	átʲɨ́me-ʔi	FIND 	304			389	*áittɨme		
+913	PBoM	dɨʔkɨ	GET ILL 	305			390	*dɨʔkɨ		
+914	Bora	tɯʔkʰɯ	GET ILL 	305			390	*dɨʔkɨ		
+915	Muinane	dɨ́ɨ́kɨba 	GET ILL 	305			390	*dɨʔkɨ		
+916	PBoM	gáirɨɨ-ʔaiɲɨ	SQUEEZE MANIOC DOUGH 	306			391	*gáirɨɨ-ʔaiɲɨ		
+917	Bora	kʷájɯʔánɯ	SQUEEZE MANIOC DOUGH 	306			391	*gáirɨɨ-ʔaiɲɨ		
+918	Muinane	gárʲɨ́ɨ́ʔáɲɨ-ʔi 	SQUEEZE MANIOC DOUGH 	306			391	*gáirɨɨ-ʔaiɲɨ		
+919	PBoM	ííno	GERMINATE 	307			392	ííno		
+920	Bora	iiɲe	GERMINATE 	307			392	ííno		
+921	Muinane	ííne-ʔi 	GERMINATE 	307			392	ííno		
+922	PBoM	kóóβádííkku,gái()a	SCREAM 	308			394	*kóóβádííkku,*gái()a		
+923	Bora	kʰéβátihkʰʲo, kʷáβáhaaβe	SCREAM 	308			394	*kóóβádííkku,*gái()a		
+924	Muinane	kóóβádííku-ʔi, gáiba-ʔi 	SCREAM 	308			394	*kóóβádííkku,*gái()a		
+925	PBoM	toomo-	KEEP 	309			395	*toomo-		
+926	Bora	tʰeʔme 	KEEP 	309	keep, guard		395	*toomo-		
+927	Muinane	tééme-ʔi 	KEEP 	309	keep, guard 		395	*toomo-		
+928	PBoM	móónɨ	MAKE  	310			398	*móónɨ		Leipzig-Jakarta
+929	Bora	meénɯ	MAKE  	310			398	*móónɨ		Leipzig-Jakarta
+930	Muinane	móónɨ 	MAKE  	310			398	*móónɨ		Leipzig-Jakarta
+931	PBoM	taa	CRY  	311			401	*taa		Leipzig-Jakarta
+932	Bora	tʰaa	CRY  	311			401	*taa		Leipzig-Jakarta
+933	Muinane	táa-ʔi 	CRY  	311			401	*taa		Leipzig-Jakarta
+934	PBoM	gáʤúu,táhɨɨʔba	ORDER,COMMAND 	312			402	*gáʤúu,*táhɨɨʔba		
+935	Bora	kʷaʧoo, tʰáɯʔpa	ORDER,COMMAND 	312			402	*gáʤúu,*táhɨɨʔba		
+936	Muinane	gáʤúu-ʔi, táhɨ́ɨ́ba-ʔi 	ORDER,COMMAND 	312			402	*gáʤúu,*táhɨɨʔba		
+937	PBoM	máa-,péépai-	GET WET 	313			403	*máa-,*péépai-		
+938	Bora	máhaa-βe, pʰɨ́pʰáhʧʰómei	GET WET 	313			403	*máa-,*péépai-		
+939	Muinane	máa-ʔi, ɸééɸai-ʔi 	GET WET 	313		Note: see 312	403	*máa-,*péépai-		
+940	PBoM	paikuumɨɨ	MANICUERA MANIOC 	314			406	*paikuumɨɨ		
+941	Bora	pʰákʰʲoómɯ	MANICUERA MANIOC 	314			406	*paikuumɨɨ		
+942	Muinane	ɸáikúumɨɨ 	MANICUERA MANIOC 	314			406	*paikuumɨɨ		
+943	PBoM	pííβo	BE BORN 	315			407	*pííβo		
+944	Bora	pʰiiβʲe	BE BORN 	315			407	*pííβo		
+945	Muinane	ɸííβe-ʔi 	BE BORN 	315			407	*pííβo		
+946	PBoM	níppai	URINATE 	316			408	*níppai		
+947	Bora	nihpʰa	URINATE 	316			408	*níppai		
+948	Muinane	níɸai-ʔi 	URINATE 	316			408	*níppai		
+949	PBoM	nobú	FART 	317			410	*nobú		
+950	Bora	neépo 	FART 	317			410	*nobú		
+951	Muinane	núbúsu-ʔi 	FART 	317			410	*nobú		
+952	PBoM	díʤu	ASK 	318			412	*díʤu		
+953	Bora	tiʧo	ASK 	318			412	*díʤu		
+954	Muinane	díʤu-ʔi 	ASK 	318			412	*díʤu		
+955	PBoM	nɨtʦu	TASTE 	319			413	*nɨtʦu		
+956	Bora	nɯhʦʰo	TASTE 	319			413	*nɨtʦu		
+957	Muinane	nɨ́su-ʔi 	TASTE 	319			413	*nɨtʦu		
+958	PBoM	pítá()	STAY 	320			414	*pítá()		
+959	Bora	pʰítʰʲáʔa-aβe	STAY 	320			414	*pítá()		
+960	Muinane	ɸítáɸéte-ʔi 	STAY 	320			414	*pítá()		
+961	PBoM	ím()-go-,gáihɨ-,káβa-	WANT 	321			417	*ím()-go-,gáihɨ-,káβa-		
+962	Bora	imí-ʧe 	WANT 	321	good-consider, kʷahʲɯ, kʰaaβa		417	*ím()-go-,gáihɨ-,káβa-		
+963	Muinane	íme-ge-ʔi, gáihɨ-ʔi, káβa-ʔi 	WANT 	321			417	*ím()-go-,gáihɨ-,káβa-		
+964	PBoM	kaʦu	GRATE 	322			418	*kaʦu		
+965	Bora	kʰaaʦʰo	GRATE 	322			418	*kaʦu		
+966	Muinane	kásu-ʔi 	GRATE 	322		Note =529	418	*kaʦu		
+967	PBoM	i()-ro	ALONE 	323			426	*i()-ro		
+968	Bora	i-je 	ALONE 	323	3-rest		426	*i()-ro		
+969	Muinane	 -re	ALONE 	323			426	*i()-ro		
+970	PBoM	tɨga	DREAM 	324			427	*tɨga		
+971	Bora	tʰɯkʷa	DREAM 	324			427	*tɨga		
+972	Muinane	tɨ́ga-ʔi 	DREAM 	324			427	*tɨga		
+973	PBoM	tugaa	SWEAT 	325			429	*tugaa		
+974	Bora	tʰokʷa	SWEAT 	325			429	*tugaa		
+975	Muinane	túgáa-ʔi 	SWEAT 	325			429	*tugaa		
+976	PBoM	áih()ba	BE HUNGRY 	326			431	áih()ba		
+977	Bora	ahʲápááβatʰe	BE HUNGRY 	326			431	áih()ba		
+978	Muinane	áheba 	BE HUNGRY 	326			431	áih()ba		
+979	PBoM	áhé	ITCH 	327			434	*áhé		
+980	Bora	ahɨ	ITCH 	327			434	*áhé		
+981	Muinane	áhéβano 	ITCH 	327			434	*áhé		
+982	PBoM	garééku,ʦúʔkúʦu-	ROAST 	328			435	*garééku,ʦúʔkúʦu-		
+983	Bora	kʷárɨʔkʰo, ʦʰóʔkʰoʦʰo 	ROAST 	328			435	*garééku,ʦúʔkúʦu-		
+984	Muinane	garééku-ʔi, súkúsu-ʔi 	ROAST 	328			435	*garééku,ʦúʔkúʦu-		
+985	PBoM	ʦ()βa	BRING 	329			437	*ʦ()βa		
+986	Bora	ʦʰiβa	BRING 	329			437	*ʦ()βa		
+987	Muinane	sɨ́βa-ʔi 	BRING 	329			437	*ʦ()βa		
+988	PBoM	ba	PAY A VISIT 	330			440	*ba		
+989	Bora	paa-ʔi	PAY A VISIT 	330			440	*ba		
+990	Muinane	báa-ʔi 	PAY A VISIT 	330			440	*ba		
+991	PBoM	namettɨhe	GRASSLAND 	331			441	*namettɨhe		
+992	Bora	nómɨ́htʰɯhɨ	GRASSLAND 	331			441	*namettɨhe		
+993	Muinane	námettɨhe 	GRASSLAND 	331		Note: =150, dialect. variantnámettehe 	441	*namettɨhe		
+994	PBoM	ííhɨ	YESTERDAY  	332			442	*ííhɨ		Leipzig-Jakarta
+995	Bora	iíhʲɯ	YESTERDAY  	332			442	*ííhɨ		Leipzig-Jakarta
+996	Muinane	ííhɨ 	YESTERDAY  	332			442	*ííhɨ		Leipzig-Jakarta
+997	PBoM	paino	INSIDE 	333			444	*paino		
+998	Bora	pʰaɲe	INSIDE 	333			444	*paino		
+999	Muinane	ɸáɲo 	INSIDE 	333		Note: 321 	444	*paino		
+1000	PBoM	paiβoo	SOFT,TENDER 	334			445	*paiβoo		
+1001	Bora	pʰaβʲee	SOFT,TENDER 	334			445	*paiβoo		
+1002	Muinane	ɸáiβée-ʔi 	SOFT,TENDER 	334			445	*paiβoo		
+1003	PBoM	im()	HAPPY 	335			446	*im()		
+1004	Bora	imí-hʲɯɯ	HAPPY 	335			446	*im()		
+1005	Muinane	ímo ímo 	HAPPY 	335			446	*im()		
+1006	PBoM	paapai	BITTER  	336			447	*paapai		Leipzig-Jakarta
+1007	Bora	pʰaapʰa	BITTER  	336			447	*paapai		Leipzig-Jakarta
+1008	Muinane	ɸááɸa-ɲo 	BITTER  	336			447	*paapai		Leipzig-Jakarta
+1009	PBoM	góóβá	FAST 	337			448	*góóβá		
+1010	Bora	ʧeβá	FAST 	337			448	*góóβá		
+1011	Muinane	góóβá-no 	FAST 	337			448	*góóβá		
+1012	PBoM	ái()ɨme-tɨ	BLIND 	338			450	*ái()ɨme-tɨ		
+1013	Bora	áhʧʰɯ́mɨ-tʰɯ́ɯ́-pe 	BLIND 	338	see-neg-masc.sg		450	*ái()ɨme-tɨ		
+1014	Muinane	áatʲɨme-tɨ- 	BLIND 	338		Note: cf. 277 	450	*ái()ɨme-tɨ		
+1015	PBoM	mɨkku	DOCK,PORT 	339			451	*mɨkku		
+1016	Bora	mɯ́hkʰohɯ	DOCK,PORT 	339			451	*mɨkku		
+1017	Muinane	mɨ́ku 	DOCK,PORT 	339			451	*mɨkku		
+1018	PBoM	ɨme	FACE 	340			454	*ɨme		
+1019	Bora	ʔɯ́mɨ	FACE 	340			454	*ɨme		
+1020	Muinane	ɨ́me 	FACE 	340			454	*ɨme		
+1021	PBoM	hɨβiiba	BASKET 	341			456	*hɨβiiba		
+1022	Bora	ɯ́βiípa	BASKET 	341			456	*hɨβiiba		
+1023	Muinane	hɨ́ííbai 	BASKET 	341			456	*hɨβiiba		
+1024	PBoM	?hɨ()aʔʦ()	FOAM 	342			458	?*hɨ()aʔʦ()		
+1025	Bora	ɯráʔʦʰa 	FOAM 	342			458	?*hɨ()aʔʦ()		
+1026	Muinane	hɨ́βáase 	FOAM 	342			458	?*hɨ()aʔʦ()		
+1027	PBoM	pééno	MIDDLE 	343			461	*pééno		
+1028	Bora	pʰɨɨne	MIDDLE 	343			461	*pééno		
+1029	Muinane	ɸééne 	MIDDLE 	343			461	*pééno		
+1030	PBoM	hanoo-tto	THORN 	344			462	*hanoo-tto		
+1031	Bora	áneétʰo 	THORN 	344	thorn-cl		462	*hanoo-tto		
+1032	Muinane	hánúútu 	THORN 	344		Note: see 269 	462	*hanoo-tto		
+1033	PBoM	káamo	TALL 	345			463	*káamo		
+1034	Bora	kʰaame	TALL 	345			463	*káamo		
+1035	Muinane	káamo 	TALL 	345			463	*káamo		
+1036	PBoM	kúume	PALM OENOCARPUS BATAUA 	346			464	*kúume		
+1037	Bora	kʰoómɨ	PALM OENOCARPUS BATAUA 	346			464	*kúume		
+1038	Muinane	kúume-ʔe 	PALM OENOCARPUS BATAUA 	346			464	*kúume		
+1039	PBoM	táábú	MEDICINE 	347			465	*táábú		
+1040	Bora	tʰaapo	MEDICINE 	347			465	*táábú		
+1041	Muinane	táábú-ta 	MEDICINE 	347			465	*táábú		
+1042	PBoM	buun()	LATER ON 	348			467	*buun()		
+1043	Bora	-poone	LATER ON 	348			467	*buun()		
+1044	Muinane	-búúna 	LATER ON 	348			467	*buun()		
+1045	PBoM	giraa-	A LOT 	349			468	*giraa-		
+1046	Bora	ʧíjá	A LOT 	349			468	*giraa-		
+1047	Muinane	gíráano 	A LOT 	349			468	*giraa-		
+1048	PBoM	dóhɨku	BEHIND 	350			469	*dóhɨku		
+1049	Bora	téhɯkʰo	BEHIND 	350			469	*dóhɨku		
+1050	Muinane	dóhɨku-tɨ 	BEHIND 	350		behind-abl	469	*dóhɨku		
+1051	PBoM	gaʔpo	FULL 	351			471	*gaʔpo		
+1052	Bora	kʷaʔpʰe	FULL 	351			471	*gaʔpo		
+1053	Muinane	gáʔáɸono 	FULL 	351		Note: =297 	471	*gaʔpo		
+1054	PBoM	máʦakka	PEANUTS 	352			474	*máʦakka		
+1055	Bora	máʦʰahkʰa	PEANUTS 	352			474	*máʦakka		
+1056	Muinane	másaka 	PEANUTS 	352			474	*máʦakka		
+1057	PBoM	g()-ʔátʦ()	YARD,COURT (OF MALOCA) 	353			475	g()-ʔátʦ()		
+1058	Bora	ʧá-ʔahʦʰɨ 	YARD,COURT (OF MALOCA) 	353	?-cl:yard		475	g()-ʔátʦ()		
+1059	Muinane	góóʔási 	YARD,COURT (OF MALOCA) 	353			475	g()-ʔátʦ()		
+1060	PBoM	héékkɨ	CRESTED OROPENDOLA 	354			476	*héékkɨ		
+1061	Bora	ɨhkʰɯ	CRESTED OROPENDOLA 	354			476	*héékkɨ		
+1062	Muinane	héékɨ 	CRESTED OROPENDOLA 	354			476	*héékkɨ		
+1063	PBoM	kaʔgɨnɨku	MANIOC STARCH DRINK 	355			477	*kaʔgɨnɨku		
+1064	Bora	kʰaʔkɯ́nɯkʰo	MANIOC STARCH DRINK 	355			477	*kaʔgɨnɨku		
+1065	Muinane	káágɨnɨku	MANIOC STARCH DRINK 	355			477	*kaʔgɨnɨku		
+1066	PBoM	gátʦe-	ARRIVE 	356			478	*gátʦe-		
+1067	Bora	kʷahʦʰɨ	ARRIVE 	356			478	*gátʦe-		
+1068	Muinane	gáse-ʔi 	ARRIVE 	356			478	*gátʦe-		
+1069	PBoM	dɨɨrɨ-ba-	OIL 	357			479	*dɨɨrɨ-ba-		
+1070	Bora	tɯ́ɯ́rɯ́pa-hpʰákʰʲo 	OIL 	357	grease-cl:liquid		479	*dɨɨrɨ-ba-		
+1071	Muinane	dɨ́ɨrɨba 	OIL 	357		Note =267	479	*dɨɨrɨ-ba-		
+1072	PBoM	níttɨ-ba	SIFTER 	358			482	*níttɨ-ba		
+1073	Bora	níhtʰʲɯ-pa 	SIFTER 	358	wash-cl		482	*níttɨ-ba		
+1074	Muinane	nítɨba 	SIFTER 	358		Note: see 313	482	*níttɨ-ba		
+1075	PBoM	áiβo	SPICY 	359			484	*áiβo		
+1076	Bora	aβʲe	SPICY 	359			484	*áiβo		
+1077	Muinane	áiβe-ʔi 	SPICY 	359			484	*áiβo		
+1078	PBoM	hɨɨbaimo	DANCING FESTIVAL 	360			489	*hɨɨbaimo		
+1079	Bora	ɯ́ɯ́pamʲe	DANCING FESTIVAL 	360			489	*hɨɨbaimo		
+1080	Muinane	hɨ́ɨbaimo 	DANCING FESTIVAL 	360			489	*hɨɨbaimo		
+1081	PBoM	gádameeʔu	MANIOC SQUEEZER 	361			491	*gádameeʔu		
+1082	Bora	kʷátari- 	MANIOC SQUEEZER 	361	put inside, -mɨɨ́ʔo 		491	*gádameeʔu		
+1083	Muinane	gádameeʔu 	MANIOC SQUEEZER 	361			491	*gádameeʔu		
+1084	PBoM	méékɨme	MIRROR 	362			492	*méékɨme		
+1085	Bora	mɨ́ɨ́kʰɯmɨ	MIRROR 	362			492	*méékɨme		
+1086	Muinane	méékɨme 	MIRROR 	362			492	*méékɨme		
+1087	PBoM	ʔaʧʧi	SON  	363			494	*ʔaʧʧi		Leipzig-Jakarta, Swadesh
+1088	Bora	ʔahʧʰi	SON  	363			494	*ʔaʧʧi		Leipzig-Jakarta, Swadesh
+1089	Muinane	áʧi 	SON  	363			494	*ʔaʧʧi		Leipzig-Jakarta, Swadesh
+1090	PBoM	mɨʦi,mɨpe	WE TWO 	364			495	*mɨʦi,*mɨpe		
+1091	Bora	mɯʦʰi 	WE TWO 	364	1.dual.masc, mɯpʰɨ 		495	*mɨʦi,*mɨpe		
+1092	Muinane	mɨ́sí, mɨ́ɸe 	WE TWO 	364			495	*mɨʦi,*mɨpe		
+1093	PBoM	amɨʦi,amɨpe	YOU TWO 	365			496	*amɨʦi,*amɨpe		
+1094	Bora	ámɯʦʰi, ámɯpʰɨ	YOU TWO 	365			496	*amɨʦi,*amɨpe		
+1095	Muinane	ámɨ́ɨ́sí, ámɨ́ɨ́ɸe 	YOU TWO 	365			496	*amɨʦi,*amɨpe		
+1096	PBoM	dii-t()-ʦi	THEY TWO (M.) 	366			497	*dii-t()-ʦi		
+1097	Bora	tiitʰʲé-ʦʰi 	THEY TWO (M.) 	366	3-pl-dual.masc		497	*dii-t()-ʦi		
+1098	Muinane	díítɨsi 	THEY TWO (M.) 	366			497	*dii-t()-ʦi		
+1099	PBoM	dii-t()-pe	THEY TWO (F.) 	367			498	*dii-t()-pe		
+1100	Bora	tiitʰʲé-pʰɨ 	THEY TWO (F.) 	367	3-pl-dual.fem		498	*dii-t()-pe		
+1101	Muinane	díítɨɸe 	THEY TWO (F.) 	367			498	*dii-t()-pe		
+1102	PBoM	i-	HER… 	368			499	*i-		
+1103	Bora	i-	HER… 	368			499	*i-		
+1104	Muinane	i- 	HER… 	368			499	*i-		
+1105	PBoM	duu	EAT MEAT 	369			500	*duu		
+1106	Bora	toó	EAT MEAT 	369			500	*duu		
+1107	Muinane	dúu-ʔi 	EAT MEAT 	369			500	*duu		
+1108	PBoM	nɨɨ	WEAVE 	370			501	*nɨɨ		
+1109	Bora	nɯɯ	WEAVE 	370			501	*nɨɨ		
+1110	Muinane	nɨ́ɨ-ʔi 	WEAVE 	370			501	*nɨɨ		
+1111	PBoM	neheʔku	LICK 	371			502	*neheʔku		
+1112	Bora	nɨhɨ́-ʔkʰo 	LICK 	371			502	*neheʔku		
+1113	Muinane	néhééku-ʔi 	LICK 	371			502	*neheʔku		
+1114	PBoM	hɨbu	HEALING BLOW 	372			503	*hɨbu		
+1115	Bora	ɯɯ́po	HEALING BLOW 	372			503	*hɨbu		
+1116	Muinane	hɨ́ɨ́búu-ʔi 	HEALING BLOW 	372			503	*hɨbu		
+1117	PBoM	aam()hɨ	DOWNRIVER 	373			504	*aam()hɨ		
+1118	Bora	áámehɯ	DOWNRIVER 	373			504	*aam()hɨ		
+1119	Muinane	áamɨhɨ 	DOWNRIVER 	373			504	*aam()hɨ		
+1120	PBoM	aikko	WAKE UP 	374			506	*aikko		
+1121	Bora	ahkʰʲe	WAKE UP 	374			506	*aikko		
+1122	Muinane	áiké-ʔi 	WAKE UP 	374			506	*aikko		
+1123	PBoM	kɨɨhɨgai	FIREPLACE 	375			507	*kɨɨhɨgai		
+1124	Bora	kʰɯ́hɯ́kʷa-ʔáhʦʰɨ 	FIREPLACE 	375	fire-place		507	*kɨɨhɨgai		
+1125	Muinane	kɨ́ɨ́hɨgai 	FIREPLACE 	375	fire 		507	*kɨɨhɨgai		
+1126	PBoM	níttɨba	SIEVE 	376			508	*níttɨba		
+1127	Bora	níhtʰʲɯ-pa 	SIEVE 	376	wash-cl		508	*níttɨba		
+1128	Muinane	nítɨ́ba	SIEVE 	376			508	*níttɨba		
+1129	PBoM	ʤari-ga	DANCING BEAM 	377			509	*ʤari-ga		
+1130	Bora	ʧaarí-kʷa 	DANCING BEAM 	377	?-cl.plank		509	*ʤari-ga		
+1131	Muinane	ʤáriga 	DANCING BEAM 	377			509	*ʤari-ga		
+1132	PBoM	mɨʦééʦe	CAIMITO FRUIT (POUTERIA CAIMITO) 	378			510	*mɨʦééʦe		
+1133	Bora	mɯ́ʦʰɨ́ɨ́ʦʰɨ	CAIMITO FRUIT (POUTERIA CAIMITO) 	378			510	*mɨʦééʦe		
+1134	Muinane	mɨ́séése 	CAIMITO FRUIT (POUTERIA CAIMITO) 	378			510	*mɨʦééʦe		
+1135	PBoM	háaʤa	PALM SOCRATEA EXORRHIZA 	379			511	*háaʤa		
+1136	Bora	ááʧa-ʔe	PALM SOCRATEA EXORRHIZA 	379			511	*háaʤa		
+1137	Muinane	háaʤa 	PALM SOCRATEA EXORRHIZA 	379			511	*háaʤa		
+1138	PBoM	kaatɨ	LEAVES THAT PRODUCE BLACK COLOR 	380			512	*kaatɨ		
+1139	Bora	kʰáátʰɯ	LEAVES THAT PRODUCE BLACK COLOR 	380			512	*kaatɨ		
+1140	Muinane	káatɨ 	LEAVES THAT PRODUCE BLACK COLOR 	380			512	*kaatɨ		
+1141	PBoM	moomo	PEACH PALM (BACTRIS GASIPAES) 	381			513	*moomo		
+1142	Bora	mééme	PEACH PALM (BACTRIS GASIPAES) 	381			513	*moomo		
+1143	Muinane	móomo 	PEACH PALM (BACTRIS GASIPAES) 	381			513	*moomo		
+1144	PBoM	taaβi-ʔo	CECROPIA SP. 	382			514	*taaβi-ʔo		
+1145	Bora	tʰaaβíʔʲe 	CECROPIA SP. 	382	Cecropia-cl:tree		514	*taaβi-ʔo		
+1146	Muinane	tááβí-ʔo	CECROPIA SP. 	382			514	*taaβi-ʔo		
+1147	PBoM	haaʔo	MACAMBO FRUIT (THEOBROMA BICOLOR) 	383			515	*haaʔo		
+1148	Bora	aáʔe	MACAMBO FRUIT (THEOBROMA BICOLOR) 	383			515	*haaʔo		
+1149	Muinane	hááʔo 	MACAMBO FRUIT (THEOBROMA BICOLOR) 	383			515	*haaʔo		
+1150	PBoM	tɨɨʦi-ʔo	INGA EDULIS 	384			518	*tɨɨʦi-ʔo		
+1151	Bora	tʰɯ́ɯ́ʦʰi-ʔʲe 	INGA EDULIS 	384	?-cl		518	*tɨɨʦi-ʔo		
+1152	Muinane	tɨ́ɨsi-ʔo 	INGA EDULIS 	384			518	*tɨɨʦi-ʔo		
+1153	PBoM	hɨgo-ba	CERAMIC SAUCEPAN 	385			519	*hɨgo-ba		
+1154	Bora	ɯ́ʧe-pa 	CERAMIC SAUCEPAN 	385	?-cl		519	*hɨgo-ba		
+1155	Muinane	hɨ́go-ba	CERAMIC SAUCEPAN 	385			519	*hɨgo-ba		
+1156	PBoM	báaku	UVILLA FRUIT (POUROUMA CECROPIAEFOLIA) 	386			520	*báaku		
+1157	Bora	páákʰo	UVILLA FRUIT (POUROUMA CECROPIAEFOLIA) 	386			520	*báaku		
+1158	Muinane	báaku 	UVILLA FRUIT (POUROUMA CECROPIAEFOLIA) 	386			520	*báaku		
+1159	PBoM	áinɨ-hɨ	RIFLE 	387			521	*áinɨ-hɨ		
+1160	Bora	aɲɯ́-hɯ 	RIFLE 	387	shoot-cl:tube		521	*áinɨ-hɨ		
+1161	Muinane	áɲɨ́-hɨ 	RIFLE 	387			521	*áinɨ-hɨ		
+1162	PBoM	nehe	PALM ASTROCARYUM CHAMBIRA 	388			522	*nehe		
+1163	Bora	nɨ́hɨ-ʔe	PALM ASTROCARYUM CHAMBIRA 	388			522	*nehe		
+1164	Muinane	néhe 	PALM ASTROCARYUM CHAMBIRA 	388			522	*nehe		
+1165	PBoM	niimɨ	UMARÍ FRUIT (PORAQUEIBA SERICEA) 	389			523	*niimɨ		
+1166	Bora	níímɯ́-ʔe	UMARÍ FRUIT (PORAQUEIBA SERICEA) 	389			523	*niimɨ		
+1167	Muinane	níímɨ 	UMARÍ FRUIT (PORAQUEIBA SERICEA) 	389			523	*niimɨ		
+1168	PBoM	m()níiko	EDIBLE ANT 	390			525	*m()níiko		
+1169	Bora	méniíkʰʲe 	EDIBLE ANT 	390			525	*m()níiko		
+1170	Muinane	míníikoʔɨ 	EDIBLE ANT 	390			525	*m()níiko		
+1171	PBoM	kúúhɨ	AVOCADO (PERSEA AMERICANA) 	391			526	*kúúhɨ		
+1172	Bora	kʰóóhɯ-ʔe	AVOCADO (PERSEA AMERICANA) 	391			526	*kúúhɨ		
+1173	Muinane	kúúhɨ 	AVOCADO (PERSEA AMERICANA) 	391			526	*kúúhɨ		
+1174	PBoM	áppai-ku	EDIBLE LARVAE 	392			527	áppai-ku		
+1175	Bora	áhpʰa-kʰʲo 	EDIBLE LARVAE 	392	larva-cl		527	áppai-ku		
+1176	Muinane	áɸaiku 	EDIBLE LARVAE 	392			527	áppai-ku		
+1177	PBoM	kaʦu	GRATER 	393			529	*kaʦu		
+1178	Bora	kʰáʦʰoó-kʷa 	GRATER 	393	grate-cl:plank		529	*kaʦu		
+1179	Muinane	kásu-ʔi 	GRATER 	393	grate 	Note =418	529	*kaʦu		
+1180	PBoM	íno-ʔo	MIRITI PALM (MAURITIA FLEXUOSA) 	394			530	íno-ʔo		
+1181	Bora	íɲe-ʔe 	MIRITI PALM (MAURITIA FLEXUOSA) 	394	miriti-cl:tree		530	íno-ʔo		
+1182	Muinane	íno-ʔo 	MIRITI PALM (MAURITIA FLEXUOSA) 	394			530	íno-ʔo		
+1183	PBoM	-ʔakkɨ	PILLARS (OF ROUNDHOUSE) 	395			532	*-ʔakkɨ		
+1184	Bora	ápʰɨ-ʔáhkʰɯ	PILLARS (OF ROUNDHOUSE) 	395			532	*-ʔakkɨ		
+1185	Muinane	ɯ́má-ʔakɨ 	PILLARS (OF ROUNDHOUSE) 	395			532	*-ʔakkɨ		
+1186	PBoM	háhe	LEPIDOCARYUM TENUE PALM (FOR THATCHING ROOFS) 	396			533	*háhe		
+1187	Bora	áhɨ-ʔíípa	LEPIDOCARYUM TENUE PALM (FOR THATCHING ROOFS) 	396			533	*háhe		
+1188	Muinane	háhe 	LEPIDOCARYUM TENUE PALM (FOR THATCHING ROOFS) 	396			533	*háhe		
+1189	PBoM	geen()	EAT FRUIT 	397			534	*geen()		
+1190	Bora	ʧeéne	EAT FRUIT 	397			534	*geen()		
+1191	Muinane	gééne-ʔi 	EAT FRUIT 	397			534	*geen()		
+1192	PBoM	dooikkɨ	CHEW COCA 	398			535	*dooikkɨ		
+1193	Bora	teíhʲkʰɯ	CHEW COCA 	398			535	*dooikkɨ		
+1194	Muinane	dééikɨ 	CHEW COCA 	398			535	*dooikkɨ		
+1195	PBoM	namo	FECES 	399			536	*namo		
+1196	Bora	name	FECES 	399			536	*namo		
+1197	Muinane	namo 	FECES 	399			536	*namo		
+1198	PBoM	mákká-nɨ	DROWN 	400			539	*mákká-nɨ		
+1199	Bora	máhkʰa-nɯ 	DROWN 	400	drown-do		539	*mákká-nɨ		
+1200	Muinane	máká-nɨ-ʔi 	DROWN 	400			539	*mákká-nɨ		
+1201	PBoM	gáihúkku	PULL OUT 	401			541	*gáihúkku		
+1202	Bora	kʷáhʲohko	PULL OUT 	401			541	*gáihúkku		
+1203	Muinane	gáihúku-ʔi 	PULL OUT 	401			541	*gáihúkku		
+1204	PBoM	ígi	GET SCARED 	402			542	*ígi		
+1205	Bora	iʧítʲe	GET SCARED 	402			542	*ígi		
+1206	Muinane	ígi-ʔi 	GET SCARED 	402		Note =366 	542	*ígi		
+1207	PBoM	n()kúppé-go-	SHAME 	403			543	*n()kúppé-go-		
+1208	Bora	nɯ́kʰohpʰɨ́-ʧe 	SHAME 	403	shame-consider		543	*n()kúppé-go-		
+1209	Muinane	núkú-ɸége-ʔi	SHAME 	403			543	*n()kúppé-go-		
+1210	PBoM	gaʔʦe	DANCE 	404			544	*gaʔʦe		
+1211	Bora	kʷaʔʦʰɨ	DANCE 	404			544	*gaʔʦe		
+1212	Muinane	gááse-ʔi 	DANCE 	404			544	*gaʔʦe		
+1213	PBoM	taaβa	HUNT 	405			547	*taaβa		
+1214	Bora	tʰaaβa	HUNT 	405			547	*taaβa		
+1215	Muinane	tááβa-ʔi 	HUNT 	405			547	*taaβa		
+1216	PBoM	tɨ	COOK 	406			549	*tɨ		
+1217	Bora	tʰɯɯ	COOK 	406			549	*tɨ		
+1218	Muinane	tɨ́ɨ-ʔi 	COOK 	406			549	*tɨ		
+1219	PBoM	ɨkkɨ	CATCH 	407			550	*ɨkkɨ		
+1220	Bora	ɯhkʰɯ	CATCH 	407			550	*ɨkkɨ		
+1221	Muinane	ɨ́kɨ-ʔi 	CATCH 	407			550	*ɨkkɨ		
+1222	PBoM	hɨɨb()go	TELL,NARRATE 	408			551	*hɨɨb()go		
+1223	Bora	ɯɯpáʧe	TELL,NARRATE 	408			551	*hɨɨb()go		
+1224	Muinane	hɨ́ɨ́bege-ʔi 	TELL,NARRATE 	408		Note =291	551	*hɨɨb()go		
+1225	PBoM	βɨrɨ	CUT 	409			553	*βɨrɨ		
+1226	Bora	-βɯrɯ-	CUT 	409			553	*βɨrɨ		
+1227	Muinane	gáβɨrɨ́ɨ́ku-ʔi	CUT 	409			553	*βɨrɨ		
+1228	PBoM	ainɨ	SHOOT 	410			554	*ainɨ		
+1229	Bora	aɲɯ	SHOOT 	410			554	*ainɨ		
+1230	Muinane	áɲɨ-ʔi 	SHOOT 	410			554	*ainɨ		
+1231	PBoM	gírííká-βo-	GET DRUNK 	411			556	*gírííká-βo-		
+1232	Bora	ʧijííkʰʲa-βe 	GET DRUNK 	411	shake-vblz		556	*gírííká-βo-		
+1233	Muinane	gírííká-βe-ʔi 	GET DRUNK 	411			556	*gírííká-βo-		
+1234	PBoM	kɨmɨ	WOOLY MONKEY (LAGOTHRIX LAGOTRICHA) 	412			557	*kɨmɨ		
+1235	Bora	kʰɯɯ́mɯ	WOOLY MONKEY (LAGOTHRIX LAGOTRICHA) 	412			557	*kɨmɨ		
+1236	Muinane	kɨ́ɨ́mɨba 	WOOLY MONKEY (LAGOTHRIX LAGOTRICHA) 	412			557	*kɨmɨ		
+1237	PBoM	naamo	SWEET  	413			558	*naamo		Leipzig-Jakarta
+1238	Bora	naáme	SWEET  	413			558	*naamo		Leipzig-Jakarta
+1239	Muinane	náamo 	SWEET  	413		Note =371	558	*naamo		Leipzig-Jakarta
+1240	PBoM	-bo	MASCULINE (SUFFIX) 	414			560	*-bo		
+1241	Bora	-pe	MASCULINE (SUFFIX) 	414			560	*-bo		
+1242	Muinane	-bo 	MASCULINE (SUFFIX) 	414			560	*-bo		
+1243	PBoM	apiiʧu,ʤɨɨ()a-nɨ	CONJURE 	415			562	*apiiʧu,*ʤɨɨ()a-nɨ		
+1244	Bora	ápʰííʧʰo, ʧɯɯβá-nɯ 	CONJURE 	415	conjure-do		562	*apiiʧu,*ʤɨɨ()a-nɨ		
+1245	Muinane	ápíʧu, ʤɨ́ɨ́ʔa-nɨ-ʔi	CONJURE 	415			562	*apiiʧu,*ʤɨɨ()a-nɨ		

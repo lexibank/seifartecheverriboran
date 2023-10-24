@@ -1,0 +1,36 @@
+{
+    "title": "CLDF dataset derived from Seifart and Echeverri's \"Proto Bora-Muinane.",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Frank Seifart"
+        },
+        {
+            "name": "Juan Echeverri"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Frederic Blum",
+            "type": "Other"
+        },
+        {
+            "name": "Carlos Barrientos",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Seifart, Frank and Echeverri, Ju\u00e1n \u00c1lvaro. 2015. Proto Bora-Muinane. LIAMES 15(2): 279-311.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

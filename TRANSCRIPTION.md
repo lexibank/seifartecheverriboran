@@ -5,19 +5,19 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| + | 857 | ✓ | ✓ |
+| + | 850 | ✓ | ✓ |
 | a | 846 | ✓ | ✓ |
-| i | 597 | ✓ | ✓ |
+| i | 596 | ✓ | ✓ |
 | ɨ | 491 | ✓ | ✓ |
 | e | 432 | ✓ | ✓ |
 | o | 416 | ✓ | ✓ |
-| ʔ | 405 | ✓ | ✓ |
+| ʔ | 404 | ✓ | ✓ |
 | h | 401 | ✓ | ✓ |
-| !á/a | 377 | ✓ | ✓ |
+| !á/a | 380 | ✓ | ✓ |
 | n | 364 | ✓ | ✓ |
 | m | 354 | ✓ | ✓ |
 | !í/i | 301 | ✓ | ✓ |
-| k | 293 | ✓ | ✓ |
+| k | 289 | ✓ | ✓ |
 | u | 243 | ✓ | ✓ |
 | g | 237 | ✓ | ✓ |
 | !ɨ́/ɨ | 222 | ✓ | ✓ |
@@ -31,10 +31,9 @@
 | !ó/o | 105 | ✓ | ✓ |
 | β | 105 | ✓ | ✓ |
 | kʰ | 99 | ✓ | ✓ |
-| !ú/u | 84 | ✓ | ✓ |
+| !ú/u | 94 | ✓ | ✓ |
 | kʷ | 83 | ✓ | ✓ |
 | ts | 75 | ✓ | ✓ |
-| !V/a | 70 | ✓ | ✓ |
 | s | 70 | ✓ | ✓ |
 | d | 69 | ✓ | ✓ |
 | r | 68 | ✓ | ✓ |
@@ -43,27 +42,37 @@
 | pʰ | 57 | ✓ | ✓ |
 | ɸ | 57 | ✓ | ✓ |
 | tʰ | 50 | ✓ | ✓ |
+| !V/a | 48 | ✓ | ✓ |
 | ɲ | 45 | ✓ | ✓ |
-| á | 33 | ✓ | ✓ |
+| á | 30 | ✓ | ✓ |
 | j | 28 | ✓ | ✓ |
 | kʰʲ | 24 | ✓ | ✓ |
 | tʰʲ | 21 | ✓ | ✓ |
 | dʒ | 20 | ✓ | ✓ |
 | tʃʰ | 17 | ✓ | ✓ |
 | hʲ | 16 | ✓ | ✓ |
-| <<ú>> | 10 | ? | ? |
 | tʲ | 10 | ✓ | ✓ |
 | pʲ | 7 | ✓ | ✓ |
 | ʔʲ | 7 | ✓ | ✓ |
+| !C/β | 6 | ✓ | ✓ |
+| !C/k | 5 | ✓ | ✓ |
 | mʲ | 5 | ✓ | ✓ |
-| <<(>> | 4 | ? | ? |
-| <<)>> | 4 | ? | ? |
 | βʲ | 4 | ✓ | ✓ |
+| !V/i | 3 | ✓ | ✓ |
 | pʰʲ | 3 | ✓ | ✓ |
+| !C/tt | 2 | ✓ | ✓ |
+| !C/tʃ | 2 | ✓ | ✓ |
+| !C/ʔ | 2 | ✓ | ✓ |
+| !V/ɯ | 2 | ✓ | ✓ |
 | rʲ | 2 | ✓ | ✓ |
+| !C/d | 1 | ✓ | ✓ |
+| !C/g | 1 | ✓ | ✓ |
+| !C/m | 1 | ✓ | ✓ |
+| !C/n | 1 | ✓ | ✓ |
+| !C/x | 1 | ✓ | ✓ |
 | ʃ | 1 | ✓ | ✓ |
 
-(57 rows)
+(66 rows)
 
 
 
@@ -128,7 +137,7 @@
 | Muinane-Seifart-2015-85_anteater-1 | Muinane | Seifart-2015-85_anteater | hééhɨ, túuhe | h !é/e !é/e h ɨ <s> <<,>> </s> + t !ú/u u h e |
 | Muinane-Seifart-2015-87_crocodile-1 | Muinane | Seifart-2015-87_crocodile | níʔiba, méédúba | n !í/i ʔ i b a <s> <<,>> </s> + m !é/e !é/e d !ú/u b a |
 | Muinane-Seifart-2015-97_anacondawaterboa-1 | Muinane | Seifart-2015-97_anacondawaterboa | búúa, ígáíβatɨ | b !ú/u !ú/u a <s> <<,>> </s> + !í/i g !á/a !í/i β a t ɨ |
-| PBoM-Seifart-2015-100_toad-1 | PBoM | Seifart-2015-100_toad | hakuga,()ɨɨriʔi,nihaga,mɨɨʔmeba,haakkɨba | h a k u g a <s> <<,>> </s> !V/a ɨ ɨ r i ʔ i <s> <<,>> </s> n i h a g a <s> <<,>> </s> m ɨ ɨ ʔ m e b a <s> <<,>> </s> h a a k k ɨ b a |
+| PBoM-Seifart-2015-100_toad-1 | PBoM | Seifart-2015-100_toad | hakuga,()ɨɨriʔi,nihaga,mɨɨʔmeba,haakkɨba | h a k u g a <s> <<,>> </s> !C/β ɨ ɨ r i ʔ i <s> <<,>> </s> n i h a g a <s> <<,>> </s> m ɨ ɨ ʔ m e b a <s> <<,>> </s> h a a k k ɨ b a |
 | PBoM-Seifart-2015-102_macaw-1 | PBoM | Seifart-2015-102_macaw | heeβaa,in()ʔai | h e e β a a <s> <<,>> </s> i n !V/a ʔ a i |
 | PBoM-Seifart-2015-105_curassow-1 | PBoM | Seifart-2015-105_curassow | kɨga- | k ɨ g a + |
 | PBoM-Seifart-2015-108_piranha-1 | PBoM | Seifart-2015-108_piranha | gaikku-he,nitta | g a i k k u + h e <s> <<,>> </s> n i t t a |
@@ -137,7 +146,7 @@
 | PBoM-Seifart-2015-117_opengrassland-1 | PBoM | Seifart-2015-117_opengrassland | namettɨhe,ʦukkum()he | n a m e t t ɨ h e <s> <<,>> </s> ts u k k u m !V/a h e |
 | PBoM-Seifart-2015-118_hill-1 | PBoM | Seifart-2015-118_hill | gahɨɨ,baaɨɨ | g a h ɨ ɨ <s> <<,>> </s> b a a ɨ ɨ |
 | PBoM-Seifart-2015-121_treeleaf-1 | PBoM | Seifart-2015-121_treeleaf | -ʔaame | + ʔ a a m e |
-| PBoM-Seifart-2015-122_root-1 | PBoM | Seifart-2015-122_root | ba(i)(k)ko- | b a <s> <<(>> </s> i <s> <<)>> </s> <s> <<(>> </s> k <s> <<)>> </s> k o + |
+| PBoM-Seifart-2015-122_root-1 | PBoM | Seifart-2015-122_root | ba(i)(k)ko- | b a !V/i !C/k k o + |
 | PBoM-Seifart-2015-123_seed-1 | PBoM | Seifart-2015-123_seed | batʦu- | b a t ts u + |
 | PBoM-Seifart-2015-130_yam-1 | PBoM | Seifart-2015-130_yam | kɨnii- | k ɨ n i i + |
 | PBoM-Seifart-2015-133_coca-1 | PBoM | Seifart-2015-133_coca | hiibii- | h i i b i i + |

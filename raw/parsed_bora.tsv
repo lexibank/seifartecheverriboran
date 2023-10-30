@@ -407,9 +407,9 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 406	PBoM	ɨhe-	PLANTAIN 	136			174	*ɨhe-	*ɯ́xɨ-()	
 407	Bora	ɯhɨ	PLANTAIN 	136			174	*ɨhe-		
 408	Muinane	ɨ́heba 	PLANTAIN 	136			174	*ɨhe-		
-409	PBoM	moomo,CHONTA	PALM 	137			175	*moomo,CHONTA	*meéme, *meéme-(ʔegííʔo), *meéme-(ʔeǰííʔyo)	
-410	Bora	meéme	PALM 	137			175	*moomo,CHONTA		
-411	Muinane	móomo 	PALM 	137			175	*moomo,CHONTA		
+409	PBoM	moomo	CHONTA PALM	137			175	*moomo	*meéme, *meéme-(ʔegííʔo), *meéme-(ʔeǰííʔyo)	
+410	Bora	meéme	CHONTA PALM	137			175	*moomo		
+411	Muinane	móomo 	CHONTA PALM	137			175	*moomo		
 412	PBoM	ɨmo	SALT  	138			179	*ɨmo	(ɯ́moʔo), (áit(t)ega), (kánáámaá), (kánaáma)	Leipzig-Jakarta
 413	Bora	ɯ́me 	SALT  	138	vegetable salt		179	*ɨmo		Leipzig-Jakarta
 414	Muinane	ɨ́muʔu 	SALT  	138	vegetable salt 		179	*ɨmo		Leipzig-Jakarta
@@ -848,7 +848,7 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 847	PBoM	ebaʦu-,buuʦu-	BLOW  	283			365	*ebaʦu-,buuʦu-	*ɨ́báʦ(ɯ)(ʔxáko), *bootʦó-(kɯ), *gitʦɯ́-(kɯ), (poonɯ), (gíbó), (βoβókkɯ), (iókko), (βooíkɯ), (áápɯɯ́kɯ), (číyoáko), (ɯɯ́bo)	Leipzig-Jakarta
 848	Bora	ɨpáʦʰo, pohʦʰókʰɯ	BLOW  	283			365	*ebaʦu-,buuʦu-		Leipzig-Jakarta
 849	Muinane	ébásu-ʔi, búúsu-ʔi 	BLOW  	283			365	*ebaʦu-,buuʦu-		Leipzig-Jakarta
-850	PBoM	?igi	FEAR 	284			366	?*igi	?*igí, *(ai)n(ó)ɯʔ(i)kko(), *nɯʔ(néβe), (ápiiʦóge, ápiičóge), (áábiméi), (ámɨ́ʦáraʔkóge), (nóɯʔkóge)	
+850	PBoM	igi	FEAR 	284			366	?*igi	?*igí, *(ai)n(ó)ɯʔ(i)kko(), *nɯʔ(néβe), (ápiiʦóge, ápiičóge), (áábiméi), (ámɨ́ʦáraʔkóge), (nóɯʔkóge)	
 851	Bora	iʧi	FEAR 	284			366	?*igi		
 852	Muinane	ígi-ʔi 	FEAR 	284		Note =542 	366	?*igi		
 853	PBoM	aamɨ-ʦu	SQUEEZE 	285			367	*aamɨ-ʦu	*(m)aámɯ, *aamɯ́-ʦó, ((ai)n(ai)nɨko), (gátiainɨ), (páíʦíɯʔxáko, páčíɯʔxáko), (…)	Leipzig-Jakarta
@@ -905,7 +905,7 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 904	PBoM	peeka	BITTER MANIOC (PLANT) 	302			387	*peeka		
 905	Bora	pʰɨɨ́kʰa	BITTER MANIOC (PLANT) 	302			387	*peeka		
 906	Muinane	ɸéeka 	BITTER MANIOC (PLANT) 	302			387	*peeka		
-907	PBoM	?ká()()()ʔaaku	PUSH 	303			388	?*ká()()()ʔaaku		
+907	PBoM	ká()()()ʔaaku	PUSH 	303			388	?*ká()()()ʔaaku		
 908	Bora	kʰáβɯ́i-ʔhʲákʰo 	PUSH 	303	push-?		388	?*ká()()()ʔaaku		
 909	Muinane	kábújaaku-ʔi  	PUSH 	303		push-predicate	388	?*ká()()()ʔaaku		
 910	PBoM	áittɨme	FIND 	304			389	*áittɨme		
@@ -1022,7 +1022,7 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 1021	PBoM	hɨβiiba	BASKET 	341			456	*hɨβiiba		
 1022	Bora	ɯ́βiípa	BASKET 	341			456	*hɨβiiba		
 1023	Muinane	hɨ́ííbai 	BASKET 	341			456	*hɨβiiba		
-1024	PBoM	?hɨ()aʔʦ()	FOAM 	342			458	?*hɨ()aʔʦ()		
+1024	PBoM	hɨ()aʔʦ()	FOAM 	342			458	?*hɨ()aʔʦ()		
 1025	Bora	ɯráʔʦʰa 	FOAM 	342			458	?*hɨ()aʔʦ()		
 1026	Muinane	hɨ́βáase 	FOAM 	342			458	?*hɨ()aʔʦ()		
 1027	PBoM	pééno	MIDDLE 	343			461	*pééno		

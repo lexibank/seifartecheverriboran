@@ -1,50 +1,9 @@
 {
     "by_language": {
         "Bora": {
-            "bipa_errors": [
-                "<<,>>"
-            ],
-            "general_errors": 36,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
-                "!C/d": [
-                    "d"
-                ],
-                "!C/g": [
-                    "g"
-                ],
-                "!C/k": [
-                    "k"
-                ],
-                "!C/m": [
-                    "m"
-                ],
-                "!C/n": [
-                    "n"
-                ],
-                "!C/tt": [
-                    "tt"
-                ],
-                "!C/t\u0283": [
-                    "t\u0283"
-                ],
-                "!C/x": [
-                    "x"
-                ],
-                "!C/\u0294": [
-                    "\u0294"
-                ],
-                "!C/\u03b2": [
-                    "\u03b2"
-                ],
-                "!V/a": [
-                    "a"
-                ],
-                "!V/i": [
-                    "i"
-                ],
-                "!V/\u026f": [
-                    "\u026f"
-                ],
                 "!a\u0301/a": [
                     "a"
                 ],
@@ -196,9 +155,7 @@
                     "\u03b2\u02b2"
                 ]
             },
-            "sclass_errors": [
-                "<<,>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "!\u00e1/a": 170,
                 "!\u00e9/e": 70,
@@ -206,8 +163,7 @@
                 "!\u00f3/o": 64,
                 "!\u0268\u0301/\u0268": 73,
                 "!\u026f\u0301/\u026f": 134,
-                "+": 270,
-                "<<,>>": 36,
+                "+": 234,
                 "a": 254,
                 "b": 1,
                 "e": 163,
@@ -246,50 +202,9 @@
             }
         },
         "Muinane": {
-            "bipa_errors": [
-                "<<,>>"
-            ],
-            "general_errors": 43,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
-                "!C/d": [
-                    "d"
-                ],
-                "!C/g": [
-                    "g"
-                ],
-                "!C/k": [
-                    "k"
-                ],
-                "!C/m": [
-                    "m"
-                ],
-                "!C/n": [
-                    "n"
-                ],
-                "!C/tt": [
-                    "tt"
-                ],
-                "!C/t\u0283": [
-                    "t\u0283"
-                ],
-                "!C/x": [
-                    "x"
-                ],
-                "!C/\u0294": [
-                    "\u0294"
-                ],
-                "!C/\u03b2": [
-                    "\u03b2"
-                ],
-                "!V/a": [
-                    "a"
-                ],
-                "!V/i": [
-                    "i"
-                ],
-                "!V/\u026f": [
-                    "\u026f"
-                ],
                 "!a\u0301/a": [
                     "a"
                 ],
@@ -441,9 +356,7 @@
                     "\u03b2\u02b2"
                 ]
             },
-            "sclass_errors": [
-                "<<,>>"
-            ],
+            "sclass_errors": [],
             "segments": {
                 "!\u00e1/a": 207,
                 "!\u00e9/e": 98,
@@ -452,8 +365,7 @@
                 "!\u00fa/u": 84,
                 "!\u0268\u0301/\u0268": 149,
                 "!\u026f\u0301/\u026f": 1,
-                "+": 331,
-                "<<,>>": 43,
+                "+": 289,
                 "a": 233,
                 "b": 94,
                 "d": 35,
@@ -484,50 +396,9 @@
             }
         },
         "PBoM": {
-            "bipa_errors": [
-                "<<,>>"
-            ],
-            "general_errors": 42,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
-                "!C/d": [
-                    "d"
-                ],
-                "!C/g": [
-                    "g"
-                ],
-                "!C/k": [
-                    "k"
-                ],
-                "!C/m": [
-                    "m"
-                ],
-                "!C/n": [
-                    "n"
-                ],
-                "!C/tt": [
-                    "tt"
-                ],
-                "!C/t\u0283": [
-                    "t\u0283"
-                ],
-                "!C/x": [
-                    "x"
-                ],
-                "!C/\u0294": [
-                    "\u0294"
-                ],
-                "!C/\u03b2": [
-                    "\u03b2"
-                ],
-                "!V/a": [
-                    "a"
-                ],
-                "!V/i": [
-                    "i"
-                ],
-                "!V/\u026f": [
-                    "\u026f"
-                ],
                 "!a\u0301/a": [
                     "a"
                 ],
@@ -679,30 +550,13 @@
                     "\u03b2\u02b2"
                 ]
             },
-            "sclass_errors": [
-                "<<,>>"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "!C/d": 1,
-                "!C/g": 1,
-                "!C/k": 5,
-                "!C/m": 1,
-                "!C/n": 1,
-                "!C/tt": 2,
-                "!C/t\u0283": 2,
-                "!C/x": 1,
-                "!C/\u0294": 2,
-                "!C/\u03b2": 6,
-                "!V/a": 48,
-                "!V/i": 3,
-                "!V/\u026f": 2,
-                "!\u00e1/a": 3,
                 "!\u00e9/e": 14,
                 "!\u00ed/i": 20,
                 "!\u00f3/o": 7,
                 "!\u00fa/u": 10,
-                "+": 249,
-                "<<,>>": 42,
+                "+": 254,
                 "a": 359,
                 "b": 80,
                 "d": 34,
@@ -712,7 +566,7 @@
                 "h": 108,
                 "i": 279,
                 "j": 2,
-                "k": 143,
+                "k": 145,
                 "m": 117,
                 "n": 113,
                 "o": 168,
@@ -723,7 +577,7 @@
                 "ts": 73,
                 "t\u0283": 11,
                 "u": 144,
-                "\u00e1": 30,
+                "\u00e1": 33,
                 "\u0268": 265,
                 "\u0272": 1,
                 "\u0294": 106,
@@ -734,67 +588,18 @@
     "stats": {
         "bad_words": [
             [
-                "Bora-Seifart-2015-100_toad-1",
-                "Bora",
-                "Seifart-2015-100_toad",
-                "a\u0294k\u02b0\u00f3k\u02b7a, \u03b2\u026f\u0301\u026f\u0301r\u00ed\u0294i\u00ed, n\u00edh\u02b2ak\u02b7a, m\u026f\u0294m\u0268\u0301pa, \u00e1\u00e1k\u02b0\u026fpa",
-                "a \u0294 k\u02b0 !\u00f3/o k\u02b7 a <s> <<,>> </s> + \u03b2 !\u026f\u0301/\u026f !\u026f\u0301/\u026f r !\u00ed/i \u0294 i !\u00ed/i <s> <<,>> </s> + n !\u00ed/i h\u02b2 a k\u02b7 a <s> <<,>> </s> + m \u026f \u0294 m !\u0268\u0301/\u0268 p a <s> <<,>> </s> + !\u00e1/a !\u00e1/a k\u02b0 \u026f p a"
-            ],
-            [
-                "Bora-Seifart-2015-102_macaw-1",
-                "Bora",
-                "Seifart-2015-102_macaw",
-                "\u0268\u0301\u0268\u0301\u03b2a\u00e1, \u00ed\u0272a\u0294a",
-                "!\u0268\u0301/\u0268 !\u0268\u0301/\u0268 \u03b2 a !\u00e1/a <s> <<,>> </s> + !\u00ed/i \u0272 a \u0294 a"
-            ],
-            [
-                "Bora-Seifart-2015-108_piranha-1",
-                "Bora",
-                "Seifart-2015-108_piranha",
-                "k\u02b7\u00e1hk\u02b0\u02b2o-h\u0268, n\u00edht\u02b2a-h\u0268",
-                "k\u02b7 !\u00e1/a h k\u02b0\u02b2 o + h \u0268 <s> <<,>> </s> + n !\u00ed/i h t\u02b2 a + h \u0268"
-            ],
-            [
-                "Bora-Seifart-2015-117_opengrassland-1",
-                "Bora",
-                "Seifart-2015-117_opengrassland",
-                "n\u00f3m\u0268\u0301ht\u02b0\u026fh\u0268, \u02a6\u02b0\u00f3hk\u02b0\u00f3m\u026fh\u0268",
-                "n !\u00f3/o m !\u0268\u0301/\u0268 h t\u02b0 \u026f h \u0268 <s> <<,>> </s> + ts\u02b0 !\u00f3/o h k\u02b0 !\u00f3/o m \u026f h \u0268"
-            ],
-            [
-                "Bora-Seifart-2015-118_hill-1",
-                "Bora",
-                "Seifart-2015-118_hill",
-                "k\u02b7\u00e1h\u026f\u026f\u0301, p\u00e1\u026f\u026f\u0301",
-                "k\u02b7 !\u00e1/a h \u026f !\u026f\u0301/\u026f <s> <<,>> </s> + p !\u00e1/a \u026f !\u026f\u0301/\u026f"
-            ],
-            [
-                "Bora-Seifart-2015-151_he-1",
-                "Bora",
-                "Seifart-2015-151_he",
-                "\u00e1\u00e1n\u026f\u026f\u0301, ti\u00ed-p\u02b2e",
-                "!\u00e1/a !\u00e1/a n \u026f !\u026f\u0301/\u026f <s> <<,>> </s> + t i !\u00ed/i + p\u02b2 e"
-            ],
-            [
-                "Bora-Seifart-2015-192_cornfield-1",
+                "Bora-Seifart-2015-192_cornfield-2",
                 "Bora",
                 "Seifart-2015-192_cornfield",
-                "k\u02b7\u00e1hk\u02b0\u02b2o\u0294a, -p\u02b0\u00e1\u02a7i",
-                "k\u02b7 !\u00e1/a h k\u02b0\u02b2 o \u0294 a <s> <<,>> </s> + + p\u02b0 !\u00e1/a t\u0283 i"
+                "-p\u02b0\u00e1\u02a7i",
+                "+ p\u02b0 !\u00e1/a t\u0283 i"
             ],
             [
-                "Bora-Seifart-2015-199_who-1",
-                "Bora",
-                "Seifart-2015-199_who",
-                "m\u026f\u0301\u0294a, k\u02b0aat\u02b0\u02b2\u00e9\u0294a",
-                "m !\u026f\u0301/\u026f \u0294 a <s> <<,>> </s> + k\u02b0 a a t\u02b0\u02b2 !\u00e9/e \u0294 a"
-            ],
-            [
-                "Bora-Seifart-2015-200_not-1",
+                "Bora-Seifart-2015-200_not-2",
                 "Bora",
                 "Seifart-2015-200_not",
-                "\u02a6\u02b0\u00e1\u0294a\u00e1, -t\u02b0\u026f",
-                "ts\u02b0 !\u00e1/a \u0294 a !\u00e1/a <s> <<,>> </s> + + t\u02b0 \u026f"
+                "-t\u02b0\u026f",
+                "+ t\u02b0 \u026f"
             ],
             [
                 "Bora-Seifart-2015-204_bark-1",
@@ -804,13 +609,6 @@
                 "+ m !\u0268\u0301/\u0268 !\u0268\u0301/\u0268 \u0294 o"
             ],
             [
-                "Bora-Seifart-2015-205_flesh-1",
-                "Bora",
-                "Seifart-2015-205_flesh",
-                "\u0294\u00e9\u00e9k\u02b0o\u00f3, to\u00f3",
-                "\u0294 !\u00e9/e !\u00e9/e k\u02b0 o !\u00f3/o <s> <<,>> </s> + t o !\u00f3/o"
-            ],
-            [
                 "Bora-Seifart-2015-209_horn-1",
                 "Bora",
                 "Seifart-2015-209_horn",
@@ -818,144 +616,39 @@
                 "+ h t\u02b0 o"
             ],
             [
-                "Bora-Seifart-2015-225_walk-1",
+                "Bora-Seifart-2015-249_with-1",
                 "Bora",
-                "Seifart-2015-225_walk",
-                "\u026f\u02a7e, p\u02b0e\u00e9",
-                "\u026f t\u0283 e <s> <<,>> </s> + p\u02b0 e !\u00e9/e"
+                "Seifart-2015-249_with",
+                "-ma",
+                "+ m a"
             ],
             [
-                "Bora-Seifart-2015-228_say-1",
+                "Bora-Seifart-2015-251_at-1",
                 "Bora",
-                "Seifart-2015-228_say",
-                "\u026f\u026fp\u00e1\u02a7e, ne\u00e9",
-                "\u026f \u026f p !\u00e1/a t\u0283 e <s> <<,>> </s> + n e !\u00e9/e"
+                "Seifart-2015-251_at",
+                "-\u03b2\u026f",
+                "+ \u03b2 \u026f"
             ],
             [
-                "Bora-Seifart-2015-229_mountain-1",
+                "Bora-Seifart-2015-293_diminutive-1",
                 "Bora",
-                "Seifart-2015-229_mountain",
-                "k\u02b7\u00e1h\u026f\u026f\u0301, p\u00e1\u026f\u026f\u0301",
-                "k\u02b7 !\u00e1/a h \u026f !\u026f\u0301/\u026f <s> <<,>> </s> + p !\u00e1/a \u026f !\u026f\u0301/\u026f"
+                "Seifart-2015-293_diminutive",
+                "-k\u02b7\u026f.\u026f",
+                "+ k\u02b7 \u026f \u026f"
             ],
             [
-                "Bora-Seifart-2015-34_father-1",
+                "Bora-Seifart-2015-347_lateron-1",
                 "Bora",
-                "Seifart-2015-34_father",
-                "\u02a7i\u0294\u00edjo, k\u02b0aani",
-                "t\u0283 i \u0294 !\u00ed/i j o <s> <<,>> </s> + k\u02b0 a a n i"
+                "Seifart-2015-347_lateron",
+                "-poone",
+                "+ p o o n e"
             ],
             [
-                "Bora-Seifart-2015-35_mother-1",
-                "Bora",
-                "Seifart-2015-35_mother",
-                "k\u02b7a\u0294\u00e1ro, \u02a6\u02b0\u0268\u0301\u0268\u0301h\u026f",
-                "k\u02b7 a \u0294 !\u00e1/a r o <s> <<,>> </s> + ts\u02b0 !\u0268\u0301/\u0268 !\u0268\u0301/\u0268 h \u026f"
-            ],
-            [
-                "Bora-Seifart-2015-85_anteater-1",
-                "Bora",
-                "Seifart-2015-85_anteater",
-                "\u0268\u0268\u0301h\u026f, t\u02b0o\u0294h\u0268",
-                "\u0268 !\u0268\u0301/\u0268 h \u026f <s> <<,>> </s> + t\u02b0 o \u0294 h \u0268"
-            ],
-            [
-                "Bora-Seifart-2015-87_crocodile-1",
-                "Bora",
-                "Seifart-2015-87_crocodile",
-                "ni\u0294pa, me\u0294t\u00f3pa",
-                "n i \u0294 p a <s> <<,>> </s> + m e \u0294 t !\u00f3/o p a"
-            ],
-            [
-                "Bora-Seifart-2015-97_anacondawaterboa-1",
-                "Bora",
-                "Seifart-2015-97_anacondawaterboa",
-                "p\u00f3\u00f3a\u00e1, \u00ed\u00edk\u02b7ak\u02b0\u02b2o",
-                "p !\u00f3/o !\u00f3/o a !\u00e1/a <s> <<,>> </s> + !\u00ed/i !\u00ed/i k\u02b7 a k\u02b0\u02b2 o"
-            ],
-            [
-                "Muinane-Seifart-2015-100_toad-1",
-                "Muinane",
-                "Seifart-2015-100_toad",
-                "hak\u00fak\u00faga, b\u0268\u0301\u0268\u0301ri\u0294i, n\u00edhaga, m\u0268\u0301\u0268\u0301m\u00e9ba, h\u00e1\u00e1kk\u0268ba",
-                "h a k !\u00fa/u k !\u00fa/u g a <s> <<,>> </s> + b !\u0268\u0301/\u0268 !\u0268\u0301/\u0268 r i \u0294 i <s> <<,>> </s> + n !\u00ed/i h a g a <s> <<,>> </s> + m !\u0268\u0301/\u0268 !\u0268\u0301/\u0268 m !\u00e9/e b a <s> <<,>> </s> + h !\u00e1/a !\u00e1/a k k \u0268 b a"
-            ],
-            [
-                "Muinane-Seifart-2015-101_hummingbird-1",
-                "Muinane",
-                "Seifart-2015-101_hummingbird",
-                "\u0278\u00e1\u00e1ibe,",
-                "\u0278 !\u00e1/a !\u00e1/a i b e <s> <<,>> </s>"
-            ],
-            [
-                "Muinane-Seifart-2015-102_macaw-1",
-                "Muinane",
-                "Seifart-2015-102_macaw",
-                "h\u00e9\u00e9\u03b2a, \u00edn\u00f3\u0294ai",
-                "h !\u00e9/e !\u00e9/e \u03b2 a <s> <<,>> </s> + !\u00ed/i n !\u00f3/o \u0294 a i"
-            ],
-            [
-                "Muinane-Seifart-2015-108_piranha-1",
-                "Muinane",
-                "Seifart-2015-108_piranha",
-                "g\u00e1\u00edkku-he, n\u00edtta",
-                "g !\u00e1/a !\u00ed/i k k u + h e <s> <<,>> </s> + n !\u00ed/i t t a"
-            ],
-            [
-                "Muinane-Seifart-2015-117_opengrassland-1",
-                "Muinane",
-                "Seifart-2015-117_opengrassland",
-                "n\u00e1mett\u0268he, s\u00fakkumehe",
-                "n !\u00e1/a m e t t \u0268 h e <s> <<,>> </s> + s !\u00fa/u k k u m e h e"
-            ],
-            [
-                "Muinane-Seifart-2015-118_hill-1",
-                "Muinane",
-                "Seifart-2015-118_hill",
-                "g\u00e1h\u0268, b\u00e1a\u0268",
-                "g !\u00e1/a h \u0268 <s> <<,>> </s> + b !\u00e1/a a \u0268"
-            ],
-            [
-                "Muinane-Seifart-2015-151_he-1",
-                "Muinane",
-                "Seifart-2015-151_he",
-                "\u00e1h\u00e1an\u0268, d\u00edi-bo",
-                "!\u00e1/a h !\u00e1/a a n \u0268 <s> <<,>> </s> + d !\u00ed/i i + b o"
-            ],
-            [
-                "Muinane-Seifart-2015-152_she-1",
-                "Muinane",
-                "Seifart-2015-152_she",
-                "\u00e1h\u00e1amo, d\u00edi-go",
-                "!\u00e1/a h !\u00e1/a a m o <s> <<,>> </s> + d !\u00ed/i i + g o"
-            ],
-            [
-                "Muinane-Seifart-2015-192_cornfield-1",
-                "Muinane",
-                "Seifart-2015-192_cornfield",
-                "g\u00e1\u00edkku\u0294ai, \u0278\u00e1gi",
-                "g !\u00e1/a !\u00ed/i k k u \u0294 a i <s> <<,>> </s> + \u0278 !\u00e1/a g i"
-            ],
-            [
-                "Muinane-Seifart-2015-199_who-1",
-                "Muinane",
-                "Seifart-2015-199_who",
-                "m\u0268\u0301h\u0268\u0301, k\u00e1h\u00e1\u00e1n\u0268, k\u00e1h\u00e1\u00e1mo",
-                "m !\u0268\u0301/\u0268 h !\u0268\u0301/\u0268 <s> <<,>> </s> + k !\u00e1/a h !\u00e1/a !\u00e1/a n \u0268 <s> <<,>> </s> + k !\u00e1/a h !\u00e1/a !\u00e1/a m o"
-            ],
-            [
-                "Muinane-Seifart-2015-200_not-1",
+                "Muinane-Seifart-2015-200_not-2",
                 "Muinane",
                 "Seifart-2015-200_not",
-                "\u02a7\u00e1\u0294ano, -t\u0268",
-                "t\u0283 !\u00e1/a \u0294 a n o <s> <<,>> </s> + + t \u0268"
-            ],
-            [
-                "Muinane-Seifart-2015-205_flesh-1",
-                "Muinane",
-                "Seifart-2015-205_flesh",
-                "\u00fa\u00faku, d\u00fa\u00faho\u0294o",
-                "!\u00fa/u !\u00fa/u k u <s> <<,>> </s> + d !\u00fa/u !\u00fa/u h o \u0294 o"
+                "-t\u0268",
+                "+ t \u0268"
             ],
             [
                 "Muinane-Seifart-2015-214_drink-1",
@@ -1007,39 +700,46 @@
                 "!\u00ed/i s i +"
             ],
             [
-                "Muinane-Seifart-2015-225_walk-1",
+                "Muinane-Seifart-2015-249_with-1",
                 "Muinane",
-                "Seifart-2015-225_walk",
-                "\u0268\u0301ge-\u0294i, \u0278\u00e9e-\u0294i",
-                "!\u0268\u0301/\u0268 g e + \u0294 i <s> <<,>> </s> + \u0278 !\u00e9/e e + \u0294 i"
+                "Seifart-2015-249_with",
+                "-ma",
+                "+ m a"
             ],
             [
-                "Muinane-Seifart-2015-228_say-1",
+                "Muinane-Seifart-2015-251_at-1",
                 "Muinane",
-                "Seifart-2015-228_say",
-                "h\u0268\u0301\u0268\u0301bege-\u0294i, n\u00e9\u00e9-\u0294i",
-                "h !\u0268\u0301/\u0268 !\u0268\u0301/\u0268 b e g e + \u0294 i <s> <<,>> </s> + n !\u00e9/e !\u00e9/e + \u0294 i"
+                "Seifart-2015-251_at",
+                "-\u03b2\u0268",
+                "+ \u03b2 \u0268"
             ],
             [
-                "Muinane-Seifart-2015-34_father-1",
+                "Muinane-Seifart-2015-293_diminutive-1",
                 "Muinane",
-                "Seifart-2015-34_father",
-                "g\u00ed\u0294\u00edrubi, k\u00e1\u00e1ni",
-                "g !\u00ed/i \u0294 !\u00ed/i r u b i <s> <<,>> </s> + k !\u00e1/a !\u00e1/a n i"
+                "Seifart-2015-293_diminutive",
+                "-gaj\u0268",
+                "+ g a j \u0268"
             ],
             [
-                "Muinane-Seifart-2015-35_mother-1",
+                "Muinane-Seifart-2015-322_alone-1",
                 "Muinane",
-                "Seifart-2015-35_mother",
-                "g\u00e1\u0294\u00e1rubi, s\u00e9\u00e9h\u0268",
-                "g !\u00e1/a \u0294 !\u00e1/a r u b i <s> <<,>> </s> + s !\u00e9/e !\u00e9/e h \u0268"
+                "Seifart-2015-322_alone",
+                "-re",
+                "+ r e"
             ],
             [
-                "Muinane-Seifart-2015-39_river-1",
+                "Muinane-Seifart-2015-337_blind-1",
                 "Muinane",
-                "Seifart-2015-39_river",
-                "t\u00e9\u00e9-\u0294i, m\u00fa\u00faai",
-                "t !\u00e9/e !\u00e9/e + \u0294 i <s> <<,>> </s> + m !\u00fa/u !\u00fa/u a i"
+                "Seifart-2015-337_blind",
+                "\u00e1at\u02b2\u0268me-t\u0268-",
+                "!\u00e1/a a t\u02b2 \u0268 m e + t \u0268 +"
+            ],
+            [
+                "Muinane-Seifart-2015-347_lateron-1",
+                "Muinane",
+                "Seifart-2015-347_lateron",
+                "-b\u00fa\u00fana",
+                "+ b !\u00fa/u !\u00fa/u n a"
             ],
             [
                 "Muinane-Seifart-2015-79_dog-1",
@@ -1049,53 +749,11 @@
                 "+ \u0294 u i"
             ],
             [
-                "Muinane-Seifart-2015-85_anteater-1",
-                "Muinane",
-                "Seifart-2015-85_anteater",
-                "h\u00e9\u00e9h\u0268, t\u00fauhe",
-                "h !\u00e9/e !\u00e9/e h \u0268 <s> <<,>> </s> + t !\u00fa/u u h e"
-            ],
-            [
-                "Muinane-Seifart-2015-87_crocodile-1",
-                "Muinane",
-                "Seifart-2015-87_crocodile",
-                "n\u00ed\u0294iba, m\u00e9\u00e9d\u00faba",
-                "n !\u00ed/i \u0294 i b a <s> <<,>> </s> + m !\u00e9/e !\u00e9/e d !\u00fa/u b a"
-            ],
-            [
-                "Muinane-Seifart-2015-97_anacondawaterboa-1",
-                "Muinane",
-                "Seifart-2015-97_anacondawaterboa",
-                "b\u00fa\u00faa, \u00edg\u00e1\u00ed\u03b2at\u0268",
-                "b !\u00fa/u !\u00fa/u a <s> <<,>> </s> + !\u00ed/i g !\u00e1/a !\u00ed/i \u03b2 a t \u0268"
-            ],
-            [
-                "PBoM-Seifart-2015-100_toad-1",
-                "PBoM",
-                "Seifart-2015-100_toad",
-                "hakuga,()\u0268\u0268ri\u0294i,nihaga,m\u0268\u0268\u0294meba,haakk\u0268ba",
-                "h a k u g a <s> <<,>> </s> !C/\u03b2 \u0268 \u0268 r i \u0294 i <s> <<,>> </s> n i h a g a <s> <<,>> </s> m \u0268 \u0268 \u0294 m e b a <s> <<,>> </s> h a a k k \u0268 b a"
-            ],
-            [
-                "PBoM-Seifart-2015-102_macaw-1",
-                "PBoM",
-                "Seifart-2015-102_macaw",
-                "hee\u03b2aa,in()\u0294ai",
-                "h e e \u03b2 a a <s> <<,>> </s> i n !V/a \u0294 a i"
-            ],
-            [
                 "PBoM-Seifart-2015-105_curassow-1",
                 "PBoM",
                 "Seifart-2015-105_curassow",
                 "k\u0268ga-",
                 "k \u0268 g a +"
-            ],
-            [
-                "PBoM-Seifart-2015-108_piranha-1",
-                "PBoM",
-                "Seifart-2015-108_piranha",
-                "gaikku-he,nitta",
-                "g a i k k u + h e <s> <<,>> </s> n i t t a"
             ],
             [
                 "PBoM-Seifart-2015-10_hair-1",
@@ -1112,20 +770,6 @@
                 "p a a g a +"
             ],
             [
-                "PBoM-Seifart-2015-117_opengrassland-1",
-                "PBoM",
-                "Seifart-2015-117_opengrassland",
-                "namett\u0268he,\u02a6ukkum()he",
-                "n a m e t t \u0268 h e <s> <<,>> </s> ts u k k u m !V/a h e"
-            ],
-            [
-                "PBoM-Seifart-2015-118_hill-1",
-                "PBoM",
-                "Seifart-2015-118_hill",
-                "gah\u0268\u0268,baa\u0268\u0268",
-                "g a h \u0268 \u0268 <s> <<,>> </s> b a a \u0268 \u0268"
-            ],
-            [
                 "PBoM-Seifart-2015-121_treeleaf-1",
                 "PBoM",
                 "Seifart-2015-121_treeleaf",
@@ -1136,8 +780,8 @@
                 "PBoM-Seifart-2015-122_root-1",
                 "PBoM",
                 "Seifart-2015-122_root",
-                "ba(i)(k)ko-",
-                "b a !V/i !C/k k o +"
+                "bako-",
+                "b a k o +"
             ],
             [
                 "PBoM-Seifart-2015-123_seed-1",
@@ -1175,27 +819,6 @@
                 "n i i \u0294 n o o +"
             ],
             [
-                "PBoM-Seifart-2015-151_he-1",
-                "PBoM",
-                "Seifart-2015-151_he",
-                "aa-n\u0268\u0268,dii-bo",
-                "a a + n \u0268 \u0268 <s> <<,>> </s> d i i + b o"
-            ],
-            [
-                "PBoM-Seifart-2015-152_she-1",
-                "PBoM",
-                "Seifart-2015-152_she",
-                "aaimoo,dii-go",
-                "a a i m o o <s> <<,>> </s> d i i + g o"
-            ],
-            [
-                "PBoM-Seifart-2015-169_big-1",
-                "PBoM",
-                "Seifart-2015-169_big",
-                "mita-no,giraa",
-                "m i t a + n o <s> <<,>> </s> g i r a a"
-            ],
-            [
                 "PBoM-Seifart-2015-170_small-1",
                 "PBoM",
                 "Seifart-2015-170_small",
@@ -1208,6 +831,13 @@
                 "Seifart-2015-176_black",
                 "k\u0268\u03b2o-",
                 "k \u0268 \u03b2 o +"
+            ],
+            [
+                "PBoM-Seifart-2015-183_tipoftongue-1",
+                "PBoM",
+                "Seifart-2015-183_tipoftongue",
+                "nehe--nihkk",
+                "n e h e + + n i h k k"
             ],
             [
                 "PBoM-Seifart-2015-185_lowerarm-1",
@@ -1224,11 +854,11 @@
                 "t a k k i +"
             ],
             [
-                "PBoM-Seifart-2015-192_cornfield-1",
+                "PBoM-Seifart-2015-192_cornfield-2",
                 "PBoM",
                 "Seifart-2015-192_cornfield",
-                "gaikku\u0294ai,-pagi",
-                "g a i k k u \u0294 a i <s> <<,>> </s> + p a g i"
+                "-pagi",
+                "+ p a g i"
             ],
             [
                 "PBoM-Seifart-2015-197_this-1",
@@ -1248,15 +878,22 @@
                 "PBoM-Seifart-2015-199_who-1",
                 "PBoM",
                 "Seifart-2015-199_who",
-                "m\u0268-,ka-",
-                "m \u0268 + <s> <<,>> </s> k a +"
+                "m\u0268-",
+                "m \u0268 +"
             ],
             [
-                "PBoM-Seifart-2015-200_not-1",
+                "PBoM-Seifart-2015-199_who-2",
+                "PBoM",
+                "Seifart-2015-199_who",
+                "ka-",
+                "k a +"
+            ],
+            [
+                "PBoM-Seifart-2015-200_not-2",
                 "PBoM",
                 "Seifart-2015-200_not",
-                "\u02a6a\u0294a,-t\u0268",
-                "ts a \u0294 a <s> <<,>> </s> + t \u0268"
+                "-t\u0268",
+                "+ t \u0268"
             ],
             [
                 "PBoM-Seifart-2015-202_many-1",
@@ -1278,13 +915,6 @@
                 "Seifart-2015-204_bark",
                 "-mee\u0294u",
                 "+ m e e \u0294 u"
-            ],
-            [
-                "PBoM-Seifart-2015-205_flesh-1",
-                "PBoM",
-                "Seifart-2015-205_flesh",
-                "\u0294ookuu,duu",
-                "\u0294 o o k u u <s> <<,>> </s> d u u"
             ],
             [
                 "PBoM-Seifart-2015-206_blood-2",
@@ -1315,13 +945,6 @@
                 "g o o b u +"
             ],
             [
-                "PBoM-Seifart-2015-225_walk-1",
-                "PBoM",
-                "Seifart-2015-225_walk",
-                "\u0268go, poo",
-                "\u0268 g o <s> <<,>> </s> + p o o"
-            ],
-            [
                 "PBoM-Seifart-2015-226_come-1",
                 "PBoM",
                 "Seifart-2015-226_come",
@@ -1329,39 +952,284 @@
                 "ts a a +"
             ],
             [
-                "PBoM-Seifart-2015-228_say-1",
+                "PBoM-Seifart-2015-240_fog-1",
                 "PBoM",
-                "Seifart-2015-228_say",
-                "h\u0268\u0268b()go,noo",
-                "h \u0268 \u0268 b !V/a g o <s> <<,>> </s> n o o"
+                "Seifart-2015-240_fog",
+                "t\u02a6u-",
+                "t ts u +"
             ],
             [
-                "PBoM-Seifart-2015-229_mountain-1",
+                "PBoM-Seifart-2015-243_wet-2",
                 "PBoM",
-                "Seifart-2015-229_mountain",
-                "gah\u0268\u0268,baa\u0268\u0268",
-                "g a h \u0268 \u0268 <s> <<,>> </s> b a a \u0268 \u0268"
+                "Seifart-2015-243_wet",
+                "maa-",
+                "m a a +"
             ],
             [
-                "PBoM-Seifart-2015-34_father-1",
+                "PBoM-Seifart-2015-244_wash-1",
                 "PBoM",
-                "Seifart-2015-34_father",
-                "gi\u0294iru,kaani",
-                "g i \u0294 i r u <s> <<,>> </s> k a a n i"
+                "Seifart-2015-244_wash",
+                "nitt\u0268-",
+                "n i t t \u0268 +"
             ],
             [
-                "PBoM-Seifart-2015-35_mother-1",
+                "PBoM-Seifart-2015-246_fur-1",
                 "PBoM",
-                "Seifart-2015-35_mother",
-                "ga\u0294a-ro,\u02a6eeh\u0268",
-                "g a \u0294 a + r o <s> <<,>> </s> ts e e h \u0268"
+                "Seifart-2015-246_fur",
+                "i\u0294he-",
+                "i \u0294 h e +"
             ],
             [
-                "PBoM-Seifart-2015-39_river-1",
+                "PBoM-Seifart-2015-247_saliva-1",
                 "PBoM",
-                "Seifart-2015-39_river",
-                "too-\u0294i,muuai",
-                "t o o + \u0294 i <s> <<,>> </s> m u u a i"
+                "Seifart-2015-247_saliva",
+                "h\u0268\u0268-",
+                "h \u0268 \u0268 +"
+            ],
+            [
+                "PBoM-Seifart-2015-249_with-1",
+                "PBoM",
+                "Seifart-2015-249_with",
+                "-ma",
+                "+ m a"
+            ],
+            [
+                "PBoM-Seifart-2015-251_at-1",
+                "PBoM",
+                "Seifart-2015-251_at",
+                "-\u03b2\u0268",
+                "+ \u03b2 \u0268"
+            ],
+            [
+                "PBoM-Seifart-2015-252_if-1",
+                "PBoM",
+                "Seifart-2015-252_if",
+                "-\u0294a\u02a7\u02a7iih\u0268",
+                "+ \u0294 a t\u0283 t\u0283 i i h \u0268"
+            ],
+            [
+                "PBoM-Seifart-2015-254_dark-1",
+                "PBoM",
+                "Seifart-2015-254_dark",
+                "k\u0268\u03b2o-",
+                "k \u0268 \u03b2 o +"
+            ],
+            [
+                "PBoM-Seifart-2015-255_wide-1",
+                "PBoM",
+                "Seifart-2015-255_wide",
+                "kare-",
+                "k a r e +"
+            ],
+            [
+                "PBoM-Seifart-2015-258_thin-1",
+                "PBoM",
+                "Seifart-2015-258_thin",
+                "\u0268t\u02a6i-",
+                "\u0268 t ts i +"
+            ],
+            [
+                "PBoM-Seifart-2015-258_thin-2",
+                "PBoM",
+                "Seifart-2015-258_thin",
+                "aini-",
+                "a i n i +"
+            ],
+            [
+                "PBoM-Seifart-2015-262_dirty-1",
+                "PBoM",
+                "Seifart-2015-262_dirty",
+                "hiin\u0268-\u03b2a-",
+                "h i i n \u0268 + \u03b2 a +"
+            ],
+            [
+                "PBoM-Seifart-2015-262_dirty-2",
+                "PBoM",
+                "Seifart-2015-262_dirty",
+                "bee\u03b2a-",
+                "b e e \u03b2 a +"
+            ],
+            [
+                "PBoM-Seifart-2015-263_rotten-1",
+                "PBoM",
+                "Seifart-2015-263_rotten",
+                "tuuk\u0268-",
+                "t u u k \u0268 +"
+            ],
+            [
+                "PBoM-Seifart-2015-264_smooth-1",
+                "PBoM",
+                "Seifart-2015-264_smooth",
+                "pr\u0268\u0268k\u0268-",
+                "p r \u0268 \u0268 k \u0268 +"
+            ],
+            [
+                "PBoM-Seifart-2015-264_smooth-2",
+                "PBoM",
+                "Seifart-2015-264_smooth",
+                "moo\u03b2a-",
+                "m o o \u03b2 a +"
+            ],
+            [
+                "PBoM-Seifart-2015-266_correct-1",
+                "PBoM",
+                "Seifart-2015-266_correct",
+                "maa-",
+                "m a a +"
+            ],
+            [
+                "PBoM-Seifart-2015-267_left-1",
+                "PBoM",
+                "Seifart-2015-267_left",
+                "nani-",
+                "n a n i +"
+            ],
+            [
+                "PBoM-Seifart-2015-268_right-1",
+                "PBoM",
+                "Seifart-2015-268_right",
+                "ma-",
+                "m a +"
+            ],
+            [
+                "PBoM-Seifart-2015-269_old-1",
+                "PBoM",
+                "Seifart-2015-269_old",
+                "\u02a6\u0268k-",
+                "ts \u0268 k +"
+            ],
+            [
+                "PBoM-Seifart-2015-269_old-2",
+                "PBoM",
+                "Seifart-2015-269_old",
+                "koomo-",
+                "k o o m o +"
+            ],
+            [
+                "PBoM-Seifart-2015-273_split-1",
+                "PBoM",
+                "Seifart-2015-273_split",
+                "gaer-",
+                "g a e r +"
+            ],
+            [
+                "PBoM-Seifart-2015-277_fall-1",
+                "PBoM",
+                "Seifart-2015-277_fall",
+                "aako-",
+                "a a k o +"
+            ],
+            [
+                "PBoM-Seifart-2015-278_swell-1",
+                "PBoM",
+                "Seifart-2015-278_swell",
+                "huuri-",
+                "h u u r i +"
+            ],
+            [
+                "PBoM-Seifart-2015-279_think-1",
+                "PBoM",
+                "Seifart-2015-279_think",
+                "et\u02a6ami-",
+                "e t ts a m i +"
+            ],
+            [
+                "PBoM-Seifart-2015-282_blow-1",
+                "PBoM",
+                "Seifart-2015-282_blow",
+                "eba\u02a6u-",
+                "e b a ts u +"
+            ],
+            [
+                "PBoM-Seifart-2015-282_blow-2",
+                "PBoM",
+                "Seifart-2015-282_blow",
+                "buu\u02a6u-",
+                "b u u ts u +"
+            ],
+            [
+                "PBoM-Seifart-2015-288_ripe-1",
+                "PBoM",
+                "Seifart-2015-288_ripe",
+                "naamo-",
+                "n a a m o +"
+            ],
+            [
+                "PBoM-Seifart-2015-289_dust-1",
+                "PBoM",
+                "Seifart-2015-289_dust",
+                "-giih\u0268",
+                "+ g i i h \u0268"
+            ],
+            [
+                "PBoM-Seifart-2015-290_alive-1",
+                "PBoM",
+                "Seifart-2015-290_alive",
+                "bu\u0294ee-",
+                "b u \u0294 e e +"
+            ],
+            [
+                "PBoM-Seifart-2015-293_diminutive-1",
+                "PBoM",
+                "Seifart-2015-293_diminutive",
+                "-g\u0268",
+                "+ g \u0268"
+            ],
+            [
+                "PBoM-Seifart-2015-308_keep-1",
+                "PBoM",
+                "Seifart-2015-308_keep",
+                "toomo-",
+                "t o o m o +"
+            ],
+            [
+                "PBoM-Seifart-2015-312_getwet-1",
+                "PBoM",
+                "Seifart-2015-312_getwet",
+                "m\u00e1a-",
+                "m \u00e1 a +"
+            ],
+            [
+                "PBoM-Seifart-2015-312_getwet-2",
+                "PBoM",
+                "Seifart-2015-312_getwet",
+                "p\u00e9\u00e9pai-",
+                "p !\u00e9/e !\u00e9/e p a i +"
+            ],
+            [
+                "PBoM-Seifart-2015-320_want-1",
+                "PBoM",
+                "Seifart-2015-320_want",
+                "\u00edm-go-",
+                "!\u00ed/i m + g o +"
+            ],
+            [
+                "PBoM-Seifart-2015-320_want-2",
+                "PBoM",
+                "Seifart-2015-320_want",
+                "g\u00e1ih\u0268-",
+                "g \u00e1 i h \u0268 +"
+            ],
+            [
+                "PBoM-Seifart-2015-320_want-3",
+                "PBoM",
+                "Seifart-2015-320_want",
+                "k\u00e1\u03b2a-",
+                "k \u00e1 \u03b2 a +"
+            ],
+            [
+                "PBoM-Seifart-2015-327_roast-2",
+                "PBoM",
+                "Seifart-2015-327_roast",
+                "\u02a6\u00fa\u0294k\u00fa\u02a6u-",
+                "ts !\u00fa/u \u0294 k !\u00fa/u ts u +"
+            ],
+            [
+                "PBoM-Seifart-2015-348_alot-1",
+                "PBoM",
+                "Seifart-2015-348_alot",
+                "giraa-",
+                "g i r a a +"
             ],
             [
                 "PBoM-Seifart-2015-43_charcoal-1",
@@ -1395,8 +1263,8 @@
                 "PBoM-Seifart-2015-69_knife-1",
                 "PBoM",
                 "Seifart-2015-69_knife",
-                "n()\u02a6()-ga-",
-                "n !V/a ts !V/a + g a +"
+                "n\u02a6-ga-",
+                "n ts + g a +"
             ],
             [
                 "PBoM-Seifart-2015-73_spear-1",
@@ -1413,75 +1281,20 @@
                 "t \u0268 \u0268 b u +"
             ],
             [
-                "PBoM-Seifart-2015-85_anteater-1",
-                "PBoM",
-                "Seifart-2015-85_anteater",
-                "heeh\u0268,tuu\u0294he",
-                "h e e h \u0268 <s> <<,>> </s> t u u \u0294 h e"
-            ],
-            [
-                "PBoM-Seifart-2015-87_crocodile-1",
-                "PBoM",
-                "Seifart-2015-87_crocodile",
-                "ni\u0294ba,m()\u0294duba",
-                "n i \u0294 b a <s> <<,>> </s> m !V/a \u0294 d u b a"
-            ],
-            [
-                "PBoM-Seifart-2015-97_anacondawaterboa-1",
+                "PBoM-Seifart-2015-97_anacondawaterboa-2",
                 "PBoM",
                 "Seifart-2015-97_anacondawaterboa",
-                "buua,iigai-",
-                "b u u a <s> <<,>> </s> i i g a i +"
+                "iigai-",
+                "i i g a i +"
             ]
         ],
-        "bad_words_count": 196,
-        "bipa_errors": [
-            "<<,>>"
-        ],
-        "general_errors": 121,
+        "bad_words_count": 113,
+        "bipa_errors": [],
+        "general_errors": 0,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 41.333333333333336,
+        "inventory_size": 35.666666666666664,
         "replacements": {
-            "!C/d": [
-                "d"
-            ],
-            "!C/g": [
-                "g"
-            ],
-            "!C/k": [
-                "k"
-            ],
-            "!C/m": [
-                "m"
-            ],
-            "!C/n": [
-                "n"
-            ],
-            "!C/tt": [
-                "tt"
-            ],
-            "!C/t\u0283": [
-                "t\u0283"
-            ],
-            "!C/x": [
-                "x"
-            ],
-            "!C/\u0294": [
-                "\u0294"
-            ],
-            "!C/\u03b2": [
-                "\u03b2"
-            ],
-            "!V/a": [
-                "a"
-            ],
-            "!V/i": [
-                "i"
-            ],
-            "!V/\u026f": [
-                "\u026f"
-            ],
             "!a\u0301/a": [
                 "a"
             ],
@@ -1633,32 +1446,16 @@
                 "\u03b2\u02b2"
             ]
         },
-        "sclass_errors": [
-            "<<,>>"
-        ],
+        "sclass_errors": [],
         "segments": {
-            "!C/d": 1,
-            "!C/g": 1,
-            "!C/k": 5,
-            "!C/m": 1,
-            "!C/n": 1,
-            "!C/tt": 2,
-            "!C/t\u0283": 2,
-            "!C/x": 1,
-            "!C/\u0294": 2,
-            "!C/\u03b2": 6,
-            "!V/a": 48,
-            "!V/i": 3,
-            "!V/\u026f": 2,
-            "!\u00e1/a": 380,
+            "!\u00e1/a": 377,
             "!\u00e9/e": 182,
             "!\u00ed/i": 301,
             "!\u00f3/o": 105,
             "!\u00fa/u": 94,
             "!\u0268\u0301/\u0268": 222,
             "!\u026f\u0301/\u026f": 135,
-            "+": 850,
-            "<<,>>": 121,
+            "+": 777,
             "a": 846,
             "b": 175,
             "d": 69,
@@ -1669,7 +1466,7 @@
             "h\u02b2": 16,
             "i": 596,
             "j": 28,
-            "k": 289,
+            "k": 291,
             "k\u02b0": 99,
             "k\u02b0\u02b2": 24,
             "k\u02b7": 83,
@@ -1693,7 +1490,7 @@
             "t\u02b0\u02b2": 21,
             "t\u02b2": 10,
             "u": 243,
-            "\u00e1": 30,
+            "\u00e1": 33,
             "\u0268": 491,
             "\u026f": 163,
             "\u0272": 45,

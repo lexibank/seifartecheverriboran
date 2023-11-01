@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/seifartecheverriboran",
             "rdf:type": "prov:Entity",
-            "dc:created": "03f1beb",
+            "dc:created": "d12a8c8",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 1244,
+            "dc:extent": 1364,
             "tableSchema": {
                 "columns": [
                     {

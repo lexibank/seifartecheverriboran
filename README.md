@@ -24,21 +24,21 @@ While converting the dataset to CLDF, we noticed some reconstructed word forms o
 ## Statistics
 
 
-![Glottolog: 67%](https://img.shields.io/badge/Glottolog-67%25-orange.svg "Glottolog: 67%")
-![Concepticon: 85%](https://img.shields.io/badge/Concepticon-85%25-yellowgreen.svg "Concepticon: 85%")
+![Glottolog: 66%](https://img.shields.io/badge/Glottolog-66%25-orange.svg "Glottolog: 66%")
+![Concepticon: 86%](https://img.shields.io/badge/Concepticon-86%25-yellowgreen.svg "Concepticon: 86%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
-![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 3
 - **Concepts:** 412
-- **Lexemes:** 1,244
+- **Lexemes:** 1,364
 - **Sources:** 1
-- **Synonymy:** 1.01
+- **Synonymy:** 1.10
 - **Invalid lexemes:** 0
-- **Tokens:** 9,348
-- **Segments:** 66 (1 BIPA errors, 1 CLTS sound class errors, 63 CLTS modified)
-- **Inventory size (avg):** 41.33
+- **Tokens:** 9,081
+- **Segments:** 52 (0 BIPA errors, 0 CLTS sound class errors, 50 CLTS modified)
+- **Inventory size (avg):** 35.67
 
 # Contributors
 

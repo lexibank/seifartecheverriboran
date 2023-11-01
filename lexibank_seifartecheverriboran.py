@@ -22,8 +22,7 @@ class Dataset(BaseDataset):
     id = "seifartecheverriboran"
     lexeme_class = CustomLexeme
     form_spec = FormSpec(
-            separators=",",
-            first_form_only=True
+            separators=","
             )
 
     def cmd_makecldf(self, args):
@@ -59,7 +58,7 @@ class Dataset(BaseDataset):
         for (
             idx,
             doculect,
-            form,
+            value,
             concept,
             cogid,
             morphemes,
@@ -71,7 +70,7 @@ class Dataset(BaseDataset):
         ) in pb(
             wl.iter_rows(
                 "doculect",
-                "form",
+                "value",
                 "concept",
                 "cogid",
                 "morphemes",
@@ -83,11 +82,10 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
-            args.writer.add_form(
+            args.writer.add_forms_from_value(
                 Parameter_ID=concepts[concept.lower()],
                 Language_ID=doculect,
-                Form=form.strip(),
-                Value=form.strip(),
+                Value=value,
                 Morphemes=morphemes,
                 ProtoSet=protoset,
                 ProtoForm=protoform,
@@ -97,9 +95,3 @@ class Dataset(BaseDataset):
                 Comment=note,
                 Source="Seifart2015"
             )
-
-            # args.writer.add_cognate(
-            #     lexeme=form,
-            #     Cognateset_ID=cogid,
-            #     Cognate_Detection_Method="expert"
-            #     )

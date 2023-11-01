@@ -22,7 +22,8 @@ class Dataset(BaseDataset):
     id = "seifartecheverriboran"
     lexeme_class = CustomLexeme
     form_spec = FormSpec(
-            separators=", "
+            separators=",",
+            first_form_only=True
             )
 
     def cmd_makecldf(self, args):
@@ -38,7 +39,7 @@ class Dataset(BaseDataset):
                 ID=idx,
                 Name=concept["ENGLISH"],
                 Concepticon_ID=concept["CONCEPTICON_ID"],
-                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
             )
             concepts[concept["ENGLISH"]] = idx
 
@@ -82,7 +83,6 @@ class Dataset(BaseDataset):
             ),
             desc="cldfify"
         ):
-            # lexeme = args.writer.add_form_with_segments(
             args.writer.add_form(
                 Parameter_ID=concepts[concept.lower()],
                 Language_ID=doculect,

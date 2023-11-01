@@ -1,0 +1,3 @@
+### Creating the ortho-profiles
+
+While converting the dataset to CLDF, we noticed some reconstructed word forms on Proto Bora-Muinane that needed special attention. We decided to add contexts to these forms in the `etc/orthography/PBoM.tsv` file either because of uncertainty of the reconstruction in the original source for the data or because of some linguistic criteria, such as more reliable data for Bora or expert's intuition. These changes are explicit on the Proto Bora-Muinane orthographic file so they can be easily findable.

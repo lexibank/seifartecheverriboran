@@ -407,9 +407,9 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 406	PBoM	ɨhe-	PLANTAIN 	136			174	*ɨhe-	*ɯ́xɨ-()	
 407	Bora	ɯhɨ	PLANTAIN 	136			174	*ɨhe-		
 408	Muinane	ɨ́heba 	PLANTAIN 	136			174	*ɨhe-		
-409	PBoM	moomo,CHONTA	PALM 	137			175	*moomo,CHONTA	*meéme, *meéme-(ʔegííʔo), *meéme-(ʔeǰííʔyo)	
-410	Bora	meéme	PALM 	137			175	*moomo,CHONTA		
-411	Muinane	móomo 	PALM 	137			175	*moomo,CHONTA		
+409	PBoM	moomo	CHONTA PALM	137			175	*moomo	*meéme, *meéme-(ʔegííʔo), *meéme-(ʔeǰííʔyo)	
+410	Bora	meéme	CHONTA PALM	137			175	*moomo		
+411	Muinane	móomo 	CHONTA PALM	137			175	*moomo		
 412	PBoM	ɨmo	SALT  	138			179	*ɨmo	(ɯ́moʔo), (áit(t)ega), (kánáámaá), (kánaáma)	Leipzig-Jakarta
 413	Bora	ɯ́me 	SALT  	138	vegetable salt		179	*ɨmo		Leipzig-Jakarta
 414	Muinane	ɨ́muʔu 	SALT  	138	vegetable salt 		179	*ɨmo		Leipzig-Jakarta
@@ -476,36 +476,36 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 475	PBoM	dii-ʔutʦe	THY HAND 	159			209	*dii-ʔutʦe	*díí-ʔótʦɨ	
 476	Bora	tí-ʔʲóhʦʰɨ 	THY HAND 	159	2-hand		209	*dii-ʔutʦe		
 477	Muinane	díí-ʔuse 	THY HAND 	159			209	*dii-ʔutʦe		
-478	PBoM	dii-bo	ʔutʦe HIS HAND 	160			210	*dii-bo	*(díí)-be-ʔótʦɨ, *(aáí)-be-ʔótʦɨ, *(ááí-di)-ʔotʦɨ	
-479	Bora	tíípʲe ʔóhʦʰɨ	ʔutʦe HIS HAND 	160			210	*dii-bo		
-480	Muinane	dííbo ʔuse 	ʔutʦe HIS HAND 	160			210	*dii-bo		
+478	PBoM	dii-bo ʔutʦe	HIS HAND 	160			210	*dii-bo ʔutʦe	*(díí)-be-ʔótʦɨ, *(aáí)-be-ʔótʦɨ, *(ááí-di)-ʔotʦɨ	
+479	Bora	tíípʲe ʔóhʦʰɨ	HIS HAND 	160			210	*dii-bo ʔutʦe		
+480	Muinane	dííbo ʔuse 	HIS HAND 	160			210	*dii-bo ʔutʦe		
 481	PBoM	mo-ʔutʦe-no	OUR HANDS  	161			211	*mo-ʔutʦe-no	*mé-ʔótʦɨ-ne	Leipzig-Jakarta
 482	Bora	mé-ʔóhʦʰɨ-ne 	OUR HANDS  	161	our-hand-pl		211	*mo-ʔutʦe-no		Leipzig-Jakarta
 483	Muinane	mú-ʔuse-ne 	OUR HANDS  	161			211	*mo-ʔutʦe-no		Leipzig-Jakarta
-484	PBoM	amɨɨʔai	ʔutʦe-no YOUR HANDS  	162			212	*amɨɨʔai	*amɯ́ɯ́ʔ-áí-ʔótʦɨ-ne	Leipzig-Jakarta
-485	Bora	amɯ́ʔá ʔóhʦʰɨne	ʔutʦe-no YOUR HANDS  	162			212	*amɨɨʔai		Leipzig-Jakarta
-486	Muinane	amɨ́ɨ́ʔai ʔuse-ne 	ʔutʦe-no YOUR HANDS  	162			212	*amɨɨʔai		Leipzig-Jakarta
-487	PBoM	diito	ʔutʦe-no THEIR HANDS 	163			213	*diito	*díí-te-ʔótʦɨ-ne, *(aáí)-te-ʔótʦɨ-ne	
-488	Bora	tíítʰʲe ʔóhʦʰɨne	ʔutʦe-no THEIR HANDS 	163			213	*diito		
-489	Muinane	díítoʔusene 	ʔutʦe-no THEIR HANDS 	163			213	*diito		
+484	PBoM	amɨɨʔai ʔutʦe-no	YOUR HANDS  	162			212	*amɨɨʔai ʔutʦe-no	*amɯ́ɯ́ʔ-áí-ʔótʦɨ-ne	Leipzig-Jakarta
+485	Bora	amɯ́ʔá ʔóhʦʰɨne	YOUR HANDS  	162			212	*amɨɨʔai ʔutʦe-no		Leipzig-Jakarta
+486	Muinane	amɨ́ɨ́ʔai ʔuse-ne 	YOUR HANDS  	162			212	*amɨɨʔai ʔutʦe-no		Leipzig-Jakarta
+487	PBoM	diito ʔutʦe-no	THEIR HANDS 	163			213	*diito ʔutʦe-no	*díí-te-ʔótʦɨ-ne, *(aáí)-te-ʔótʦɨ-ne	
+488	Bora	tíítʰʲe ʔóhʦʰɨne	THEIR HANDS 	163			213	*diito ʔutʦe-no		
+489	Muinane	díítoʔusene 	THEIR HANDS 	163			213	*diito ʔutʦe-no		
 490	PBoM	tai-tɨɨbu-ga	MY BOW  	164			214	*tai-tɨɨbu-ga	*táí-tɯ́ɯ́bo-ga	Leipzig-Jakarta
 491	Bora	tʰá-tʰʲɯ́poo-kʷa 	MY BOW  	164	my-shoot-cl:plank		214	*tai-tɨɨbu-ga		Leipzig-Jakarta
 492	Muinane	ta-tʲɨ́ɨ́bu-ga 	MY BOW  	164			214	*tai-tɨɨbu-ga		Leipzig-Jakarta
 493	PBoM	dii-tɨɨbu-ga	THY BOW 	165			215	*dii-tɨɨbu-ga		
 494	Bora	tí-tʰʲɯ́poo-kʷa	THY BOW 	165			215	*dii-tɨɨbu-ga		
 495	Muinane	di-tɨ́ɨ́bu-ga 	THY BOW 	165			215	*dii-tɨɨbu-ga		
-496	PBoM	dii-bo	tɨɨbu-ga HIS BOW 	166			216	*dii-bo		
-497	Bora	tíípʲe tʰɯ́poo-kʷa	tɨɨbu-ga HIS BOW 	166			216	*dii-bo		
-498	Muinane	dííbo tɨ́ɨ́bu-ga 	tɨɨbu-ga HIS BOW 	166			216	*dii-bo		
-499	PBoM	mo-tɨɨbu-ga	OUR BOW 	167			217	*mo-tɨɨbu-ga		
+496	PBoM	dii-bo tɨɨbu-ga	HIS BOW 	166			216	*dii-bo tɨɨbu-ga		
+497	Bora	tíípʲe tʰɯ́poo-kʷa	HIS BOW 	166			216	*dii-bo tɨɨbu-ga		
+498	Muinane	dííbo tɨ́ɨ́bu-ga 	HIS BOW 	166			216	*dii-bo tɨɨbu-ga		
+499	PBoM	mo-tɨɨbu-ga	OUR BOW 	167			217	*mo-tɨɨbu-ga 		
 500	Bora	mé-tʰɯ́poo-kʷa	OUR BOW 	167			217	*mo-tɨɨbu-ga		
 501	Muinane	mo-tɨ́ɨ́bu-ga 	OUR BOW 	167			217	*mo-tɨɨbu-ga		
-502	PBoM	amɨɨʔai	tɨɨbu-ga YOUR BOW 	168			218	*amɨɨʔai		
-503	Bora	amɯ́ʔá tʰɯ́poo-kʷa	tɨɨbu-ga YOUR BOW 	168			218	*amɨɨʔai		
-504	Muinane	amɨ́ɨ́ʔai tɨ́ɨ́bu-ga 	tɨɨbu-ga YOUR BOW 	168			218	*amɨɨʔai		
-505	PBoM	dii-to	tɨɨbu-ga THEIR BOW 	169			219	*dii-to		
-506	Bora	tíítʰʲe tʰɯ́poo-kʷa	tɨɨbu-ga THEIR BOW 	169			219	*dii-to		
-507	Muinane	dííto tɨ́ɨ́bu-ga 	tɨɨbu-ga THEIR BOW 	169			219	*dii-to		
+502	PBoM	amɨɨʔai tɨɨbu-ga	YOUR BOW 	168			218	*amɨɨʔai tɨɨbu-ga		
+503	Bora	amɯ́ʔá tʰɯ́poo-kʷa	YOUR BOW 	168			218	*amɨɨʔai tɨɨbu-ga		
+504	Muinane	amɨ́ɨ́ʔai tɨ́ɨ́bu-ga 	YOUR BOW 	168			218	*amɨɨʔai tɨɨbu-ga		
+505	PBoM	dii-to tɨɨbu-ga	THEIR BOW 	169			219	*dii-to tɨɨbu-ga		
+506	Bora	tíítʰʲe tʰɯ́poo-kʷa	THEIR BOW 	169			219	*dii-to tɨɨbu-ga		
+507	Muinane	dííto tɨ́ɨ́bu-ga 	THEIR BOW 	169			219	*dii-to tɨɨbu-ga		
 508	PBoM	mita-no,giraa	BIG  	170			220	*mita-no,*giraa	*mita-ne, *giraa-ne, *kee-(pi)-ne, (bókkɯ-ne), (…)	Leipzig-Jakarta, Swadesh
 509	Bora	mitʰʲa-ne 	BIG  	170	big-inan 	Note: see 262, ʧija	220	*mita-no,*giraa		Leipzig-Jakarta, Swadesh
 510	Muinane	mítʲa-no 	BIG  	170	big-inan, gíráa-no 		220	*mita-no,*giraa		Leipzig-Jakarta, Swadesh
@@ -674,9 +674,9 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 673	PBoM	gaʔpo	FLY  	225			284	*gaʔpo	*gaʔape, (gaaméne)	Leipzig-Jakarta, Swadesh
 674	Bora	kʷaʔpʰe	FLY  	225			284	*gaʔpo		Leipzig-Jakarta, Swadesh
 675	Muinane	gáʔáɸe-ʔi 	FLY  	225			284	*gaʔpo		Leipzig-Jakarta, Swadesh
-676	PBoM	ɨgo	*poo WALK  	226			285	*ɨgo	*ɯge, (tadɯ́ʔkɯ), (rixákko), (peé)	Swadesh
-677	Bora	ɯʧe, pʰeé	*poo WALK  	226			285	*ɨgo		Swadesh
-678	Muinane	ɨ́ge-ʔi, ɸée-ʔi 	*poo WALK  	226	go, ɸúu-ʔi 		285	*ɨgo		Swadesh
+676	PBoM	ɨgo, poo	WALK  	226			285	*ɨgo, *poo	*ɯge, (tadɯ́ʔkɯ), (rixákko), (peé)	Swadesh
+677	Bora	ɯʧe, pʰeé	WALK  	226			285	*ɨgo, *poo		Swadesh
+678	Muinane	ɨ́ge-ʔi, ɸée-ʔi 	WALK  	226	go, ɸúu-ʔi 		285	*ɨgo, *poo		Swadesh
 679	PBoM	ʦaa-	COME  	227			286	*ʦaa-	*ʦaá-(pé), (náʔxɨʔe)	Leipzig-Jakarta, Swadesh
 680	Bora	ʦʰaá	COME  	227			286	*ʦaa-		Leipzig-Jakarta, Swadesh
 681	Muinane	sáá-ʔi 	COME  	227			286	*ʦaa-		Leipzig-Jakarta, Swadesh
@@ -728,9 +728,9 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 727	PBoM	muuai	SEA 	243			311	*muuai	*moóai, (ɨ́ɨ́βámɯ́ dokó-ppáiko)	
 728	Bora	moóa	SEA 	243			311	*muuai		
 729	Muinane	múúai 	SEA 	243		Note =49,379 	311	*muuai		
-730	PBoM		peepai-no,*maa- WET 	244			312	*	(pɨ́ɨ́-ppai-ne), (mááí-ne), (mɯrííβe), (maxááβe), (reʔre), (ɯɯ́rɯ), (ɯɯrɯ́βe), (rerékkɯ)	
-731	Bora	mahááβe, pʰɨ́ɨ́pʰá-ɲe 	peepai-no,*maa- WET 	244	moist-inan		312	*		
-732	Muinane	mááɲo, ɸééɸa-ɲo 	peepai-no,*maa- WET 	244		Note: see 403 	312	*		
+730	PBoM	peepai-no, maa- 	WET 	244			312	*peepai-no, *maa-	(pɨ́ɨ́-ppai-ne), (mááí-ne), (mɯrííβe), (maxááβe), (reʔre), (ɯɯ́rɯ), (ɯɯrɯ́βe), (rerékkɯ)	
+731	Bora	mahááβe, pʰɨ́ɨ́pʰá-ɲe 	WET 	244	moist-inan		312	*peepai-no, *maa-		
+732	Muinane	mááɲo, ɸééɸa-ɲo 	WET 	244		Note: see 403 	312	*peepai-no, *maa-		
 733	PBoM	nittɨ-	WASH 	245			313	*nittɨ-	*nittɯ́-(kɯ), (gáiʦáiʦaʔxɯ́kɯ, gáčáčaʔxɯ́kɯ), (íǰoáko), (íbɯ́nɯáko)	
 734	Bora	nihtʰʲɯ	WASH 	245			313	*nittɨ-		
 735	Muinane	níttɨ-ʔi 	WASH 	245		Note: see 482 	313	*nittɨ-		
@@ -848,7 +848,7 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 847	PBoM	ebaʦu-,buuʦu-	BLOW  	283			365	*ebaʦu-,buuʦu-	*ɨ́báʦ(ɯ)(ʔxáko), *bootʦó-(kɯ), *gitʦɯ́-(kɯ), (poonɯ), (gíbó), (βoβókkɯ), (iókko), (βooíkɯ), (áápɯɯ́kɯ), (číyoáko), (ɯɯ́bo)	Leipzig-Jakarta
 848	Bora	ɨpáʦʰo, pohʦʰókʰɯ	BLOW  	283			365	*ebaʦu-,buuʦu-		Leipzig-Jakarta
 849	Muinane	ébásu-ʔi, búúsu-ʔi 	BLOW  	283			365	*ebaʦu-,buuʦu-		Leipzig-Jakarta
-850	PBoM	?igi	FEAR 	284			366	?*igi	?*igí, *(ai)n(ó)ɯʔ(i)kko(), *nɯʔ(néβe), (ápiiʦóge, ápiičóge), (áábiméi), (ámɨ́ʦáraʔkóge), (nóɯʔkóge)	
+850	PBoM	igi	FEAR 	284			366	?*igi	?*igí, *(ai)n(ó)ɯʔ(i)kko(), *nɯʔ(néβe), (ápiiʦóge, ápiičóge), (áábiméi), (ámɨ́ʦáraʔkóge), (nóɯʔkóge)	
 851	Bora	iʧi	FEAR 	284			366	?*igi		
 852	Muinane	ígi-ʔi 	FEAR 	284		Note =542 	366	?*igi		
 853	PBoM	aamɨ-ʦu	SQUEEZE 	285			367	*aamɨ-ʦu	*(m)aámɯ, *aamɯ́-ʦó, ((ai)n(ai)nɨko), (gátiainɨ), (páíʦíɯʔxáko, páčíɯʔxáko), (…)	Leipzig-Jakarta
@@ -905,7 +905,7 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 904	PBoM	peeka	BITTER MANIOC (PLANT) 	302			387	*peeka		
 905	Bora	pʰɨɨ́kʰa	BITTER MANIOC (PLANT) 	302			387	*peeka		
 906	Muinane	ɸéeka 	BITTER MANIOC (PLANT) 	302			387	*peeka		
-907	PBoM	?ká()()()ʔaaku	PUSH 	303			388	?*ká()()()ʔaaku		
+907	PBoM	ká()()()ʔaaku	PUSH 	303			388	?*ká()()()ʔaaku		
 908	Bora	kʰáβɯ́i-ʔhʲákʰo 	PUSH 	303	push-?		388	?*ká()()()ʔaaku		
 909	Muinane	kábújaaku-ʔi  	PUSH 	303		push-predicate	388	?*ká()()()ʔaaku		
 910	PBoM	áittɨme	FIND 	304			389	*áittɨme		
@@ -1022,7 +1022,7 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 1021	PBoM	hɨβiiba	BASKET 	341			456	*hɨβiiba		
 1022	Bora	ɯ́βiípa	BASKET 	341			456	*hɨβiiba		
 1023	Muinane	hɨ́ííbai 	BASKET 	341			456	*hɨβiiba		
-1024	PBoM	?hɨ()aʔʦ()	FOAM 	342			458	?*hɨ()aʔʦ()		
+1024	PBoM	hɨ()aʔʦ()	FOAM 	342			458	?*hɨ()aʔʦ()		
 1025	Bora	ɯráʔʦʰa 	FOAM 	342			458	?*hɨ()aʔʦ()		
 1026	Muinane	hɨ́βáase 	FOAM 	342			458	?*hɨ()aʔʦ()		
 1027	PBoM	pééno	MIDDLE 	343			461	*pééno		
@@ -1100,9 +1100,9 @@ ID	DOCULECT	FORM	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCAB
 1099	PBoM	dii-t()-pe	THEY TWO (F.) 	367			498	*dii-t()-pe		
 1100	Bora	tiitʰʲé-pʰɨ 	THEY TWO (F.) 	367	3-pl-dual.fem		498	*dii-t()-pe		
 1101	Muinane	díítɨɸe 	THEY TWO (F.) 	367			498	*dii-t()-pe		
-1102	PBoM	i-	HER… 	368			499	*i-		
-1103	Bora	i-	HER… 	368			499	*i-		
-1104	Muinane	i- 	HER… 	368			499	*i-		
+1102	PBoM	i-	HER	368			499	*i-		
+1103	Bora	i-	HER	368			499	*i-		
+1104	Muinane	i- 	HER	368			499	*i-		
 1105	PBoM	duu	EAT MEAT 	369			500	*duu		
 1106	Bora	toó	EAT MEAT 	369			500	*duu		
 1107	Muinane	dúu-ʔi 	EAT MEAT 	369			500	*duu		

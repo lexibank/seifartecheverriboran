@@ -14,6 +14,9 @@ The dataset provides the reconstructions for Proto Bora-Muinane, a small languag
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Seifart-2015-410](https://concepticon.clld.org/contributions/Seifart-2015-410)
 ## Notes
 
 ### Creating the ortho-profiles
@@ -25,16 +28,16 @@ While converting the dataset to CLDF, we noticed some reconstructed word forms o
 
 
 ![Glottolog: 66%](https://img.shields.io/badge/Glottolog-66%25-orange.svg "Glottolog: 66%")
-![Concepticon: 86%](https://img.shields.io/badge/Concepticon-86%25-yellowgreen.svg "Concepticon: 86%")
+![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 3
-- **Concepts:** 412
+- **Concepts:** 408
 - **Lexemes:** 1,364
 - **Sources:** 1
-- **Synonymy:** 1.10
+- **Synonymy:** 1.12
 - **Invalid lexemes:** 0
 - **Tokens:** 9,081
 - **Segments:** 52 (0 BIPA errors, 0 CLTS sound class errors, 50 CLTS modified)
@@ -44,10 +47,10 @@ While converting the dataset to CLDF, we noticed some reconstructed word forms o
 
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
-Frank Seifart | | Original data collection | Author
-Juan Álvaro Echeverri | | Original data collection | Author
-Frederic Blum | @Tarotis | CLDF conversion | Other
-Carlos Barrientos | @MuffinLinwist | CLDF conversion | Other
+Frank Seifart | | Original data collection | Author |
+Juan Álvaro Echeverri | | Original data collection | Author |
+Frederic Blum | @FrederiBlum | CLDF conversion | Other |
+Carlos Barrientos | @MuffinLinwist | CLDF conversion | Other |
 
 
 

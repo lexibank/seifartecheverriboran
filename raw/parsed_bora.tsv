@@ -116,9 +116,9 @@ ID	DOCULECT	VALUE	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCA
 115	PBoM	nɨ-ppai()u	WATER  	39			48	*nɨ-ppai()u	*nɯ́-ppaiko {water-liquid}	Leipzig-Jakarta, Swadesh
 116	Bora	nɯ́-hpʰakʰʲo 	WATER  	39	water-cl:liquid		48	*nɨ-ppai()u		Leipzig-Jakarta, Swadesh
 117	Muinane	nɨ́-ɸáíʔu 	WATER  	39			48	*nɨ-ppai()u		Leipzig-Jakarta, Swadesh
-118	PBoM	too-ʔi,muuai	RIVER 	40			49	*too-ʔi,*muuai	*moóai {311}, *teé-ʔi {river-line,250,71}	
-119	Bora	tʰeé-ʔi 	RIVER 	40	river-cl, moóa		49	*too-ʔi,*muuai		
-120	Muinane	téé-ʔi, múúai 	RIVER 	40		Note: see 71,250,311,379 	49	*too-ʔi,*muuai		
+118	PBoM	too-ʔi,muuai	river,big river 	40		River	49	*too-ʔi,*muuai	*moóai {311}, *teé-ʔi {river-line,250,71}	
+119	Bora	tʰeé-ʔi 	river,big river 	40	river-cl, moóa	River	49	*too-ʔi,*muuai		
+120	Muinane	téé-ʔi, múúai	river,big river 	40	River	Note: see 71,250,311,379 	49	*too-ʔi,*muuai		
 121	PBoM	kaaha	SWAMP 	41			52	*kaaha	*(ipá)-káa-xa-(neba), *káa-(mɨ)	
 122	Bora	kʰááhá-nepa	SWAMP 	41			52	*kaaha		
 123	Muinane	íɸá-káaha 	SWAMP 	41			52	*kaaha		
@@ -203,9 +203,9 @@ ID	DOCULECT	VALUE	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCA
 202	PBoM	piikkɨ-gai	FISH HOOK 	68			87	*piikkɨ-gai	*pííkkɯ-gai	
 203	Bora	pʰííhʲhɯ-kʷa 	FISH HOOK 	68	fishing-cl:plank		87	*piikkɨ-gai		
 204	Muinane	ɸííkkɨ́-gai 	FISH HOOK 	68			87	*piikkɨ-gai		
-205	PBoM	hɨgaa-he	STEEL AXE 	69			88	*hɨgaa-he	*xɯ́gaá-xɨ	
-206	Bora	ɯ́kʷaá-hɨ 	STEEL AXE 	69	stone-cl:flat		88	*hɨgaa-he		
-207	Muinane	hɨ́gáá-he 	STEEL AXE 	69		Note =382 	88	*hɨgaa-he		
+205	PBoM	hɨgaa-he	steel axe,stone axe 	69			88	*hɨgaa-he	*xɯ́gaá-xɨ	
+206	Bora	ɯ́kʷaá-hɨ 	steel axe,stone axe 	69	stone-cl:flat		88	*hɨgaa-he		
+207	Muinane	hɨ́gáá-he 	steel axe,stone axe 	69		Note =382 	88	*hɨgaa-he		
 208	PBoM	n()ʦ()-ga-	KNIFE 	70			89	*n()ʦ()-ga-	*(mɨ́ɨ́(y)oʔo), *n(ɨɨ)ʦ(ɯ́)ga-(gayɯ)	
 209	Bora	nɨɨʦʰɯ́-kʷa 	KNIFE 	70	?-cl:plank		89	*n()ʦ()-ga-		
 210	Muinane	níísú-ga 	KNIFE 	70		Note =383 	89	*n()ʦ()-ga-		
@@ -350,21 +350,21 @@ ID	DOCULECT	VALUE	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCA
 349	PBoM	bahɨ	BUSH 	117			149	*bahɨ	*báxɯɯ́	
 350	Bora	páhɯɯ́	BUSH 	117			149	*bahɨ		
 351	Muinane	báhɨ 	BUSH 	117			149	*bahɨ		
-352	PBoM	namettɨhe,ʦukkum()he	OPEN GRASSLAND 	118			150	*namettɨhe,*ʦukkum()he		
-353	Bora	nómɨ́htʰɯhɨ, ʦʰóhkʰómɯhɨ	OPEN GRASSLAND 	118			150	*namettɨhe,*ʦukkum()he		
-354	Muinane	námettɨhe, súkkumehe 	OPEN GRASSLAND 	118		Note: see 161	150	*namettɨhe,*ʦukkum()he		
+352	PBoM	namettɨhe,ʦukkum()he	grassland,open grassland 	118			150	*namettɨhe,*ʦukkum()he		
+353	Bora	nómɨ́htʰɯhɨ, ʦʰóhkʰómɯhɨ	grassland,open grassland 	118			150	*namettɨhe,*ʦukkum()he		
+354	Muinane	námettɨhe, súkkumehe 	grassland,open grassland 	118		Note: see 161	150	*namettɨhe,*ʦukkum()he		
 355	PBoM	gahɨɨ,baaɨɨ	HILL 	119			151	*gahɨɨ,*baaɨɨ	*gáxɯɯ́, *(káme)-gáxɯ, *(pá)-gaxɯ, *báaɯɯ́, *(pá)-ʔbaɯ {293}	
 356	Bora	kʷáhɯɯ́, páɯɯ́	HILL 	119			151	*gahɨɨ,*baaɨɨ		
 357	Muinane	gáhɨ, báaɨ 	HILL 	119			151	*gahɨɨ,*baaɨɨ		
 358	PBoM	ɨmo-ʔo	TREE  	120			152	*ɨmo-ʔo	*ɯ́me-ʔe {tree-wood,60}	Leipzig-Jakarta, Swadesh
 359	Bora	ɯ́me-ʔe 	TREE  	120	wood-cl:tree		152	*ɨmo-ʔo		Leipzig-Jakarta, Swadesh
 360	Muinane	ɨ́mo-ʔo 	TREE  	120			152	*ɨmo-ʔo		Leipzig-Jakarta, Swadesh
-361	PBoM	aame	LEAF  	121			153	*aame	*(ɨ́na)-ʔáámɨ, (-xɯ́ɯ́ʔoó), (mɨ́ɨ́ɯmɯ)	Leipzig-Jakarta, Swadesh
-362	Bora	ʔáámɨɨ́	LEAF  	121			153	*aame		Leipzig-Jakarta, Swadesh
-363	Muinane	áame 	LEAF  	121		Note =154 	153	*aame		Leipzig-Jakarta, Swadesh
-364	PBoM	-ʔaame	TREE LEAF 	122			154	*-ʔaame	*(ɨ́na)-ʔáamɨ	
-365	Bora	ɨ́naʔáámɨ	TREE LEAF 	122			154	*-ʔaame		
-366	Muinane	áame 	TREE LEAF 	122		Note =153	154	*-ʔaame		
+361	PBoM	aame	leaf,tree leaf  	121			153	*aame	*(ɨ́na)-ʔáámɨ, (-xɯ́ɯ́ʔoó), (mɨ́ɨ́ɯmɯ)	Leipzig-Jakarta, Swadesh
+362	Bora	ʔáámɨɨ́	leaf,tree leaf  	121			153	*aame		Leipzig-Jakarta, Swadesh
+363	Muinane	áame 	leaf,tree leaf  	121		Note =154 	153	*aame		Leipzig-Jakarta, Swadesh
+364	PBoM	-ʔaame	leaf,tree leaf 	122			154	*-ʔaame	*(ɨ́na)-ʔáamɨ	
+365	Bora	ɨ́naʔáámɨ	leaf,tree leaf 	122			154	*-ʔaame		
+366	Muinane	áame 	leaf,tree leaf 	122		Note =153	154	*-ʔaame		
 367	PBoM	ba(i)(k)ko-	ROOT  	123			158	*ba(i)(k)ko-	*ba(i)(k)ké-(ʔeke), *bá(i)(k)keé, (-tane)	Leipzig-Jakarta, Swadesh
 368	Bora	páhkʰʲeé	ROOT  	123			158	*ba(i)(k)ko-		Leipzig-Jakarta, Swadesh
 369	Muinane	bakóʔoko 	ROOT  	123			158	*ba(i)(k)ko-		Leipzig-Jakarta, Swadesh
@@ -881,15 +881,15 @@ ID	DOCULECT	VALUE	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCA
 880	PBoM	-g()ɨ	DIMINUTIVE 	294			378	*-g()ɨ		
 881	Bora	-kʷɯ.ɯ	DIMINUTIVE 	294			378	*-g()ɨ		
 882	Muinane	-gajɨ 	DIMINUTIVE 	294		Note: The Bora form is bisyllabic	378	*-g()ɨ		
-883	PBoM	muuai	BIG RIVER 	295			379	*muuai		
-884	Bora	moóa	BIG RIVER 	295			379	*muuai		
-885	Muinane	múúai 	BIG RIVER 	295		Note =49,311 	379	*muuai		
+883	PBoM	muuai	river,big river 	295		Big River	379	*muuai		
+884	Bora	moóa	river,big river 	295		Big River	379	*muuai		
+885	Muinane	múúai 	river,big river 	295		Note =49,311; Big River 	379	*muuai		
 886	PBoM	baa-(ʔ)o-ha	LONGHOUSE 	296			380	*baa-(ʔ)o-ha		
 887	Bora	pá-e-haá 	LONGHOUSE 	296	below-belong-house		380	*baa-(ʔ)o-ha		
 888	Muinane	báa-ʔo-ha	LONGHOUSE 	296			380	*baa-(ʔ)o-ha		
-889	PBoM	hɨgaa-he	STONE AXE 	297			382	*hɨgaa-he		
-890	Bora	ɯ́kʷaá-hɨ 	STONE AXE 	297	stone-cl:disc		382	*hɨgaa-he		
-891	Muinane	hɨ́gáá-he 	STONE AXE 	297		Note: = 88	382	*hɨgaa-he		
+889	PBoM	hɨgaa-he	steel axe,stone axe 	297			382	*hɨgaa-he		
+890	Bora	ɯ́kʷaá-hɨ 	steel axe,stone axe 	297	stone-cl:disc		382	*hɨgaa-he		
+891	Muinane	hɨ́gáá-he 	steel axe,stone axe 	297		Note: = 88	382	*hɨgaa-he		
 892	PBoM	n()ʦ()ga	MACHETE 	298			383	*n()ʦ()ga		
 893	Bora	nɨɨʦʰɯ́kʷa	MACHETE 	298			383	*n()ʦ()ga		
 894	Muinane	níísuga 	MACHETE 	298		Note =89	383	*n()ʦ()ga		
@@ -989,9 +989,9 @@ ID	DOCULECT	VALUE	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCA
 988	PBoM	ba	PAY A VISIT 	330			440	*ba		
 989	Bora	paa-ʔi	PAY A VISIT 	330			440	*ba		
 990	Muinane	báa-ʔi 	PAY A VISIT 	330			440	*ba		
-991	PBoM	namettɨhe	GRASSLAND 	331			441	*namettɨhe		
-992	Bora	nómɨ́htʰɯhɨ	GRASSLAND 	331			441	*namettɨhe		
-993	Muinane	námettɨhe 	GRASSLAND 	331		Note: =150, dialect. variantnámettehe 	441	*namettɨhe		
+991	PBoM	namettɨhe	grassland,open grassland 	331			441	*namettɨhe		
+992	Bora	nómɨ́htʰɯhɨ	grassland,open grassland 	331			441	*namettɨhe		
+993	Muinane	námettɨhe 	grassland,open grassland 	331		Note: =150, dialect. variantnámettehe 	441	*namettɨhe		
 994	PBoM	ííhɨ	YESTERDAY  	332			442	*ííhɨ		Leipzig-Jakarta
 995	Bora	iíhʲɯ	YESTERDAY  	332			442	*ííhɨ		Leipzig-Jakarta
 996	Muinane	ííhɨ 	YESTERDAY  	332			442	*ííhɨ		Leipzig-Jakarta
@@ -1142,9 +1142,9 @@ ID	DOCULECT	VALUE	CONCEPT	COGID	MORPHEMES	NOTE	PROTOSET	PROTOFORM	APBM	BASICVOCA
 1141	PBoM	moomo	PEACH PALM (BACTRIS GASIPAES) 	381			513	*moomo		
 1142	Bora	mééme	PEACH PALM (BACTRIS GASIPAES) 	381			513	*moomo		
 1143	Muinane	móomo 	PEACH PALM (BACTRIS GASIPAES) 	381			513	*moomo		
-1144	PBoM	taaβi-ʔo	CECROPIA SP. 	382			514	*taaβi-ʔo		
-1145	Bora	tʰaaβíʔʲe 	CECROPIA SP. 	382	Cecropia-cl:tree		514	*taaβi-ʔo		
-1146	Muinane	tááβí-ʔo	CECROPIA SP. 	382			514	*taaβi-ʔo		
+1144	PBoM	taaβi-ʔo	cecropia 	382			514	*taaβi-ʔo		
+1145	Bora	tʰaaβíʔʲe 	cecropia 	382	Cecropia-cl:tree		514	*taaβi-ʔo		
+1146	Muinane	tááβí-ʔo	cecropia 	382			514	*taaβi-ʔo		
 1147	PBoM	haaʔo	MACAMBO FRUIT (THEOBROMA BICOLOR) 	383			515	*haaʔo		
 1148	Bora	aáʔe	MACAMBO FRUIT (THEOBROMA BICOLOR) 	383			515	*haaʔo		
 1149	Muinane	hááʔo 	MACAMBO FRUIT (THEOBROMA BICOLOR) 	383			515	*haaʔo		

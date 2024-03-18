@@ -32,16 +32,18 @@ class Dataset(BaseDataset):
 
         # add concept
         concepts = {}
-        for concept in self.concepts:
-            idx = concept["ID"] + "_" + slug(concept["ENGLISH"])
+        for concept in self.conceptlists[0].concepts.values():
+            idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
+            if int(concept.id.split("-")[-1]) in (26, 232):
+                print(concept)
             args.writer.add_concept(
                 ID=idx,
-                Name=concept["ENGLISH"],
-                Concepticon_ID=concept["CONCEPTICON_ID"],
-                Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                Name=concept.english,
+                Concepticon_ID=concept.concepticon_id,
+                Concepticon_Gloss=concept.concepticon_gloss,
             )
-            concepts[concept["ENGLISH"]] = idx
 
+            concepts[concept.english] = idx
         args.log.info("added concepts")
 
         # add language

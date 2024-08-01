@@ -20,10 +20,10 @@ class CustomLexeme(Lexeme):
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "seifartecheverriboran"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     lexeme_class = CustomLexeme
-    form_spec = FormSpec(
-            separators=","
-            )
+    form_spec = FormSpec(separators=",")
 
     def cmd_makecldf(self, args):
         # add bib
@@ -34,8 +34,6 @@ class Dataset(BaseDataset):
         concepts = {}
         for concept in self.conceptlists[0].concepts.values():
             idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
-            if int(concept.id.split("-")[-1]) in (26, 232):
-                print(concept)
             args.writer.add_concept(
                 ID=idx,
                 Name=concept.english,
@@ -49,10 +47,8 @@ class Dataset(BaseDataset):
         # add language
         for language in self.languages:
             args.writer.add_language(
-                    ID=language["ID"],
-                    Name=language["Name"],
-                    Glottocode=language["Glottocode"]
-                    )
+                ID=language["ID"], Name=language["Name"], Glottocode=language["Glottocode"]
+            )
         args.log.info("added languages")
 
         # add data
@@ -68,7 +64,7 @@ class Dataset(BaseDataset):
             protoset,
             protoform,
             apbm,
-            basicvocabulary
+            basicvocabulary,
         ) in pb(
             wl.iter_rows(
                 "doculect",
@@ -80,9 +76,9 @@ class Dataset(BaseDataset):
                 "protoset",
                 "protoform",
                 "apbm",
-                "basicvocabulary"
+                "basicvocabulary",
             ),
-            desc="cldfify"
+            desc="cldfify",
         ):
             args.writer.add_forms_from_value(
                 Parameter_ID=concepts[concept.lower()],
@@ -95,5 +91,5 @@ class Dataset(BaseDataset):
                 BasicVocabulary=basicvocabulary,
                 Cognacy=cogid,
                 Comment=note,
-                Source="Seifart2015"
+                Source="Seifart2015",
             )

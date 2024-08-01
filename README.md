@@ -1,5 +1,7 @@
 # CLDF dataset derived from Seifart and Echeverri's "Proto Bora-Muinane.
 
+[![CLDF validation](https://github.com/lexibank/seifartecheverriboran/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/seifartecheverriboran/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -27,14 +29,15 @@ While converting the dataset to CLDF, we noticed some reconstructed word forms o
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/seifartecheverriboran/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/seifartecheverriboran/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 66%](https://img.shields.io/badge/Glottolog-66%25-orange.svg "Glottolog: 66%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 3
-- **Concepts:** 408
+- **Varieties:** 3 (linked to 2 different Glottocodes)
+- **Concepts:** 408 (linked to 351 different Concepticon concept sets)
 - **Lexemes:** 1,364
 - **Sources:** 1
 - **Synonymy:** 1.12

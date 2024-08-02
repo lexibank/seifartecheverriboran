@@ -1,4 +1,4 @@
-# CLDF dataset derived from Seifart and Echeverri's "Proto Bora-Muinane.
+# CLDF dataset derived from Seifart and Echeverri's "Proto Bora-Muinane" from 2015
 
 [![CLDF validation](https://github.com/lexibank/seifartecheverriboran/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/seifartecheverriboran/actions?query=workflow%3ACLDF-validation)
 

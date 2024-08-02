@@ -11,13 +11,13 @@
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Seifart and Echeverri's \"Proto Bora-Muinane.",
+    "dc:title": "CLDF dataset derived from Seifart and Echeverri's \"Proto Bora-Muinane\" from 2015",
     "dcat:accessURL": "https://github.com/lexibank/seifartecheverriboran",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/seifartecheverriboran",
             "rdf:type": "prov:Entity",
-            "dc:created": "84dd287",
+            "dc:created": "c5d8094",
             "dc:title": "Repository"
         },
         {

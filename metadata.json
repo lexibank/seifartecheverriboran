@@ -1,6 +1,6 @@
 {
     "id": "seifartecheverriboran",
-    "title": "CLDF dataset derived from Seifart and Echeverri's \"Proto Bora-Muinane.",
+    "title": "CLDF dataset derived from Seifart and Echeverri's \"Proto Bora-Muinane\" from 2015",
     "license": "CC-BY-4.0",
 	"conceptlist": "Seifart-2015-410",
     "citation": "Seifart, Frank and Echeverri, Juán Álvaro. 2015. Proto Bora-Muinane. LIAMES 15(2): 279-311.",
